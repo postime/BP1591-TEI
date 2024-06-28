@@ -1,0 +1,3541 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bretke Postil</title>
+      </titleStmt>
+      <publicationStmt>
+      </publicationStmt>
+      <sourceDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="edition" xml:id="BP_1591">
+    <body>
+      <div type="sermon" xml:id="BP_1591_I_Dom_3_Quadr">
+        <pb n="289"/>
+        <lb n="3" xml:id="BP_1591_I_Dom_3_Quadr_289_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_3#1">TRECZIOIE</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_3#2">NEDELIOIE</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_3_Quadr_289_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_4#1">Vſzgavveniu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_4#2">Euangelia,</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_4#3">Luc.</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_4#4">11.</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_3_Quadr_289_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_5#1">Paguldime</w>.
+        <lb n="6" xml:id="BP_1591_I_Dom_3_Quadr_289_6"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_6#1">IEſus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_6#2">iſchware</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_6#3">Welina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_6#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_6#5">tas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_6#6">buwa</w>
+        <lb n="7-8" xml:id="BP_1591_I_Dom_3_Quadr_289_7-8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_7-8#1">nebilis</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_7-8#3">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_7-8#4">nuſidawe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_7-8#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_7-8#6">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_7-8#7">cʒar<lb break="no"/>tas</w>
+        <lb n="8-9" xml:id="BP_1591_I_Dom_3_Quadr_289_8-9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_8-9#1">iſcheia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_8-9#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_8-9#3">prakalbeia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_8-9#4">nebilis</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_8-9#6">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_8-9#7">ſte<lb break="no"/>beioſi</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_3_Quadr_289_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_9#1">ßmones</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_9#3">A</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_9#4">nekurie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_9#5">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_9#6">iu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_9#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_9#8">biloia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_9#9">/</w>
+        <lb n="10-11" xml:id="BP_1591_I_Dom_3_Quadr_289_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_10-11#1">Ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_10-11#2">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_10-11#3">Beelʒebuba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_10-11#4">wirauſighi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_10-11#5">Cʒar<lb break="no"/>tu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_10-11#6">/</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_3_Quadr_289_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_11#1">iſchwara</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_11#2">Cʒartus</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_11#4">A</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_11#5">kiti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_11#6">gundina</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_289_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_12#1">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_12#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_12#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_12#4">noreia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_12#5">nog</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_12#6">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_12#7">ßenklo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_12#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_12#9">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_12#10">dangaus</w>.
+        <lb n="13" xml:id="BP_1591_I_Dom_3_Quadr_289_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_13#1">Bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_13#2">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_13#3">ßinnodams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_13#4">dumas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_13#5">iu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_13#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_13#7">biloia</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_289_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_14#1">iemus</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_14#3">Koßna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_14#4">karaliſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_14#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_14#6">iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_14#7">pati</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_14#8">ſaweje</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_289_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_15#1">neſandaraie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_15#2">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_15#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_15#4">ta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_15#5">bus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_15#6">puſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_15#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_15#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_15#9">namai</w>
+        <lb n="16-17" xml:id="BP_1591_I_Dom_3_Quadr_289_16-17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_16-17#1">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_16-17#2">namu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_16-17#3">puls</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_16-17#5">A</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_16-17#6">iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_16-17#7">taipaieg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_16-17#8">Sata<lb break="no"/>nas</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_289_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_17#1">pats</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_17#2">ſaweie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_17#3">neſandaroie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_17#4">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_17#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_289_17#6">kaipo</w>
+        <pb n="290"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_290_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_1#1">iſſilaikjs</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_1#2">karaliſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_1#3">io</w>?
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_1#5">Kadangi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_1#6">ius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_1#7">ſakote</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_1#8">/</w>
+        <lb n="2-3" xml:id="BP_1591_I_Dom_3_Quadr_290_2-3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_2-3#1">mane</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_2-3#2">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_2-3#3">Beelʒebuba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_2-3#4">iſchwaranti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_2-3#5">cʒar<lb break="no"/>tus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_2-3#6">/</w>
+        <lb n="3-4" xml:id="BP_1591_I_Dom_3_Quadr_290_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_3-4#1">A</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_3-4#2">ieigi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_3-4#3">aſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_3-4#4">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_3-4#5">Beelʒebuba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_3-4#6">iſchwa<lb break="no"/>rau</w>
+        <lb n="4-5" xml:id="BP_1591_I_Dom_3_Quadr_290_4-5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_4-5#1">cʒartus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_4-5#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_4-5#3">Sunus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_4-5#4">iuſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_4-5#5">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_4-5#6">ka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_4-5#7">ios</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_4-5#8">iſch<lb break="no"/>wara</w>?
+        <lb n="5" xml:id="BP_1591_I_Dom_3_Quadr_290_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_5#1">Todelei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_5#2">anis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_5#3">ſudʒomis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_5#4">iuſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_5#5">bus</w>.
+        <lb n="6" xml:id="BP_1591_I_Dom_3_Quadr_290_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_6#1">A</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_6#2">iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_6#3">aſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_6#4">pirſchtu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_6#5">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_290_6#6">iſchwarau</w>
+        <pb n="291"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_291_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_1#1">Cʒartus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_1#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_1#3">tada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_1#4">ateit</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_1#5">iuſump</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_1#6">karaliſta</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_3_Quadr_291_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_2#1">Diewo</w>.
+        <lb n="3-4" xml:id="BP_1591_I_Dom_3_Quadr_291_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_3-4#1">Kada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_3-4#2">ſilingas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_3-4#3">ſcharwinikas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_3-4#4">ſerkt</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_3-4#5">pa<lb break="no"/>laciu</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_3_Quadr_291_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_4#1">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_4#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_4#3">tada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_4#4">pakaiui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_4#5">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_4#6">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_4#7">daiktai</w>.
+        <lb n="5-6" xml:id="BP_1591_I_Dom_3_Quadr_291_5-6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_5-6#1">Akada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_5-6#2">ſilingeſnis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_5-6#3">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_5-6#4">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_5-6#5">ateit</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_5-6#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_5-6#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_5-6#8">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_5-6#9">per<lb break="no"/>gal</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_5-6#10">/</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_3_Quadr_291_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_6#1">tada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_6#2">atim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_6#3">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_6#4">ſcharwa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_6#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_6#6">kureme</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_6#7">ghis</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_3_Quadr_291_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_7#1">nuſſitikeia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_7#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_7#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_7#4">ſupleſchima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_7#5">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_7#6">iſchdalij</w>.
+        <lb n="8-9" xml:id="BP_1591_I_Dom_3_Quadr_291_8-9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#1">Kas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#2">ſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#3">manimi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#4">ne</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#5">eſti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#7">tas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#8">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#9">prieſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#10">ma<lb break="no"/>ne</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_8-9#11">/</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_3_Quadr_291_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_9#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_9#2">kas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_9#3">ſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_9#4">manimi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_9#5">nerēk</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_9#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_9#7">tas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_9#8">iſchbarſta</w>.
+        <lb n="10" xml:id="BP_1591_I_Dom_3_Quadr_291_10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_10#1">Kada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_10#2">necʒiſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_10#3">Dwaſe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_10#4">iſcheit</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_10#5">nog</w>.
+        <lb n="11-12" xml:id="BP_1591_I_Dom_3_Quadr_291_11-12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_11-12#1">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_11-12#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_11-12#3">tada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_11-12#4">waikſcʒoij</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_11-12#5">po</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_11-12#6">ſauſas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_11-12#7">wie<lb break="no"/>tas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_11-12#8">/</w>
+        <lb n="12-13" xml:id="BP_1591_I_Dom_3_Quadr_291_12-13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_12-13#1">ieſchkodama</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_12-13#2">atilſeghima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_12-13#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_12-13#4">a</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_12-13#5">neradu<lb break="no"/>ſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_12-13#6">/</w>
+        <lb n="13-14" xml:id="BP_1591_I_Dom_3_Quadr_291_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_13-14#1">bila</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_13-14#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_13-14#3">ſugriſchiu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_13-14#4">namoſna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_13-14#5">mana</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_13-14#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_13-14#7">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_13-14#8">ku<lb break="no"/>riu</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_291_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_14#1">iſcheiau</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_14#3">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_14#4">ateiuſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_14#5">randa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_14#6">ſchlotamis</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_291_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_15#1">iſchſchlotus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_15#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_15#3">iriſchgraßintus</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_15#5">Tada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_15#6">eit</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_3_Quadr_291_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_16#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_16#2">ima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_16#3">ſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_16#4">ſawimi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_16#5">ſeptinias</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_16#6">Dwaſias</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_16#7">/</w>
+        <lb n="17-18" xml:id="BP_1591_I_Dom_3_Quadr_291_17-18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_17-18#1">pikteſnes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_17-18#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_17-18#3">neng</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_17-18#4">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_17-18#5">pati</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_17-18#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_17-18#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_17-18#8">ieiuſias</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_17-18#9">gi<lb break="no"/>wen</w>
+        <lb n="18" xml:id="BP_1591_I_Dom_3_Quadr_291_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_18#1">tenai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_18#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_18#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_18#4">ſtow</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_18#5">paſkucʒiauſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_291_18#6">daiktai</w>
+        <pb n="292"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_292_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_1#1">ano</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_1#2">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_1#3">pikteſni</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_1#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_1#5">neng</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_1#6">pirmi</w>.
+        <lb n="2" xml:id="BP_1591_I_Dom_3_Quadr_292_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_2#1">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_2#2">nuſſidawe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_2#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_2#4">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_2#5">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_2#6">tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_2#7">kalbeia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_2#8">/</w>
+        <lb n="3-4" xml:id="BP_1591_I_Dom_3_Quadr_292_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_3-4#1">nekuri</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_3-4#2">moteriſchke</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_3-4#3">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_3-4#4">pulko</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_3-4#5">pakeluſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_3-4#6">bal<lb break="no"/>ſa</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_3_Quadr_292_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_4#1">biloia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_4#2">iamui</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_4#4">Iſchganitas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_4#5">ßiwats</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_4#6">/</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_3_Quadr_292_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_5#1">kuris</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_5#2">tawe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_5#3">neſchoia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_5#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_5#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_5#6">krutis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_5#7">kurios</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_5#8">tu</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_3_Quadr_292_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_6#1">ßindai</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_6#3">Ghiſſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_6#4">biloia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_6#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_6#6">gerai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_6#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_6#8">iſchganiti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_6#9">/</w>
+        <lb n="7-8" xml:id="BP_1591_I_Dom_3_Quadr_292_7-8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_7-8#1">(</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_7-8#2">pagirti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_7-8#3">)</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_7-8#4">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_7-8#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_7-8#6">kurie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_7-8#7">klauſa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_7-8#8">Diewa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_7-8#9">ßo<lb break="no"/>di</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_7-8#10">/</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_3_Quadr_292_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_8#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_8#2">ta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_8#3">palaika</w><ref decls="biblical" cRef="b.LUK.11.14-28"/></quote>
+.
+        <lb n="9" xml:id="BP_1591_I_Dom_3_Quadr_292_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_9#1">Iſchguldimas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_9#2">ſchos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_9#3">Euangelios</w>.
+        <lb n="10-11" xml:id="BP_1591_I_Dom_3_Quadr_292_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_10-11#1">KAcʒei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_10-11#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_10-11#3">mana</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_10-11#4">mieli</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_10-11#5">brolei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_10-11#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_10-11#7">Seſſeres</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_10-11#8">Kri<lb break="no"/>ſtuie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_10-11#9">/</w>
+        <lb n="11-12" xml:id="BP_1591_I_Dom_3_Quadr_292_11-12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_11-12#1">nog</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_11-12#2">kalledu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_11-12#3">iki</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_11-12#4">ſcham</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_11-12#5">cʒieſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_11-12#6">ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_11-12#7">pen<lb break="no"/>kis</w>
+        <lb n="12-13" xml:id="BP_1591_I_Dom_3_Quadr_292_12-13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_12-13#1">Stebuklus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_12-13#2">můſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_12-13#3">Pona</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_12-13#4">Ieſaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_12-13#5">Kri<lb break="no"/>ſtaus</w>
+        <lb n="13-14" xml:id="BP_1591_I_Dom_3_Quadr_292_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_13-14#1">girdeiom</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_13-14#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_13-14#3">tacʒiau</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_13-14#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_13-14#5">ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_13-14#6">kitus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_13-14#7">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_13-14#8">ſte<lb break="no"/>buklingus</w>
+        <lb n="14-15" xml:id="BP_1591_I_Dom_3_Quadr_292_14-15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_14-15#1">darbus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_14-15#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_14-15#3">klauſiti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_14-15#4">nenuboſkem</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_14-15#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_14-15#6">neſa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_14-15#7">ků</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_14-15#8">dau<lb break="no"/>giaus</w>
+        <lb n="15-16" xml:id="BP_1591_I_Dom_3_Quadr_292_15-16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_15-16#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_15-16#2">tankiaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_15-16#3">girdim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_15-16#4">Pona</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_15-16#5">muſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_15-16#6">Ieſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_15-16#7">Kriſtu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_15-16#8">ſi<lb break="no"/>lingus</w>
+        <lb n="16-17" xml:id="BP_1591_I_Dom_3_Quadr_292_16-17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_16-17#1">darbus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_16-17#2">dariuſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_16-17#3">to</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_16-17#4">muſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_16-17#5">wiera</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_16-17#6">ing</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_16-17#7">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_16-17#8">iů</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_16-17#9">dau<lb break="no"/>geſni</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_292_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_17#1">ſtriprinaſſi</w>.
+        <lb n="18-19" xml:id="BP_1591_I_Dom_3_Quadr_292_18-19"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_18-19#1">A</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_18-19#2">ſchoie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_18-19#3">Euangelioie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_18-19#4">raſcha</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_18-19#5">Schwentas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_18-19#6">Euan<lb break="no"/>geliſta</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_3_Quadr_292_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_19#1">Lukoſchius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_19#2">ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_19#3">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_19#4">kuri</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_19#5">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_19#6">buwa</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_3_Quadr_292_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_20#1">apſedens</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_20#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_20#3">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_20#4">Ließuwi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_20#5">ſutraukens</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_20#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_20#7">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_20#8">prakalbeti</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_3_Quadr_292_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_21#1">negaleia</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_21#3">Nůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_21#4">tho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_21#5">didei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_21#6">pawarguſio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_292_21#7">ßmogaus</w>
+        <pb n="293"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_293_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_1#1">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_1#2">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_1#3">Welina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_1#4">prawara</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_1#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_1#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_1#7">gelbt</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_1#8">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_1#9">ſchis</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_3_Quadr_293_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_2#1">pawargulis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_2#2">bei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_2#3">girdeti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_2#4">bei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_2#5">kalbeti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_2#6">gal</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_2#8">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_2#9">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_2#10">ſchi</w>
+        <lb n="3-4" xml:id="BP_1591_I_Dom_3_Quadr_293_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_3-4#1">labai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_3-4#2">linkſma</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_3-4#3">darba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_3-4#4">Kriſtaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_3-4#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_3-4#6">newiſſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_3-4#7">pagjre</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_3-4#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_3-4#9">ta<lb break="no"/>cʒiau</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_3_Quadr_293_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_4#1">daug</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_4#2">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_4#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_4#4">wiriſchkiu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_4#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_4#6">moteriſchkui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_4#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_4#8">ta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_4#9">bei</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_3_Quadr_293_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_5#1">pagjre</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_5#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_5#3">Diewa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_5#4">ußu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_5#5">tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_5#6">garbinoia</w><ref decls="biblical" cRef="b.LUK.11.14"/></quote>
+.
+        <lb n="6-7" xml:id="BP_1591_I_Dom_3_Quadr_293_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_6-7#1">Mes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_6-7#2">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_6-7#3">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_6-7#4">raſchto</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_6-7#5">ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_6-7#6">ſchus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_6-7#7">keturius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_6-7#8">daik<lb break="no"/>tus</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_3_Quadr_293_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_7#1">ſchů</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_7#2">kartu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_7#3">nobaßnai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_7#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_7#5">praſtai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_7#6">kalbeſim</w>.
+        <lb n="8" xml:id="BP_1591_I_Dom_3_Quadr_293_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_8#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_8#2">Pirmo</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_8#4">Ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_8#5">mace</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_8#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_8#7">piktenibe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_8#8">Welino</w>.
+        <lb n="9" xml:id="BP_1591_I_Dom_3_Quadr_293_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_9#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_9#2">Antro</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_9#4">Ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_9#5">mace</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_9#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_9#7">geribe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_9#8">Pono</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_9#9">Kriſtaus</w>.
+        <lb n="10-11" xml:id="BP_1591_I_Dom_3_Quadr_293_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_10-11#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_10-11#2">Trecʒio</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_10-11#4">Ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_10-11#5">pawaiſda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_10-11#6">praſtu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_10-11#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_10-11#8">bluſnian<lb break="no"/>cʒu</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_3_Quadr_293_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_11#1">ßmoniu</w>.
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_293_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_12#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_12#2">Ketwirto</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_12#4">Ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_12#5">graudinima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_12#6">Kriſtaus</w>.
+        <lb n="13" xml:id="BP_1591_I_Dom_3_Quadr_293_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_13#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_13#2">Pirmo</w>.
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_293_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_14#1">Ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_14#2">dide</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_14#3">mace</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_14#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_14#5">piktenibe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_14#6">Welino</w>.
+        <lb n="15-16" xml:id="BP_1591_I_Dom_3_Quadr_293_15-16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_15-16#1">DVrnaſis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_15-16#2">ſwietas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_15-16#3">girdedams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_15-16#4">kalbama</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_15-16#5">ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_15-16#6">We<lb break="no"/>lina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_15-16#7">/</w>
+        <lb n="16-17" xml:id="BP_1591_I_Dom_3_Quadr_293_16-17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_16-17#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_16-17#2">ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_16-17#3">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_16-17#4">piktus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_16-17#5">darbus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_16-17#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_16-17#7">nieku</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_16-17#8">tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_16-17#9">nu<lb break="no"/>leidʒ</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_16-17#10">/</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_293_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_17#1">tardams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_17#2">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_17#3">nit</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_17#4">nieko</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_17#5">negal</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_17#7">Tůgi</w>
+        <lb n="18-19" xml:id="BP_1591_I_Dom_3_Quadr_293_18-19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#1">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#2">teip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#3">dranſei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#6">neadboghime</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#7">giwen</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#9">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#10">kada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_18-19#11">ne<lb break="no"/>turedams</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_3_Quadr_293_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_19#1">neiokio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_19#2">neprieteliaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_19#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_19#4">kurſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_19#5">bei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_19#6">kuno</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_19#7">bei</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_3_Quadr_293_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#1">Duſches</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#2">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#3">tikotu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#5">Iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#6">to</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#7">tada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#8">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#9">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#10">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#11">tiek</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_20#12">ßmoniu</w>
+        <lb n="21-22" xml:id="BP_1591_I_Dom_3_Quadr_293_21-22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#1">ing</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#2">biaurus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#3">griekus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#4">welino</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#5">iuwædami</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#7">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#9">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#10">ing</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_21-22#11">di<lb break="no"/>dʒius</w>
+        <lb n="22-23" xml:id="BP_1591_I_Dom_3_Quadr_293_22-23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_22-23#1">wargus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_22-23#2">ateit</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_22-23#4">A</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_22-23#5">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_22-23#6">tieſos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_22-23#7">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_22-23#8">didei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_22-23#9">ga<lb break="no"/>lis</w>
+        <lb n="23" xml:id="BP_1591_I_Dom_3_Quadr_293_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_23#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_23#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_23#3">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_23#4">tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_23#5">regim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_23#6">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_23#7">Hiſtorios</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_23#8">ſchwenta</w><ref decls="biblical" cRef="b.JOB.1.1-2.10"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_23#9">Iobo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_23#10">/</w>
+        <lb n="24-294" xml:id="BP_1591_I_Dom_3_Quadr_293_24-294"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_24-294#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_24-294#2">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_24-294#3">ßodʒiu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_24-294#4">paties</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_24-294#5">Kriſtaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_24-294#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_24-294#7">teipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_24-294#8">kalbancʒio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_24-294#9">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_293_24-294#10">We<lb break="no"/>linas</w>
+        <pb n="294"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_294_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_1#1">atim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_1#2">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_1#3">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_1#4">iſchgi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_1#5">ſchirdies</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_1#6">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_1#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_1#8">ieib</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_3_Quadr_294_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_2#1">anis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_2#2">tikedami</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_2#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_2#4">nebutu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_2#5">iſchganiti</w><ref decls="biblical" cRef="b.LUK.8.12"/></quote>
+.
+        <lb n="3" xml:id="BP_1591_I_Dom_3_Quadr_294_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_3#1">O</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_3#2">netiktai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_3#3">daug</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_3#4">galis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_3#5">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_3#6">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_3#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_3#8">bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_3#9">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_3#10">ir</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_3_Quadr_294_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_4#1">neprietelius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_4#2">didis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_4#3">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_4#4">wiſſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_4#5">ßmoniu</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_4#7">Kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_4#8">ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_4#9">tatai</w>
+        <lb n="5-6" xml:id="BP_1591_I_Dom_3_Quadr_294_5-6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_5-6#1">tankei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_5-6#2">girdit</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_5-6#3">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_5-6#4">Schwento</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_5-6#5">Petro</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_5-6#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_5-6#7">ſchiteipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_5-6#8">kalban<lb break="no"/>cʒio</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_3_Quadr_294_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_6#1">gromatoie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_6#2">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_6#3">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_6#4">Iuſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_6#5">neprietelius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_6#6">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_6#7">eit</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_3_Quadr_294_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_7#1">apſukui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_7#2">ius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_7#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_7#4">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_7#5">lewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_7#6">riekenſis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_7#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_7#8">ieſchkodams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_7#9">ieib</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_3_Quadr_294_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_8#1">ka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_8#2">prariti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_8#3">gautu</w><ref decls="biblical" cRef="b.1PE.5.8"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_8#5">Bei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_8#6">Schitai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_8#7">gerai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_8#8">galim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_8#9">numanti</w>
+        <lb n="9-10" xml:id="BP_1591_I_Dom_3_Quadr_294_9-10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_9-10#1">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_9-10#2">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_9-10#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_9-10#4">Schoie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_9-10#5">Euangelioie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_9-10#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_9-10#7">ta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_9-10#8">ghiſſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_9-10#9">apſe<lb break="no"/>dens</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_9-10#10">/</w>
+        <lb n="10-11" xml:id="BP_1591_I_Dom_3_Quadr_294_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_10-11#1">tůiaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_10-11#2">padara</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_10-11#3">be</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_10-11#4">ßado</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_10-11#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_10-11#6">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_10-11#7">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_10-11#8">newieno</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_10-11#9">ßo<lb break="no"/>dʒio</w>
+        <lb n="11-12" xml:id="BP_1591_I_Dom_3_Quadr_294_11-12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_11-12#1">tikrai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_11-12#2">negal</w><ref decls="biblical" cRef="b.LUK.11.14"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_11-12#3">iſchkalbeti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_11-12#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_11-12#5">Tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_11-12#6">iſchtieſos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_11-12#7">iam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_11-12#8">la<lb break="no"/>bai</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_294_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_12#1">ſunku</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_12#2">tůreia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_12#3">buti</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_12#5">Potam</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_12#6">raſcha</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_12#7">Schwentas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_12#8">/</w>
+        <lb n="13" xml:id="BP_1591_I_Dom_3_Quadr_294_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_13#1">Motthieius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_13#2">12.</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_13#3">pag.</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_13#4">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_13#5">ſcham</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_13#6">pacʒiam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_13#7">ßmogui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_13#8">ir</w>
+        <lb n="14-15" xml:id="BP_1591_I_Dom_3_Quadr_294_14-15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_14-15#1">akis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_14-15#2">pagadinuſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_14-15#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_14-15#4">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_14-15#5">regeti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_14-15#6">negaleia</w><ref decls="biblical" cRef="b.MAT.12.22"/></quote>
+.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_14-15#8">Schitai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_14-15#9">iſch<lb break="no"/>tieſos</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_294_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_15#1">ſunkeſne</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_15#2">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_15#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_15#4">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_15#5">beßado</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_15#6">buti</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_15#8">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_15#9">Trecʒio</w>.
+        <lb n="16-17" xml:id="BP_1591_I_Dom_3_Quadr_294_16-17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_16-17#1">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_16-17#2">ſcham</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_16-17#3">ßmogui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_16-17#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_16-17#5">Auſis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_16-17#6">pagadinnens</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_16-17#7">bu<lb break="no"/>wa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_16-17#8">/</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_294_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_17#1">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_17#2">nieko</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_17#3">negaleia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_17#4">girdeti</w>.
+        <lb n="18-19" xml:id="BP_1591_I_Dom_3_Quadr_294_18-19"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_18-19#1">Dabokes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_18-19#2">potam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_18-19#3">ka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_18-19#4">padare</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_18-19#5">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_18-19#6">Schwenta<lb break="no"/>muiem</w>
+        <lb n="19-20" xml:id="BP_1591_I_Dom_3_Quadr_294_19-20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_19-20#1">Iobui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_19-20#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_19-20#3">tam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_19-20#4">ghiſſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_19-20#5">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_19-20#6">nekrikſchcʒonis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_19-20#7">atimdi<lb break="no"/>noia</w>
+        <lb n="20-21" xml:id="BP_1591_I_Dom_3_Quadr_294_20-21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_20-21#1">daug</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_20-21#2">wiſſokios</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_20-21#3">bandos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_20-21#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_20-21#5">Tam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_20-21#6">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_20-21#7">ußu<lb break="no"/>muſche</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_3_Quadr_294_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_21#1">ſchturmu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_21#2">deſchimti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_21#3">waiku</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_21#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_21#5">ta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_21#6">Ioba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_21#7">Welinas</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_3_Quadr_294_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_22#1">didei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_22#2">iſchmucʒja</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_22#3">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_22#4">kuna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_22#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_22#6">daug</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_22#7">ſkauduliu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_22#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_22#9">wocʒiu</w>
+        <lb n="23-24" xml:id="BP_1591_I_Dom_3_Quadr_294_23-24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_23-24#1">iam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_23-24#2">pridůdams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_23-24#3">alba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_23-24#4">appildams</w><ref decls="biblical" cRef="b.JOB.1.1-2.10"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_23-24#6">Skaitom</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_23-24#7">Sʒmo<lb break="no"/>gu</w>
+        <lb n="24-25" xml:id="BP_1591_I_Dom_3_Quadr_294_24-25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_24-25#1">uůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_24-25#2">Welino</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_24-25#3">apſeſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_24-25#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_24-25#5">tankei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_24-25#6">ipůluſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_24-25#7">ing</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_24-25#8">wande<lb break="no"/>ni</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_3_Quadr_294_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_25#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_25#2">Vgni</w><ref decls="biblical" cRef="b.MAT.17.15"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_25#4">Skaitom</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_25#5">kita</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_25#6">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_25#7">Welino</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_25#8">apſeſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_25#9">/</w>
+        <lb n="26" xml:id="BP_1591_I_Dom_3_Quadr_294_26"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_26#1">niekur</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_26#2">nerimmuſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_26#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_26#4">bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_26#5">kapůſa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_26#6">numireliu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_26#7">laikiuſinſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_26#8">/</w>
+        <lb n="27-295" xml:id="BP_1591_I_Dom_3_Quadr_294_27-295"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_27-295#1">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_27-295#2">reteßeis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_27-295#3">buwa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_27-295#4">riſchams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_27-295#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_27-295#6">o</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_27-295#7">tacʒiau</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_27-295#8">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_27-295#9">wis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_294_27-295#10">ſu+||draſke</w>
+        <pb n="295"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_295_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_1#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_1#2">ſulauße</w>.<ref decls="biblical" cRef="b.LUK.8.27-29"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_1#4">Skaitom</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_1#5">kita</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_1#6">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_1#7">Welino</w>
+        <lb n="2-3" xml:id="BP_1591_I_Dom_3_Quadr_295_2-3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_2-3#1">teipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_2-3#2">iſchmucʒita</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_2-3#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_2-3#4">iſchdraſkita</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_2-3#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_2-3#6">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_2-3#7">djdei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_2-3#8">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_2-3#9">put<lb break="no"/>tajens</w>.<ref decls="biblical" cRef="b.MAR.9.14-29"/></quote>
+
+        <lb n="3-4" xml:id="BP_1591_I_Dom_3_Quadr_295_3-4"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_3-4#1">Skaitom</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_3-4#2">welina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_3-4#3">moteriſchke</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_3-4#4">nekure</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_3-4#5">ſchi<lb break="no"/>teipo</w>
+        <lb n="4-5" xml:id="BP_1591_I_Dom_3_Quadr_295_4-5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_4-5#1">ſutraukuſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_4-5#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_4-5#3">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_4-5#4">ana</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_4-5#5">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_4-5#6">aſchtůnolika</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_4-5#7">metu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_4-5#8">ne<lb break="no"/>galeia</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_3_Quadr_295_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_5#1">aukſchtinui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_5#2">weſdeti</w><ref decls="biblical" cRef="b.LUK.13.11"/></quote>
+.
+        <lb n="6" xml:id="BP_1591_I_Dom_3_Quadr_295_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_6#1">O</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_6#2">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_6#3">duſches</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_6#4">ko</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_6#5">nepadara</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_6#6">ßmogui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_6#7">Welinas</w>
+        <lb n="7-8" xml:id="BP_1591_I_Dom_3_Quadr_295_7-8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_7-8#1">pikto</w>?
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_7-8#3">Kiek</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_7-8#4">Tukſtancʒiu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_7-8#5">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_7-8#6">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_7-8#7">iwed</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_7-8#8">ing</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_7-8#9">grie<lb break="no"/>kus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_7-8#10">/</w>
+        <lb n="8-9" xml:id="BP_1591_I_Dom_3_Quadr_295_8-9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_8-9#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_8-9#2">amßina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_8-9#3">prapůlima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_8-9#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_8-9#5">ing</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_8-9#6">pekla</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_8-9#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_8-9#8">ing</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_8-9#9">amßina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_8-9#10">dæ<lb break="no"/>gancʒe</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_3_Quadr_295_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_9#1">ſmala</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_9#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_9#3">paſkandinima</w>?
+        <lb n="10-11" xml:id="BP_1591_I_Dom_3_Quadr_295_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_10-11#1">Todelei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_10-11#2">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_10-11#3">tieſos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_10-11#4">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_10-11#5">bei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_10-11#6">daug</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_10-11#7">gal</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_10-11#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_10-11#9">bei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_10-11#10">mu<lb break="no"/>ſu</w>
+        <lb n="11-12" xml:id="BP_1591_I_Dom_3_Quadr_295_11-12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_11-12#1">wiſſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_11-12#2">didʒiauſis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_11-12#3">neprietelius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_11-12#4">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_11-12#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_11-12#6">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_11-12#7">priwalu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_11-12#8">mu<lb break="no"/>mus</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_295_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_12#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_12#2">pagiringiems</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_12#3">buti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_12#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_12#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_12#6">ſtropei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_12#7">melſtiſſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_12#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_12#9">ieib</w>
+        <lb n="13-14" xml:id="BP_1591_I_Dom_3_Quadr_295_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_13-14#1">nůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_13-14#2">to</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_13-14#3">muſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_13-14#4">neprieteliaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_13-14#5">iſkados</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_13-14#6">kokios</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_13-14#7">negautum<lb break="no"/>bim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_13-14#8">/</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_295_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_14#1">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_14#2">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_14#3">kuno</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_14#4">alba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_14#5">lobia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_14#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_14#7">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_14#8">wiſſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_14#9">didʒiauſei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_14#10">ant</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_295_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_15#1">duſches</w>.
+        <lb n="16" xml:id="BP_1591_I_Dom_3_Quadr_295_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_16#1">Ar</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_16#2">tada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_16#3">Welinui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_16#4">walnu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_16#5">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_16#6">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_16#7">apſeſti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_16#8">/</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_295_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_17#1">iam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_17#2">pikto</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_17#3">dariti</w>?
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_17#5">Atſakau</w>.
+        <lb n="18" xml:id="BP_1591_I_Dom_3_Quadr_295_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_18#1">Welinui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_18#2">newalnu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_18#3">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_18#4">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_18#5">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_18#6">norins</w>
+        <lb n="19-20" xml:id="BP_1591_I_Dom_3_Quadr_295_19-20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_19-20#1">apſeſti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_19-20#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_19-20#3">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_19-20#4">wel</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_19-20#5">walia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_19-20#6">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_19-20#7">Cʒartui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_19-20#8">ieib</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_19-20#9">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_19-20#10">ma<lb break="no"/>ßiauſe</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_3_Quadr_295_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_20#1">iſkada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_20#2">ßmogui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_20#3">padariti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_20#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_20#5">Nes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_20#6">teip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_20#7">bila</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_20#8">Pons</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_3_Quadr_295_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_21#1">Kriſtus</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_21#3">Petrai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_21#4">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_21#5">iuſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_21#6">iſigeide</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_21#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_21#8">idant</w>
+        <lb n="22-23" xml:id="BP_1591_I_Dom_3_Quadr_295_22-23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#1">ius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#2">ſijotu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#3">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#4">kwiecʒus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#6">Bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#7">aſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#8">tawes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#9">del</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#10">mel<lb break="no"/>dʒauſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_22-23#11">/</w>
+        <lb n="23" xml:id="BP_1591_I_Dom_3_Quadr_295_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_23#1">idant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_23#2">wiera</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_23#3">tawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_23#4">neliautuſe</w><ref decls="biblical" cRef="b.LUK.22.31-32"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_23#6">Regim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_23#7">tatai</w>
+        <lb n="24-25" xml:id="BP_1591_I_Dom_3_Quadr_295_24-25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_24-25#1">taipaieg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_24-25#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_24-25#3">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_24-25#4">Iobo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_24-25#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_24-25#6">to</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_24-25#7">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_24-25#8">niekaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_24-25#9">nega<lb break="no"/>leia</w>
+        <lb n="25-26" xml:id="BP_1591_I_Dom_3_Quadr_295_25-26"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#1">iweikti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#2">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#3">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#4">lobio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#5">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#6">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#7">kuno</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#9">net</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#10">ikki</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_25-26#11">Die<lb break="no"/>wo</w>
+        <lb n="26" xml:id="BP_1591_I_Dom_3_Quadr_295_26"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_26#1">paweltas</w><ref decls="biblical" cRef="b.JOB.2.6"/></quote>
+.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_26#3">Neſa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_26#4">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_26#5">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_26#6">dideſnis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_26#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_295_26#8">daug</w>
+        <pb n="296"/>
+        <lb n="1-2" xml:id="BP_1591_I_Dom_3_Quadr_296_1-2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_1-2#1">macneſnis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_1-2#2">ußu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_1-2#3">Welina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_1-2#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_1-2#5">taip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_1-2#6">tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_1-2#7">regim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_1-2#8">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_1-2#9">pawaiſ<lb break="no"/>do</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_3_Quadr_296_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_2#1">Kriſtaus</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_2#3">Atſtok</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_2#4">nůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_2#5">manes</w><ref decls="biblical" cRef="b.MAT.4.10"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_2#6">Sathane</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_2#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_2#8">etc</w>.
+        <lb n="3" xml:id="BP_1591_I_Dom_3_Quadr_296_3"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_3#1">Todelei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_3#2">laikikimes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_3#3">po</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_3#4">ſparnu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_3#5">Pono</w><ref decls="biblical" cRef="b.PSA.90.4"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_3#6">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_3#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_3#8">kaip</w>
+        <lb n="4-5" xml:id="BP_1591_I_Dom_3_Quadr_296_4-5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_4-5#1">antai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_4-5#2">wiſchtitei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_4-5#3">laikoſe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_4-5#4">po</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_4-5#5">ſparnu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_4-5#6">wiſchtos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_4-5#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_4-5#8">tadda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_4-5#9">bu+||ſim</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_3_Quadr_296_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_5#1">nůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_5#2">kitriſtos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_5#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_5#4">piktenibes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_5#5">welino</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_5#6">apginti</w>.
+        <lb n="6-7" xml:id="BP_1591_I_Dom_3_Quadr_296_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_6-7#1">O</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_6-7#2">Wienok</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_6-7#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_6-7#4">Kodelei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_6-7#5">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_6-7#6">Kartais</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_6-7#7">pawelt</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_6-7#8">we<lb break="no"/>linui</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_3_Quadr_296_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_7#1">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_7#2">apſeſti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_7#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_7#4">anaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_7#5">mucʒiti</w>?
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_7#7">Atſakau</w>.
+        <lb n="8" xml:id="BP_1591_I_Dom_3_Quadr_296_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_8#1">Kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_8#2">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_8#3">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_8#4">koßna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_8#5">ßmoguteli</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_8#6">didei</w>
+        <lb n="9-10" xml:id="BP_1591_I_Dom_3_Quadr_296_9-10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#1">mjl</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#3">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#4">rodas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#5">nor</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#6">idant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#7">iam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#8">kas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#9">pikta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#10">ſtatunſe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#11">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_9-10#12">ta<lb break="no"/>cʒiau</w>
+        <lb n="10-11" xml:id="BP_1591_I_Dom_3_Quadr_296_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_10-11#1">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_10-11#2">kartais</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_10-11#3">pawelt</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_10-11#4">Welinui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_10-11#5">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_10-11#6">ßmo<lb break="no"/>gaus</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_3_Quadr_296_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_11#1">ſchu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_11#2">prießaſtu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_11#3">delei</w>.
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_296_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_12#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_12#2">Pirmo</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_12#4">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_12#5">kartais</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_12#6">pawelt</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_12#7">Welinui</w>
+        <lb n="13-14" xml:id="BP_1591_I_Dom_3_Quadr_296_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_13-14#1">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_13-14#2">apſeſti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_13-14#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_13-14#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_13-14#5">didei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_13-14#6">iſchmucʒiti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_13-14#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_13-14#8">delei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_13-14#9">grieko</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_13-14#11">Ka<lb break="no"/>ralus</w>
+        <lb n="14-15" xml:id="BP_1591_I_Dom_3_Quadr_296_14-15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_14-15#1">Saul</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_14-15#2">Welino</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_14-15#3">mucʒiams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_14-15#4">ſtoioſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_14-15#5">delei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_14-15#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_14-15#7">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_14-15#8">ne<lb break="no"/>pakluſnumo</w>.<ref decls="biblical" cRef="b.1SA.16.14"/></quote>
+
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_296_15"/>
+
+
+        <lb n="16-17" xml:id="BP_1591_I_Dom_3_Quadr_296_16-17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_16-17#1">Todelei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_16-17#2">wenkime</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_16-17#3">griekus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_16-17#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_16-17#5">ieib</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_16-17#6">nebutumbim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_16-17#7">Die<lb break="no"/>wo</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_296_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_17#1">praſtoti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_17#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_17#3">O</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_17#4">welino</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_17#5">apſeſti</w>.
+        <lb n="18" xml:id="BP_1591_I_Dom_3_Quadr_296_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_18#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_18#2">Antro</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_18#4">Idant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_18#5">kiti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_18#6">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_18#7">grieku</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_18#8">inbuge</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_18#9">/</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_3_Quadr_296_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_19#1">prießaſti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_19#2">turetu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_19#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_19#4">Diewop</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_19#5">werſtiſi</w>.
+        <lb n="20" xml:id="BP_1591_I_Dom_3_Quadr_296_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_20#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_20#2">Trecʒio</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_20#4">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_20#5">kartais</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_20#6">Welinui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_20#7">důſt</w>
+        <lb n="21-22" xml:id="BP_1591_I_Dom_3_Quadr_296_21-22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#1">mace</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#2">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#3">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#4">kokio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#6">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#7">gero</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#9">idant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#10">tho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_21-22#11">ge<lb break="no"/>roio</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_3_Quadr_296_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_22#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_22#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_22#3">tikincʒoio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_22#4">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_22#5">Wiera</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_22#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_22#7">geras</w>
+        <lb n="23" xml:id="BP_1591_I_Dom_3_Quadr_296_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_23#1">giwenimas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_23#2">butu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_23#3">paſtripintas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_23#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_23#5">iſchreikſchtas</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_23#7">Neſa</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_3_Quadr_296_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_24#1">kada</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_24#2">Iobas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_24#3">nebutu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_24#4">teip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_24#5">didei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_24#6">Welino</w><ref decls="biblical" cRef="b.JOB.1.1-2.10"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_24#7">iſchwargintas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_24#8">/</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_3_Quadr_296_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_25#1">mes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_25#2">nieko</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_25#3">ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_25#4">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_25#5">nobaßniſte</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_296_25#6">neßinnatumbim</w>.
+        <pb n="297"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_297_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_1#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_1#2">Ketwirto</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_1#4">Pawelt</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_1#5">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_1#6">welinui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_1#7">ant</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_3_Quadr_297_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_2#1">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_2#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_2#3">ieib</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_2#4">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_2#5">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_2#6">potam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_2#7">gelbedams</w>
+        <lb n="3" xml:id="BP_1591_I_Dom_3_Quadr_297_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_3#1">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_3#2">geribe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_3#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_3#4">malone</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_3#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_3#6">Cʒeſti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_3#7">paroditu</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_3#9">Iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_3#10">Kriſtus</w>
+        <lb n="4-5" xml:id="BP_1591_I_Dom_3_Quadr_297_4-5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_4-5#1">nebutu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_4-5#2">tiekas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_4-5#3">kartu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_4-5#4">Welina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_4-5#5">nůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_4-5#6">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_4-5#7">prawa<lb break="no"/>rens</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_4-5#8">/</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_3_Quadr_297_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_5#1">kas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_5#2">galletu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_5#3">tiketi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_5#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_5#5">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_5#6">tikrů</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_5#7">Diewu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_5#8">eſant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_5#9">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_5#10">Bet</w>
+        <lb n="6-7" xml:id="BP_1591_I_Dom_3_Quadr_297_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_6-7#1">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_6-7#2">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_6-7#3">darbo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_6-7#4">gal</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_6-7#5">koßnas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_6-7#6">iſchmaniti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_6-7#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_6-7#8">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_6-7#9">wiſſaga<lb break="no"/>linti</w>.
+        <lb n="7-8" xml:id="BP_1591_I_Dom_3_Quadr_297_7-8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_7-8#1">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_7-8#2">todel</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_7-8#3">ßmogus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_7-8#4">Kriſtui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_7-8#5">te</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_7-8#6">iſchtik</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_7-8#7">wiſſoſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_7-8#8">daik<lb break="no"/>toſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_7-8#9">=</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_3_Quadr_297_8"/>
+
+
+        <lb n="9" xml:id="BP_1591_I_Dom_3_Quadr_297_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_9#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_9#2">Antro</w>.
+        <lb n="10-11" xml:id="BP_1591_I_Dom_3_Quadr_297_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_10-11#1">Ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_10-11#2">mace</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_10-11#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_10-11#4">geribe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_10-11#5">muſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_10-11#6">Wieſch<lb break="no"/>paties</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_3_Quadr_297_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_11#1">Kriſtaus</w>.
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_297_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_12#1">KAcʒei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_12#2">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_12#3">labai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_12#4">macnus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_12#5">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_12#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_12#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_12#8">kacʒei</w>
+        <lb n="13-14" xml:id="BP_1591_I_Dom_3_Quadr_297_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_13-14#1">ſwietui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_13-14#2">daug</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_13-14#3">pikt</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_13-14#4">dara</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_13-14#6">Tacʒiau</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_13-14#7">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_13-14#8">Kri<lb break="no"/>ſtus</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_297_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_14#1">daug</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_14#2">macneſnis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_14#3">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_14#4">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_14#5">nes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_14#6">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_14#7">iam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_14#8">galwa</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_297_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#1">ſutrin</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#3">Gen.</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#4">3.</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#5">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#6">wel</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#7">tur</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#8">mace</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#9">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#10">Dangaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_15#11">ir</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_3_Quadr_297_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_16#1">ßemes</w><ref decls="biblical" cRef="b.MAT.28.18"/></quote>
+.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_16#3">Kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_16#4">regim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_16#5">Kriſtu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_16#6">iſchgaleiuſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_16#7">ſmerti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_16#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_16#9">pekla</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_16#10">/</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_297_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_17#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_17#2">Welina</w>.
+        <lb n="18" xml:id="BP_1591_I_Dom_3_Quadr_297_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_18#1">A</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_18#2">paweiſdekem</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_18#3">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_18#4">ſchos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_18#5">Euangelios</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_18#6">macen</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_18#7">ir</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_3_Quadr_297_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_19#1">geribe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_19#2">muſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_19#3">mieloio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_19#4">Wieſchpaties</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_19#5">Kriſtaus</w>.
+        <lb n="20" xml:id="BP_1591_I_Dom_3_Quadr_297_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_20#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_20#2">Pirmo</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_20#4">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_20#5">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_20#6">atſtata</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_20#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_20#8">ſilingai</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_3_Quadr_297_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_21#1">prawara</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_21#2">nůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_21#3">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_21#4">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_21#5">duſchu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_21#6">neprieteli</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_21#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_21#8">ghis</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_3_Quadr_297_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_22#1">netur</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_22#2">anopi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_22#3">toliaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_22#4">rimti</w><ref decls="biblical" cRef="b.MAT.12.22"/></quote>
+.
+        <lb n="23" xml:id="BP_1591_I_Dom_3_Quadr_297_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_23#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_23#2">Antro</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_23#4">Ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_23#5">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_23#6">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_23#7">nebilio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_23#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_23#9">iſchgida</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_3_Quadr_297_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#1">ließuwi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#4">burna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#6">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#7">gal</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#8">prakalbeti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#9">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#10">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#11">wis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#12">ſakiti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_24#13">/</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_3_Quadr_297_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_25#1">kas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_25#2">iam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_25#3">priwalu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_297_25#4">ira</w><ref decls="biblical" cRef="b.MAT.12.22"/></quote>
+.
+        <pb n="298"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_298_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_1#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_1#2">Trecʒio</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_1#4">Ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_1#5">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_1#6">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_1#7">akis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_1#8">kurios</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_3_Quadr_298_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_2#1">welino</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_2#2">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_2#3">ußlipitas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_2#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_2#5">ußlaiſtitas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_2#6">buwa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_2#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_2#8">iſchgida</w><ref decls="biblical" cRef="b.MAT.12.22"/></quote>
+.
+        <lb n="3-4" xml:id="BP_1591_I_Dom_3_Quadr_298_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_3-4#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_3-4#2">Ketwirto</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_3-4#4">Iſchgida</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_3-4#5">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_3-4#6">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_3-4#7">ußkurtu<lb break="no"/>ſes</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_3_Quadr_298_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_4#1">auſis</w>.
+        <lb n="5-6" xml:id="BP_1591_I_Dom_3_Quadr_298_5-6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_5-6#1">Iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_5-6#2">ſchu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_5-6#3">wargu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_5-6#4">gal</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_5-6#5">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_5-6#6">IEſus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_5-6#7">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_5-6#8">iſch<lb break="no"/>gelbeti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_5-6#9">/</w>
+        <lb n="6-7" xml:id="BP_1591_I_Dom_3_Quadr_298_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_6-7#1">todelei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_6-7#2">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_6-7#3">tur</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_6-7#4">amßinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_6-7#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_6-7#6">wiſſagalis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_6-7#7">Die<lb break="no"/>was</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_3_Quadr_298_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_7#1">buti</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_7#3">Todelei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_7#4">mokinkimes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_7#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_7#6">Iaukinkimes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_7#7">iam</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_3_Quadr_298_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_8#1">wiſſoſn</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_8#2">daiktuſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_8#3">iſchtiketi</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_8#5">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_8#6">Schwents</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_8#7">Ianas</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_3_Quadr_298_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_9#1">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_9#2">pirmoi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_9#3">gromatoie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_9#4">trecʒi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_9#5">ame</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_9#6">paguldime</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_9#7">mokin</w>
+        <lb n="10-11" xml:id="BP_1591_I_Dom_3_Quadr_298_10-11"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_10-11#1">Ateia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_10-11#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_10-11#3">Sunus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_10-11#4">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_10-11#5">ßemes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_10-11#6">idant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_10-11#7">darbus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_10-11#8">We<lb break="no"/>lino</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_3_Quadr_298_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_11#1">iſcharditu</w><ref decls="biblical" cRef="b.1JO.3.8"/></quote>
+.
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_298_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_12#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_12#2">Trecʒio</w>.
+        <lb n="13-14" xml:id="BP_1591_I_Dom_3_Quadr_298_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_13-14#1">Ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_13-14#2">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_13-14#3">kurie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_13-14#4">ſcham</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_13-14#5">didʒiam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_13-14#6">ſtebuklui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_13-14#7">Kri<lb break="no"/>ſtaus</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_298_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_14#1">pribuwa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_14#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_14#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_14#4">ka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_14#5">anis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_14#6">weike</w>.
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_298_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_15#1">LAbai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_15#2">daug</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_15#3">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_15#4">tů</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_15#5">kartu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_15#6">ſuſſirinke</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_15#7">buwa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_15#8">/</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_3_Quadr_298_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_16#1">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_16#2">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_16#3">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_16#4">ſchi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_16#5">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_16#6">pagelbeia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_16#7">/</w>
+        <lb n="17-18" xml:id="BP_1591_I_Dom_3_Quadr_298_17-18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_17-18#1">Welina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_17-18#2">nůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_17-18#3">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_17-18#4">prawaridams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_17-18#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_17-18#6">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_17-18#7">tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_17-18#8">ſkai<lb break="no"/>tom</w>.
+        <lb n="18" xml:id="BP_1591_I_Dom_3_Quadr_298_18"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_18#1">Daugia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_18#2">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_18#3">ſeke</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_18#4">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_18#5">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_18#6">Galileos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_18#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_18#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_18#9">iſch</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_3_Quadr_298_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#1">ßidawos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#4">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#5">Ieruſalem</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#8">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#9">Idumeos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#10">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_19#11">iſch</w>
+        <lb n="20-21" xml:id="BP_1591_I_Dom_3_Quadr_298_20-21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_20-21#1">anaſchal</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_20-21#2">Iordano</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_20-21#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_20-21#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_20-21#5">thie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_20-21#6">kurie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_20-21#7">aplinkui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_20-21#8">Tyra</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_20-21#9">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_20-21#10">Si<lb break="no"/>dona</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_3_Quadr_298_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_21#1">giwena</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_21#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_21#3">dide</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_21#4">daugibe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_21#5">kuri</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_21#6">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_21#7">darbus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_21#8">girdeia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_21#9">/</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_3_Quadr_298_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_22#1">ateia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_22#2">iopi</w><ref decls="biblical" cRef="b.MAR.3.7-8"/></quote>
+.
+        <lb n="23" xml:id="BP_1591_I_Dom_3_Quadr_298_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_23#1">Bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_23#2">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_23#3">daug</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_23#4">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_23#5">ſchi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_23#6">darba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_23#7">Kriſtaus</w>
+        <lb n="24-25" xml:id="BP_1591_I_Dom_3_Quadr_298_24-25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_24-25#1">regeia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_24-25#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_24-25#3">tacʒiau</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_24-25#4">newiſſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_24-25#5">ta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_24-25#6">pagjre</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_24-25#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_24-25#8">net</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_24-25#9">treiopas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_24-25#10">ßmo<lb break="no"/>nes</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_3_Quadr_298_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_25#1">ſchicʒe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_298_25#2">randaſi</w>.
+        <pb n="299"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_299_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_1#1">Pirma</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_1#2">dalis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_1#3">nuſſiſteb</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_1#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_1#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_1#6">garbin</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_1#7">Pona</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_1#8">Kriſtu</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_3_Quadr_299_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_2#1">delei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_2#2">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_2#3">prawarimo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_2#4">Welino</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_2#5">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_2#6">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_2#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_2#8">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_2#9">ir</w>
+        <lb n="3" xml:id="BP_1591_I_Dom_3_Quadr_299_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_3#1">moteriſchke</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_3#2">anna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_3#3">biloia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_3#4">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_3#5">Pagirtas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_3#6">kunas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_3#7">kurſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_3#8">tawe</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_3_Quadr_299_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_4#1">neſchoia</w><ref decls="biblical" cRef="b.LUK.11.27"/></quote>
+.
+        <lb n="5-6" xml:id="BP_1591_I_Dom_3_Quadr_299_5-6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_5-6#1">Kitti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_5-6#2">nůdemais</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_5-6#3">Kriſtu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_5-6#4">peik</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_5-6#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_5-6#6">bluſnij</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_5-6#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_5-6#8">iam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_5-6#9">ſchit<lb break="no"/>taipo</w>
+        <lb n="6-7" xml:id="BP_1591_I_Dom_3_Quadr_299_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_6-7#1">pakalbedami</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_6-7#2">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_6-7#3">Ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_6-7#4">welinus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_6-7#5">prawara</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_6-7#6">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_6-7#7">Beel<lb break="no"/>cebuba</w><ref decls="biblical" cRef="b.LUK.11.15"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_6-7#8">/</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_3_Quadr_299_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_7#1">tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_7#2">eſti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_7#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_7#4">Ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_7#5">gerai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_7#6">paſißiſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_7#7">ſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_7#8">welinais</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_7#9">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_7#10">ſu</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_3_Quadr_299_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_8#1">ieis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_8#2">burſawoij</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_8#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_8#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_8#5">draugiſte</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_8#6">turedams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_8#7">ſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_8#8">wiriauſiu</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_3_Quadr_299_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_9#1">Weliniu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_9#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_9#3">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_9#4">ta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_9#5">kittus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_9#6">kudeſnius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_9#7">Welinus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_9#8">iſchwara</w>.
+        <lb n="10" xml:id="BP_1591_I_Dom_3_Quadr_299_10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_10#1">Trecʒia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_10#2">Dalis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_10#3">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_10#4">gir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_10#5">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_10#6">peik</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_10#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_10#8">darba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_10#9">Kriſtaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_10#10">/</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_3_Quadr_299_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_11#1">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_11#2">wel</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_11#3">Kriſtui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_11#4">iſchtik</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_11#5">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_11#6">Bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_11#7">nor</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_11#8">idant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_11#9">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_11#10">kakiu</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_299_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_12#1">ßenklu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_12#2">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_12#3">dangaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_12#4">ſchi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_12#5">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_12#6">darba</w><ref decls="biblical" cRef="b.LUK.11.16"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_12#7">paſtiprintu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_12#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_12#9">Bei</w>
+        <lb n="13" xml:id="BP_1591_I_Dom_3_Quadr_299_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_13#1">ſchitie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_13#2">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_13#3">apiůktaiei</w>.
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_299_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_14#1">Schiteipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_14#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_14#3">dabar</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_14#4">ne</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_14#5">ligus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_14#6">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_14#7">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_14#8">kacʒei</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_299_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_15#1">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_15#2">wiſſus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_15#3">leida</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_15#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_15#5">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_15#6">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_15#7">wiſſus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_15#8">pæn</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_15#9">/</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_3_Quadr_299_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_16#1">kitti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_16#2">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_16#3">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_16#4">malones</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_16#5">nuſſiſteb</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_16#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_16#7">kitti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_16#8">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_16#9">garbin</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_16#10">ir</w>
+        <lb n="17-18" xml:id="BP_1591_I_Dom_3_Quadr_299_17-18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_17-18#1">ſchlowin</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_17-18#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_17-18#3">kitti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_17-18#4">atpent</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_17-18#5">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_17-18#6">peik</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_17-18#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_17-18#8">wiſſus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_17-18#9">Diewa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_17-18#10">dar<lb break="no"/>bus</w>
+        <lb n="18" xml:id="BP_1591_I_Dom_3_Quadr_299_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_18#1">nieku</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_18#2">nuleidʒ</w>.
+        <lb n="19" xml:id="BP_1591_I_Dom_3_Quadr_299_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_19#1">Bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_19#2">dabokimes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_19#3">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_19#4">elgeſſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_19#5">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_19#6">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_19#7">prieſch</w>
+        <lb n="20-21" xml:id="BP_1591_I_Dom_3_Quadr_299_20-21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_20-21#1">ſchitas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_20-21#2">neliges</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_20-21#3">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_20-21#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_20-21#5">Pirmaſis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_20-21#6">pulkas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_20-21#7">kurſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_20-21#8">de<lb break="no"/>lei</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_3_Quadr_299_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_21#1">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_21#2">darbo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_21#3">nuſſiſteb</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_21#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_21#5">taſſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_21#6">iam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_21#7">intinka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_21#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_21#9">togidel</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_21#10">iam</w>
+        <lb n="22-23" xml:id="BP_1591_I_Dom_3_Quadr_299_22-23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_22-23#1">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_22-23#2">nieka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_22-23#3">neſaka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_22-23#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_22-23#5">bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_22-23#6">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_22-23#7">nukencʒ</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_22-23#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_22-23#9">mjl</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_22-23#11">Trecʒam<lb break="no"/>muiem</w>
+        <lb n="23" xml:id="BP_1591_I_Dom_3_Quadr_299_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_23#1">pulkui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_23#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_23#3">kuris</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_23#4">iůkdams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_23#5">Kriſtaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_23#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_23#7">ßenklo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_23#8">nůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_23#9">io</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_3_Quadr_299_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_24#1">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_24#2">dangaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_24#3">praſche</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_24#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_24#5">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_24#6">pa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_24#7">ſchos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_24#8">Euangelios</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_3_Quadr_299_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_25#1">atſaka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_25#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_25#3">bilodams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_25#4">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_25#5">Schita</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_25#6">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_25#7">pikta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_25#8">Gimine</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_25#9">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_299_25#10">Ghi</w>
+        <pb n="300"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_300_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_1#1">geidʒ</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_1#2">ßenklo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_1#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_1#4">onebus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_1#5">iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_1#6">newienas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_1#7">ßenklas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_1#8">nedůtas</w>
+        <lb n="2-3" xml:id="BP_1591_I_Dom_3_Quadr_300_2-3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_2-3#1">tikkai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_2-3#2">ßenklas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_2-3#3">prarako</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_2-3#4">Iono</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_2-3#6">Neſa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_2-3#7">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_2-3#8">Ionas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_2-3#9">ßen<lb break="no"/>klu</w>
+        <lb n="3" xml:id="BP_1591_I_Dom_3_Quadr_300_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_3#1">buwa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_3#2">Niniuitams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_3#3">teipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_3#4">Sunus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_3#5">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_3#6">bus</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_3_Quadr_300_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_4#1">ſchitai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_4#2">Giminei</w><ref decls="biblical" cRef="b.LUK.11.29-30"/></quote>
+.
+        <lb n="5" xml:id="BP_1591_I_Dom_3_Quadr_300_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_5#1">A</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_5#2">Antramuiam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_5#3">pulkui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_5#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_5#5">kurſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_5#6">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_5#7">bluſnij</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_5#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_5#9">ghis</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_3_Quadr_300_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_6#1">treioku</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_6#2">budu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_6#3">atſaka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_6#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_6#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_6#6">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_6#7">nutila</w>.
+        <lb n="7" xml:id="BP_1591_I_Dom_3_Quadr_300_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_7#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_7#2">Pirma</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_7#3">ſaka</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_7#4">koßna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_7#5">karaliſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_7#6">iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_7#7">pati</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_7#8">ſaweje</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_3_Quadr_300_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#1">neſandoroie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#2">bus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#4">ta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#5">bus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#6">puſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#9">namai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#10">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_8#11">namu</w>
+        <lb n="9-10" xml:id="BP_1591_I_Dom_3_Quadr_300_9-10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_9-10#1">puls</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_9-10#3">O</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_9-10#4">iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_9-10#5">taipaieg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_9-10#6">Satanas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_9-10#7">pats</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_9-10#8">ſaweje</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_9-10#9">neſan<lb break="no"/>doroie</w>
+        <lb n="10-11" xml:id="BP_1591_I_Dom_3_Quadr_300_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_10-11#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_10-11#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_10-11#3">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_10-11#4">iſſilaikis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_10-11#5">karaliſte</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_10-11#6">io</w><ref decls="biblical" cRef="b.LUK.11.17-18"/></quote>
+?
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_10-11#8">Kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_10-11#9">kada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_10-11#10">ſa<lb break="no"/>kitu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_10-11#11">/</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_3_Quadr_300_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_11#1">Iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_11#2">karaliſte</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_11#3">koke</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_11#4">ſaweie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_11#5">neſuder</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_11#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_11#7">bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_11#8">priſchi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_11#9">naſſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_11#10">/</w>
+        <lb n="12-13" xml:id="BP_1591_I_Dom_3_Quadr_300_12-13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_12-13#1">tadda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_12-13#2">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_12-13#3">beſwalios</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_12-13#4">tur</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_12-13#5">puſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_12-13#6">buti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_12-13#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_12-13#8">pagesti</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_12-13#10">Iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_12-13#11">We<lb break="no"/>linas</w>
+        <lb n="13" xml:id="BP_1591_I_Dom_3_Quadr_300_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_13#1">ſaweie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_13#2">neſuder</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_13#3">(</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_13#4">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_13#5">tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_13#6">tur</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_13#7">buti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_13#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_13#9">iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_13#10">Welinas</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_300_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_14#1">Welina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_14#2">prawara</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_14#3">)</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_14#4">Tadda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_14#5">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_14#6">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_14#7">karaliſte</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_14#8">patſai</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_300_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_15#1">puſtij</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_15#3">O</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_15#4">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_15#5">to</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_15#6">niekadai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_15#7">nedara</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_15#9">Togidel</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_15#10">ghis</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_3_Quadr_300_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_16#1">negelbes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_16#2">welinus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_16#3">nůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_16#4">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_16#5">prawariti</w>.
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_300_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_17#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_17#2">Antro</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_17#4">Bila</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_17#5">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_17#6">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_17#7">Iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_17#8">aſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_17#9">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_17#10">Beelʒebuba</w>
+        <lb n="18-19" xml:id="BP_1591_I_Dom_3_Quadr_300_18-19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_18-19#1">iſchwarau</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_18-19#2">cʒartus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_18-19#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_18-19#4">Sunus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_18-19#5">iuſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_18-19#6">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_18-19#7">ka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_18-19#8">iůs</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_18-19#9">iſchwa<lb break="no"/>ra</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_18-19#10">/</w>
+        <lb n="19-20" xml:id="BP_1591_I_Dom_3_Quadr_300_19-20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_19-20#1">todelei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_19-20#2">anis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_19-20#3">Sudʒamls</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_19-20#4">iuſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_19-20#5">bus</w><ref decls="biblical" cRef="b.LUK.11.19"/></quote>
+.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_19-20#7">Kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_19-20#8">kada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_19-20#9">tar<lb break="no"/>tu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_19-20#10">/</w>
+        <lb n="20-21" xml:id="BP_1591_I_Dom_3_Quadr_300_20-21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_20-21#1">Iuſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_20-21#2">waikai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_20-21#3">kitaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_20-21#4">niekaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_20-21#5">negal</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_20-21#6">prawariti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_20-21#7">Weli<lb break="no"/>na</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_20-21#8">/</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_3_Quadr_300_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_21#1">tiktai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_21#2">per</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_21#3">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_21#4">mace</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_21#6">Teipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_21#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_21#8">aſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_21#9">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_21#10">maces</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_3_Quadr_300_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_22#1">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_22#2">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_22#3">nůgi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_22#4">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_22#5">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_22#6">prawarau</w>.
+        <lb n="23" xml:id="BP_1591_I_Dom_3_Quadr_300_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_23#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_23#2">Trecʒio</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_23#4">Bila</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_23#5">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_23#6">teipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_23#7">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_23#8">kada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_23#9">ſilingas</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_3_Quadr_300_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_24#1">ſcharwinikas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_24#2">ſergti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_24#3">palociu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_24#4">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_24#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_24#6">tadda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_24#7">pakaiuie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_24#8">ira</w>
+        <lb n="25-26" xml:id="BP_1591_I_Dom_3_Quadr_300_25-26"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#1">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#2">daiktai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#4">O</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#5">kadda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#6">ſilingeſnis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#7">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#8">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#9">ateit</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#10">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#11">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#12">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#13">per<lb break="no"/>gal</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_25-26#14">/</w>
+        <lb n="26" xml:id="BP_1591_I_Dom_3_Quadr_300_26"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_26#1">tadda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_26#2">atim</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_26#3">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_26#4">ſcharwa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_26#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_26#6">kureme</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_26#7">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_26#8">nuſſitikeia</w>
+        <lb n="27" xml:id="BP_1591_I_Dom_3_Quadr_300_27"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_27#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_27#2">ſupleſchima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_27#3">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_27#4">iſchdalij</w><ref decls="biblical" cRef="b.LUK.11.21-22"/></quote>
+.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_27#6">Kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_27#7">kadda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_27#8">tartu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_27#9">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_300_27#10">Iei</w>
+        <pb n="301"/>
+        <lb n="1-2" xml:id="BP_1591_I_Dom_3_Quadr_301_1-2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_1-2#1">taſſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_1-2#2">ſtipreſnis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_1-2#3">alba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_1-2#4">macneſnis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_1-2#5">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_1-2#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_1-2#7">kurſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_1-2#8">kita</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_1-2#9">pra<lb break="no"/>wara</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_1-2#10">/</w>
+        <lb n="2-3" xml:id="BP_1591_I_Dom_3_Quadr_301_2-3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_2-3#1">Bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_2-3#2">aſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_2-3#3">Welina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_2-3#4">kurſai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_2-3#5">gana</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_2-3#6">ſtiprus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_2-3#7">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_2-3#8">pra<lb break="no"/>wariti</w>
+        <lb n="3-4" xml:id="BP_1591_I_Dom_3_Quadr_301_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_3-4#1">galiu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_3-4#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_3-4#3">Tadda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_3-4#4">aſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_3-4#5">uß</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_3-4#6">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_3-4#7">ſtipreſnis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_3-4#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_3-4#9">macneſ<lb break="no"/>nis</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_3_Quadr_301_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_4#1">turiu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_4#2">buti</w>.
+        <lb n="5-6" xml:id="BP_1591_I_Dom_3_Quadr_301_5-6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_5-6#1">Schiteipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_5-6#2">ponas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_5-6#3">IEſus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_5-6#4">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_5-6#5">ganna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_5-6#6">iſſi<lb break="no"/>teiſinoia</w>
+        <lb n="6-7" xml:id="BP_1591_I_Dom_3_Quadr_301_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_6-7#1">prieſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_6-7#2">Sʒidus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_6-7#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_6-7#4">girdedams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_6-7#5">anus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_6-7#6">peiken<lb break="no"/>cʒius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_6-7#7">/</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_3_Quadr_301_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_7#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_7#2">loioiancʒus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_7#3">io</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_7#4">Schwentus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_7#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_7#6">gerus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_7#7">darbus</w>.
+        <lb n="8" xml:id="BP_1591_I_Dom_3_Quadr_301_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_8#1">Teipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_8#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_8#3">mes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_8#4">mokinkimes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_8#5">bluſniencʒus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_8#6">Diewa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_8#7">/</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_3_Quadr_301_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_9#1">muſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_9#2">atſakimu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_9#3">nutilditi</w>.
+        <lb n="10" xml:id="BP_1591_I_Dom_3_Quadr_301_10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_10#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_10#2">Ketwirto</w>.
+        <lb n="11" xml:id="BP_1591_I_Dom_3_Quadr_301_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_11#1">Ape</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_11#2">ſchus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_11#3">ßodʒius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_11#4">Pono</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_11#5">Kriſtaus</w>.
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_301_12"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_12#1">KAda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_12#2">necʒiſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_12#3">Dwaſſe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_12#4">iſcheit</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_12#5">iſch</w>
+        <lb n="13-14" xml:id="BP_1591_I_Dom_3_Quadr_301_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_13-14#1">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_13-14#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_13-14#3">tada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_13-14#4">waikſchcʒoij</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_13-14#5">po</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_13-14#6">ſau<lb break="no"/>ſas</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_301_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_14#1">wietas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_14#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_14#3">ieſchkodama</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_14#4">atilſeghimo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_14#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_14#6">a</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_301_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_15#1">neraduſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_15#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_15#3">bila</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_15#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_15#5">ſugriſchiu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_15#6">namoſna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_15#7">mana</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_15#8">/</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_3_Quadr_301_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_16#1">iſchkur</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_16#2">iſcheiau</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_16#4">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_16#5">ateiuſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_16#6">randa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_16#7">ios</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_301_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_17#1">ſchlotomis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_17#2">iſchſchlotus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_17#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_17#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_17#5">iſchgraßintus</w>.
+        <lb n="18-19" xml:id="BP_1591_I_Dom_3_Quadr_301_18-19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_18-19#1">Tada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_18-19#2">eit</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_18-19#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_18-19#4">ima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_18-19#5">ſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_18-19#6">ſawimi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_18-19#7">ſeptinias</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_18-19#8">dwa<lb break="no"/>ſes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_18-19#9">/</w>
+        <lb n="19-20" xml:id="BP_1591_I_Dom_3_Quadr_301_19-20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_19-20#1">pikteſnias</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_19-20#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_19-20#3">neng</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_19-20#4">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_19-20#5">pati</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_19-20#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_19-20#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_19-20#8">ineiu<lb break="no"/>ſias</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_3_Quadr_301_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_20#1">giwen</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_20#2">tenai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_20#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_20#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_20#5">ſtow</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_301_20#6">paſkucʒiauſi</w>
+        <pb n="302"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_3_Quadr_302_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_1#1">daiktai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_1#2">ano</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_1#3">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_1#4">pikteſni</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_1#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_1#6">neng</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_3_Quadr_302_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_2#1">pirmi</w><ref decls="biblical" cRef="b.LUK.11.24-26"/></quote>
+.
+        <lb n="3-4" xml:id="BP_1591_I_Dom_3_Quadr_302_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_3-4#1">Pono</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_3-4#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_3-4#3">malone</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_3-4#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_3-4#5">ſuſimilſtancʒio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_3-4#6">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_3-4#7">grieſch<lb break="no"/>noio</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_3_Quadr_302_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_4#1">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_4#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_4#3">iſchtieſos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_4#4">ne</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_4#5">iſchkalbetinai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_4#6">dide</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_4#7">ira</w>.
+        <lb n="5" xml:id="BP_1591_I_Dom_3_Quadr_302_5"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_5#1">Ach</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_5#2">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_5#3">dide</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_5#4">ira</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_5#5">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_5#6">malone</w><ref decls="biblical" cRef="a.ECC.17.29"/></quote>
+?
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_5#8">Item</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_5#9">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_5#10">Sʒmogaus</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_3_Quadr_302_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_6#1">malone</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_6#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_6#3">tiktai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_6#4">artimoiui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_6#5">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_6#6">paſſiroda</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_6#8">Bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_6#9">Diewo</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_3_Quadr_302_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_7#1">malone</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_7#2">pereit</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_7#3">wiſſa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_7#4">ſwieta</w><ref decls="biblical" cRef="a.ECC.18.13"/></quote>
+.
+        <lb n="8-9" xml:id="BP_1591_I_Dom_3_Quadr_302_8-9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_8-9#1">Alle</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_8-9#2">ßmogus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_8-9#3">malones</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_8-9#4">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_8-9#5">neadbodams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_8-9#6">nů<lb break="no"/>dem</w>
+        <lb n="9-10" xml:id="BP_1591_I_Dom_3_Quadr_302_9-10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_9-10#1">draſei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_9-10#2">giwen</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_9-10#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_9-10#4">duſchos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_9-10#5">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_9-10#6">neprieteliaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_9-10#7">neſſi<lb break="no"/>ſaugodams</w>.
+        <lb n="10-11" xml:id="BP_1591_I_Dom_3_Quadr_302_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_10-11#1">O</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_10-11#2">ka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_10-11#3">weik</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_10-11#4">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_10-11#5">ßinodams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_10-11#6">ßmo<lb break="no"/>niu</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_3_Quadr_302_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_11#1">Drinſawima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_11#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_11#3">neadboghima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_11#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_11#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_11#6">neſiſaugoghima</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_302_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_12#1">giwenime</w>?
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_12#3">Atſaka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_12#4">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_12#5">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_12#6">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_12#7">kada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_12#8">ne</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_12#9">cʒiſta</w>
+        <lb n="13" xml:id="BP_1591_I_Dom_3_Quadr_302_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_13#1">Dwaſſe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_13#2">iſcheit</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_13#3">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_13#4">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_13#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_13#6">tada</w><ref decls="biblical" cRef="b.LUK.11.24"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_13#7">waikſchcʒoij</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_13#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_13#9">etc</w>.
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_302_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_14#1">Thie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_14#2">ßodei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_14#3">Pono</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_14#4">Kriſtaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_14#5">teip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_14#6">iſſimana</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_14#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_14#8">kaip</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_302_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_15#1">kada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_15#2">tartu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_15#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_15#4">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_15#5">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_15#6">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_15#7">didʒios</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_15#8">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_15#9">geribes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_15#10">/</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_3_Quadr_302_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_16#1">ſuſſimils</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_16#2">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_16#3">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_16#4">grieſchnoio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_16#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_16#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_16#7">iam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_16#8">griekus</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_302_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_17#1">atleis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_17#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_17#3">ghi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_17#4">apteiſins</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_17#6">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_17#7">ſchiteipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_17#8">Welina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_17#9">ſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_17#10">io</w>
+        <lb n="18" xml:id="BP_1591_I_Dom_3_Quadr_302_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_18#1">piktais</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_18#2">darbais</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_18#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_18#4">tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_18#5">eſti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_18#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_18#7">griekais</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_18#8">atwarjs</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_18#9">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_18#10">Idant</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_3_Quadr_302_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_19#1">tiktai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_19#2">grieſchnaſis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_19#3">butu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_19#4">iſchganits</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_19#6">Tadda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_19#7">welinas</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_3_Quadr_302_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_20#1">wirſchaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_20#2">negawens</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_20#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_20#4">net</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_20#5">regedams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_20#6">grieſchnaghi</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_3_Quadr_302_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_21#1">apteiſinta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_21#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_21#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_21#4">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_21#5">to</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_21#6">nekencʒ</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_21#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_21#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_21#9">kita</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_21#10">ßmogu</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_3_Quadr_302_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_22#1">ing</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_22#2">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_22#3">wieta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_22#4">teip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_22#5">weikiei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_22#6">negaledams</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_22#7">prigauti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_22#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_22#9">ing</w>
+        <lb n="23-24" xml:id="BP_1591_I_Dom_3_Quadr_302_23-24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_23-24#1">griekus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_23-24#2">biaurus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_23-24#3">inbraidinti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_23-24#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_23-24#5">ſugriſcht</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_23-24#6">anopi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_23-24#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_23-24#8">kuri</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_23-24#9">pir<lb break="no"/>me</w>
+        <lb n="24-25" xml:id="BP_1591_I_Dom_3_Quadr_302_24-25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_24-25#1">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_24-25#2">ßabangůſa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_24-25#3">turreia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_24-25#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_24-25#5">O</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_24-25#6">iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_24-25#7">anna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_24-25#8">ras</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_24-25#9">negiwe+||nanti</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_3_Quadr_302_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_25#1">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_25#2">baimeie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_25#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_25#4">neſiſauganti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_25#5">nůg</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_302_25#6">Duſches</w>
+        <pb n="303"/>
+        <lb n="1-2" xml:id="BP_1591_I_Dom_3_Quadr_303_1-2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_1-2#1">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_1-2#2">neprieteliaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_1-2#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_1-2#4">Net</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_1-2#5">neatboghime</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_1-2#6">dranſei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_1-2#7">giwe<lb break="no"/>nanti</w>.
+        <lb n="2" xml:id="BP_1591_I_Dom_3_Quadr_303_2"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_2#1">Tadda</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_2#2">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_2#3">pats</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_2#4">aſchma</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_2#5">topis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_2#6">ßmogauſpi</w>
+        <lb n="3" xml:id="BP_1591_I_Dom_3_Quadr_303_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_3#1">griſcht</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_3#2">tatai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_3#3">eſti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_3#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_3#5">ing</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_3#6">biaureſnius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_3#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_3#8">dideſnius</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_3#9">griekus</w>
+        <lb n="4-5" xml:id="BP_1591_I_Dom_3_Quadr_303_4-5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_4-5#1">ana</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_4-5#2">iwed</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_4-5#3">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_4-5#4">pirmai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_4-5#5">buwa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_4-5#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_4-5#7">Ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_4-5#8">ſchiteipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_4-5#9">bednas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_4-5#10">ßmo<lb break="no"/>gutelis</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_3_Quadr_303_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_5#1">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_5#2">neſiſaugoghimo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_5#3">delei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_5#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_5#5">welino</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_5#6">iweiktas</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_3_Quadr_303_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_6#1">amßinai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_6#2">tur</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_6#3">prapulti</w>.
+        <lb n="7-8" xml:id="BP_1591_I_Dom_3_Quadr_303_7-8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_7-8#1">Todelei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_7-8#2">mielas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_7-8#3">Krikſchcʒonie</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_7-8#4">tu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_7-8#5">taſkat</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_7-8#6">eſſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_7-8#7">krikſch<lb break="no"/>titas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_7-8#8">/</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_3_Quadr_303_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_8#1">emei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_8#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_8#3">kuna</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_8#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_8#5">kraughi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_8#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_8#7">kiek</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_8#8">kartu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_8#9">gawai</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_3_Quadr_303_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_9#1">atleidima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_9#2">grieku</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_9#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_9#4">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_9#5">tau</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_9#6">ßadeia</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_9#7">po</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_9#8">ſchu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_9#9">wargu</w>
+        <lb n="10" xml:id="BP_1591_I_Dom_3_Quadr_303_10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_10#1">amßina</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_10#2">iſchganima</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_10#4">Weiſdekighi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_10#5">nu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_10#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_10#7">negiwenk</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_10#8">teip</w>
+        <lb n="11-12" xml:id="BP_1591_I_Dom_3_Quadr_303_11-12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_11-12#1">dranſei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_11-12#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_11-12#3">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_11-12#4">kada</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_11-12#5">neturins</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_11-12#6">kokio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_11-12#7">neprieteliaus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_11-12#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_11-12#9">We<lb break="no"/>linas</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_3_Quadr_303_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_12#1">tawes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_12#2">tjka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_12#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_12#4">iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_12#5">tu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_12#6">neſſiſaugoſes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_12#7">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_12#8">iei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_12#9">negiwenſi</w>
+        <lb n="13" xml:id="BP_1591_I_Dom_3_Quadr_303_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_13#1">nobaßnai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_13#2">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_13#3">ghis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_13#4">taweſp</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_13#5">grinſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_13#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_13#7">tawe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_13#8">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_13#9">nauio</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_13#10">ing</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_3_Quadr_303_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_14#1">grieka</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_14#2">koki</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_14#3">imbraidis</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_14#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_14#5">idant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_14#6">amßinai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_14#7">prapultumbei</w>.
+        <lb n="15" xml:id="BP_1591_I_Dom_3_Quadr_303_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_15#1">Weiſdek</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_15#2">ſakau</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_15#3">pilnai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_15#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_15#5">idant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_15#6">welinas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_15#7">wirſchaus</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_3_Quadr_303_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_16#1">ant</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_16#2">tawens</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_16#3">negautu</w>.
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_16#5">Bet</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_16#6">kaip</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_16#7">wieſchliba</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_16#8">marti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_16#9">/</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_3_Quadr_303_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_17#1">iaunikiui</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_17#2">ſawam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_17#3">cʒiſta</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_17#4">iſſilaika</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_17#5">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_17#6">Teipo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_17#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_17#8">tu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_17#9">Kriſtui</w>
+        <lb n="18" xml:id="BP_1591_I_Dom_3_Quadr_303_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_18#1">muſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_18#2">wiſſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_18#3">tikramuiam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_18#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_18#5">amßinamuiam</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_18#6">Iaunikiui</w>
+        <lb n="19-20" xml:id="BP_1591_I_Dom_3_Quadr_303_19-20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_19-20#1">cʒiſtas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_19-20#2">iſſilaikik</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_19-20#3">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_19-20#4">Be</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_19-20#5">paliaubimo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_19-20#6">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_19-20#7">melſkiſſi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_19-20#8">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_19-20#9">bi<lb break="no"/>lodamas</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_19-20#10">/</w>
+        <lb n="20-21" xml:id="BP_1591_I_Dom_3_Quadr_303_20-21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_20-21#1">Ne</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_20-21#2">weſk</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_20-21#3">muſu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_20-21#4">ing</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_20-21#5">pagundima</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_20-21#6">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_20-21#7">Neſa</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_20-21#8">be</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_20-21#9">pri<lb break="no"/>ſtoghimo</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_3_Quadr_303_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_21#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_21#2">pagalbos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_21#3">Schwentos</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_21#4">Dwaſes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_21#5">/</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_3_Quadr_303_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_22#1">ßmogus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_22#2">iſch</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_22#3">ſawes</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_22#4">nieko</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_22#5">gero</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_22#6">negal</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_22#7">nei</w>
+        <lb n="23" xml:id="BP_1591_I_Dom_3_Quadr_303_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_23#1">dumoti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_23#2">nei</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_23#3">dariti</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_23#4">/</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_23#5">Tůgi</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_23#6">tu</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_23#7">mus</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_23#8">Pone</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_3_Quadr_303_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_24#1">Diewe</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_24#2">amßinai</w>
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_24#3">nepraſtok</w>.
+        <lb n="25" xml:id="BP_1591_I_Dom_3_Quadr_303_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_3_Quadr_303_25#1">AMEN</w>.
+      </div>
+    </body>
+  </text>
+</TEI>

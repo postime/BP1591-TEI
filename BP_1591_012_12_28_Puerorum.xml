@@ -1,0 +1,2763 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bretke Postil</title>
+      </titleStmt>
+      <publicationStmt>
+      </publicationStmt>
+      <sourceDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="edition" xml:id="BP_1591">
+    <body>
+      <div type="sermon" xml:id="BP_1591_I_12_28_Puerorum">
+        <pb n="102"/>
+        <lb n="12" xml:id="BP_1591_I_12_28_Puerorum_102_12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_12#1">DIENOIE</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_12#2">NEKALTVIV</w>
+        <lb n="13" xml:id="BP_1591_I_12_28_Puerorum_102_13"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_13#1">Berneliu,</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_13#2">Math:</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_13#3">2.</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_13#4">paguldime</w>.
+        <lb n="14-15" xml:id="BP_1591_I_12_28_Puerorum_102_14-15"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_14-15#1">ATſtoius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_14-15#2">Iſchmintingiems</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_14-15#3">nog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_14-15#4">He<lb break="no"/>rodo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_14-15#5">/</w>
+        <lb n="15" xml:id="BP_1591_I_12_28_Puerorum_102_15"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_15#1">Schitai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_15#2">paſſirode</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_15#3">Ioſephui</w>
+        <lb n="16-17" xml:id="BP_1591_I_12_28_Puerorum_102_16-17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_16-17#1">ſapnije</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_16-17#2">Angelas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_16-17#3">Pono</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_16-17#4">bilodamas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_16-17#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_16-17#6">Kel<lb break="no"/>keſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_16-17#7">/</w>
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_102_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_17#1">imk</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_17#2">Berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_17#3">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_17#4">Motina</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_17#5">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_17#6">taweſp</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_17#7">/</w>
+        <lb n="18" xml:id="BP_1591_I_12_28_Puerorum_102_18"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#2">bek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#3">ingi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#4">Egypto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#5">ßeme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#7">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#8">buki</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#9">tenai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#10">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_18#11">ik</w>
+        <lb n="19" xml:id="BP_1591_I_12_28_Puerorum_102_19"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_19#1">eſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_19#2">taw</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_19#3">ſakiſiu</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_19#5">Neſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_19#6">ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_19#7">to</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_19#8">ſtow</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_19#9">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_19#10">iog</w>
+        <lb n="20" xml:id="BP_1591_I_12_28_Puerorum_102_20"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_20#1">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_20#2">Bernelio</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_20#3">ieſchkos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_20#4">nußawinti</w>.
+        <lb n="21" xml:id="BP_1591_I_12_28_Puerorum_102_21"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_21#1">Ioſephas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_21#2">keleſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_21#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_21#4">ieme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_21#5">Berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_21#6">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_21#7">motina</w>
+        <lb n="22-103" xml:id="BP_1591_I_12_28_Puerorum_102_22-103"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#1">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#2">ſaweſp</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#4">nakti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#6">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#7">nueia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#8">ing</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#9">Egypto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#10">ße<lb break="no"/>me</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_102_22-103#11">/</w>
+        <pb n="103"/>
+        <lb n="1" xml:id="BP_1591_I_12_28_Puerorum_103_1"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_1#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_1#2">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_1#3">tenai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_1#4">ik</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_1#5">ſmerties</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_1#6">Herodo</w>.
+        <lb n="2" xml:id="BP_1591_I_12_28_Puerorum_103_2"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_2#1">Idant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_2#2">iſſipilditu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_2#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_2#4">tatai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_2#5">ka</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_2#6">Ponas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_2#7">per</w>
+        <lb n="3" xml:id="BP_1591_I_12_28_Puerorum_103_3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_3#1">Praraka</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_3#2">tares</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_3#3">eſti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_3#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_3#5">kurſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_3#6">bila</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_3#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_3#8">Iſch</w>
+        <lb n="4" xml:id="BP_1591_I_12_28_Puerorum_103_4"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_4#1">Egypto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_4#2">pawadinau</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_4#3">Sunu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_4#4">mana</w>.
+        <lb n="5" xml:id="BP_1591_I_12_28_Puerorum_103_5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_5#1">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_5#2">potam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_5#3">regedams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_5#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_5#5">iog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_5#6">nog</w>
+        <lb n="6" xml:id="BP_1591_I_12_28_Puerorum_103_6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_6#1">Iſchmintingu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_6#2">priwiltas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_6#3">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_6#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_6#5">didei</w>
+        <lb n="7-8" xml:id="BP_1591_I_12_28_Puerorum_103_7-8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_7-8#1">apſinirta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_7-8#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_7-8#3">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_7-8#4">nuſiuntes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_7-8#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_7-8#6">liepe</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_7-8#7">wiſſus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_7-8#8">Ber<lb break="no"/>nelius</w>
+        <lb n="8" xml:id="BP_1591_I_12_28_Puerorum_103_8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_8#1">ußmuſchti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_8#2">Bethleheme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_8#3">mieſte</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_8#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_8#5">ir</w>
+        <lb n="9" xml:id="BP_1591_I_12_28_Puerorum_103_9"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_9#1">pro</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_9#2">wiſſus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_9#3">rubeßius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_9#4">Bethlehes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_9#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_9#6">nog</w>
+        <lb n="10-11" xml:id="BP_1591_I_12_28_Puerorum_103_10-11"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_10-11#1">dweiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_10-11#2">metu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_10-11#3">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_10-11#4">kurie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_10-11#5">ßemiaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_10-11#6">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_10-11#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_10-11#8">pa<lb break="no"/>gal</w>
+        <lb n="11-12" xml:id="BP_1591_I_12_28_Puerorum_103_11-12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_11-12#1">cʒieſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_11-12#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_11-12#3">kurio</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_11-12#4">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_11-12#5">pilnai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_11-12#6">nog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_11-12#7">iſchmin<lb break="no"/>tingu</w>
+        <lb n="12" xml:id="BP_1591_I_12_28_Puerorum_103_12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_12#1">daſißinoia</w>.
+        <lb n="13" xml:id="BP_1591_I_12_28_Puerorum_103_13"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_13#1">Tada</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_13#2">iſſipilde</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_13#3">kas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_13#4">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_13#5">ſakita</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_13#6">per</w>
+        <lb n="14" xml:id="BP_1591_I_12_28_Puerorum_103_14"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_14#1">Ieremioſchu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_14#2">praraka</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_14#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_14#4">kurſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_14#5">bila</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_14#6">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_14#7">Ant</w>
+        <lb n="15-16" xml:id="BP_1591_I_12_28_Puerorum_103_15-16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_15-16#1">kalnu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_15-16#2">ſchaukſmas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_15-16#3">eſti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_15-16#4">girdetas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_15-16#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_15-16#6">deiaghi<lb break="no"/>mas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_15-16#7">/</w>
+        <lb n="16" xml:id="BP_1591_I_12_28_Puerorum_103_16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_16#1">werkſmas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_16#2">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_16#3">raudoghimas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_16#4">didis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_16#5">/</w>
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_103_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_17#1">Rachel</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_17#2">apwerke</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_17#3">waikus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_17#4">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_17#5">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_17#6">nedawe</w>
+        <lb n="18" xml:id="BP_1591_I_12_28_Puerorum_103_18"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_18#1">ſawes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_18#2">palinkſminti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_18#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_18#4">neſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_18#5">iu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_103_18#6">nebebuwa</w><ref decls="biblical" cRef="b.JER.31.15"/></quote>
+.
+        <pb n="104"/>
+        <lb n="1" xml:id="BP_1591_I_12_28_Puerorum_104_1"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_1#1">Bet</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_1#2">numirus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_1#3">Herodui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_1#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_1#5">Schitai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_1#6">/</w>
+        <lb n="2-3" xml:id="BP_1591_I_12_28_Puerorum_104_2-3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_2-3#1">Angels</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_2-3#2">Pono</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_2-3#3">paſſirode</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_2-3#4">Ioſephui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_2-3#5">ſap<lb break="no"/>nije</w>
+        <lb n="3" xml:id="BP_1591_I_12_28_Puerorum_104_3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_3#1">Egypto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_3#2">ßemeie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_3#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_3#4">bilodams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_3#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_3#6">Kelkiſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_3#7">/</w>
+        <lb n="4-5" xml:id="BP_1591_I_12_28_Puerorum_104_4-5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#1">imk</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#2">Berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#4">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#5">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#6">Motina</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#8">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#9">eik</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#10">ing</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_4-5#11">ße<lb break="no"/>me</w>
+        <lb n="5" xml:id="BP_1591_I_12_28_Puerorum_104_5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_5#1">Iſrael</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_5#2">thie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_5#3">numire</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_5#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_5#5">kurie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_5#6">noreia</w>
+        <lb n="6" xml:id="BP_1591_I_12_28_Puerorum_104_6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_6#1">nußuditi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_6#2">Bernelio</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_6#3">to</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_6#5">Ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_6#6">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_6#7">kieleſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_6#8">/</w>
+        <lb n="7" xml:id="BP_1591_I_12_28_Puerorum_104_7"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_7#1">eme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_7#2">Berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_7#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_7#4">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_7#5">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_7#6">Motina</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_7#7">ſaweſp</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_7#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_7#9">ir</w>
+        <lb n="8-9" xml:id="BP_1591_I_12_28_Puerorum_104_8-9"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_8-9#1">ateia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_8-9#2">ingi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_8-9#3">ßeme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_8-9#4">Iſrael</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_8-9#6">A</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_8-9#7">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_8-9#8">iſchgir<lb break="no"/>da</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_8-9#9">/</w>
+        <lb n="9-10" xml:id="BP_1591_I_12_28_Puerorum_104_9-10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_9-10#1">iog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_9-10#2">Archelaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_9-10#3">Karaliumi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_9-10#4">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_9-10#5">Sʒi<lb break="no"/>du</w>
+        <lb n="10" xml:id="BP_1591_I_12_28_Puerorum_104_10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_10#1">ßemeie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_10#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_10#3">wietoie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_10#4">Herodo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_10#5">Tiewo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_10#6">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_10#7">/</w>
+        <lb n="11-12" xml:id="BP_1591_I_12_28_Puerorum_104_11-12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_11-12#1">bijoioſe</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_11-12#2">thenai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_11-12#3">eiti</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_11-12#5">Ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_11-12#6">ſapnije</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_11-12#7">gawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_11-12#8">pri<lb break="no"/>ſakima</w>
+        <lb n="12" xml:id="BP_1591_I_12_28_Puerorum_104_12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_12#1">nog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_12#2">Diewo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_12#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_12#4">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_12#5">eia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_12#6">ing</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_12#7">ſchalis</w>
+        <lb n="13" xml:id="BP_1591_I_12_28_Puerorum_104_13"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_13#1">Galileos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_13#2">ßemes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_13#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_13#4">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_13#5">ateia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_13#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_13#7">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_13#8">giwena</w>
+        <lb n="14" xml:id="BP_1591_I_12_28_Puerorum_104_14"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_14#1">mieſte</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_14#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_14#3">kuri</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_14#4">wadin</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_14#5">Naʒareth</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_14#7">Idant</w>
+        <lb n="15-16" xml:id="BP_1591_I_12_28_Puerorum_104_15-16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_15-16#1">iſſipilditu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_15-16#2">tatai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_15-16#3">kas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_15-16#4">ſakita</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_15-16#5">eſti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_15-16#6">per</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_15-16#7">pra<lb break="no"/>rakus</w>.
+        <lb n="16-17" xml:id="BP_1591_I_12_28_Puerorum_104_16-17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_16-17#1">Ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_16-17#2">tur</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_16-17#3">buti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_16-17#4">wadintas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_104_16-17#5">Naʒa<lb break="no"/>renſkas</w>.<ref decls="biblical" cRef="b.MAT.2.13-23"/></quote>
+
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_104_17"/>
+
+
+        <pb n="105"/>
+        <lb n="1" xml:id="BP_1591_I_12_28_Puerorum_105_1"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_1#1">Iſchguldimas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_1#2">ſchos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_1#3">Euangelios</w>.
+        <lb n="2" xml:id="BP_1591_I_12_28_Puerorum_105_2"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_2#1">SChwentas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_2#2">Mathieius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_2#3">Euangeliſta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_2#4">pirm</w>
+        <lb n="3" xml:id="BP_1591_I_12_28_Puerorum_105_3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_3#1">ſchos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_3#2">Euangelios</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_3#3">raſcha</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_3#4">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_3#5">Iſchmintingus</w>
+        <lb n="4" xml:id="BP_1591_I_12_28_Puerorum_105_4"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_4#1">ritu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_4#2">ßemeie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_4#3">iſchwiduſius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_4#4">nauie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_4#5">ßwaiſde</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_4#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_4#7">ir</w>
+        <lb n="5" xml:id="BP_1591_I_12_28_Puerorum_105_5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_5#1">ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_5#2">tos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_5#3">numanuſius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_5#4">Sʒidu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_5#5">ßemeie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_5#6">naughi</w>
+        <lb n="6-7" xml:id="BP_1591_I_12_28_Puerorum_105_6-7"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_6-7#1">karialiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_6-7#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_6-7#3">ſwieto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_6-7#4">Iſchganitaghi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_6-7#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_6-7#6">ußgimuſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_6-7#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_6-7#8">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_6-7#9">anus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_6-7#10">to<lb break="no"/>delei</w>
+        <lb n="7" xml:id="BP_1591_I_12_28_Puerorum_105_7"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_7#1">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_7#2">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_7#3">ßemes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_7#4">ik</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_7#5">Ieruſales</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_7#6">ataijuſius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_7#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_7#8">idant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_7#9">io</w>
+        <lb n="8" xml:id="BP_1591_I_12_28_Puerorum_105_8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_8#1">melſtuſe</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_8#2">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_8#3">iam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_8#4">priſiektu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_8#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_8#6">priegtam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_8#7">karaliu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_8#8">Heroda</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_8#9">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_8#10">ſu</w>
+        <lb n="9-10" xml:id="BP_1591_I_12_28_Puerorum_105_9-10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_9-10#1">wiſſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_9-10#2">mieſtu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_9-10#3">Ieruſales</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_9-10#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_9-10#5">delei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_9-10#6">ſcho</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_9-10#7">garſo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_9-10#8">Iſchmintin<lb break="no"/>guiu</w>
+        <lb n="10" xml:id="BP_1591_I_12_28_Puerorum_105_10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_10#1">iſſiganduſi</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_10#3">Bei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_10#4">ſchus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_10#5">iſchmintingus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_10#6">liepuſi</w>
+        <lb n="11" xml:id="BP_1591_I_12_28_Puerorum_105_11"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_11#1">eiti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_11#2">ing</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_11#3">Bethlehem</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_11#4">Kriſtauſp</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_11#6">A</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_11#7">ghi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_11#8">tikoiuſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_11#9">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_11#10">idant</w>
+        <lb n="12" xml:id="BP_1591_I_12_28_Puerorum_105_12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_12#1">ta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_12#2">Berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_12#3">Ieſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_12#4">nußawintu</w><ref decls="biblical" cRef="b.MAT.2.1-8"/></quote>
+.
+        <lb n="13-14" xml:id="BP_1591_I_12_28_Puerorum_105_13-14"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_13-14#1">Schoie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_13-14#2">Euangelioie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_13-14#3">Schwentas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_13-14#4">Mothieius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_13-14#5">to<lb break="no"/>liaus</w>
+        <lb n="14-15" xml:id="BP_1591_I_12_28_Puerorum_105_14-15"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_14-15#1">raſcha</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_14-15#2">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_14-15#3">iog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_14-15#4">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_14-15#5">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_14-15#6">to</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_14-15#7">apſinirtimo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_14-15#8">uſch<lb break="no"/>muſchdines</w>
+        <lb n="15" xml:id="BP_1591_I_12_28_Puerorum_105_15"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_15#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_15#2">paſmaugdines</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_15#3">eſt</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_15#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_15#5">wiſſus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_15#6">Bernelius</w>
+        <lb n="16" xml:id="BP_1591_I_12_28_Puerorum_105_16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_16#1">mieſto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_16#2">Bethlehem</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_16#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_16#4">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_16#5">kitus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_16#6">kurie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_16#7">toſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_16#8">rubeßůſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_16#9">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_16#10">/</w>
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_105_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_17#1">dweiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_17#2">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_17#3">ßemiaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_17#4">metu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_17#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_17#6">Tiktai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_17#7">todelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_17#8">ieib</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_17#9">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_17#10">Kriſtu</w>
+        <lb n="18" xml:id="BP_1591_I_12_28_Puerorum_105_18"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#1">ußgautu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#2">drauge</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#4">kurio</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#5">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#6">bijoios</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#8">ieib</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#9">tas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#10">ghi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_18#11">iſch</w>
+        <lb n="19" xml:id="BP_1591_I_12_28_Puerorum_105_19"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_19#1">karaliſtos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_19#2">ne</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_19#3">patremtu</w><ref decls="biblical" cRef="b.MAT.2.16-18"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_19#5">Bet</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_19#6">Ponas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_19#7">Diewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_19#8">kacʒei</w>
+        <lb n="20" xml:id="BP_1591_I_12_28_Puerorum_105_20"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_20#1">ſchus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_20#2">Bernelius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_20#3">dawe</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_20#4">Heroda</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_20#5">ußmuſchti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_20#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_20#7">tacʒiau</w>
+        <lb n="21-22" xml:id="BP_1591_I_12_28_Puerorum_105_21-22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_21-22#1">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_21-22#2">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_21-22#3">Sunu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_21-22#4">Kriſtu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_21-22#5">apgin</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_21-22#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_21-22#7">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_21-22#8">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_21-22#9">tas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_21-22#10">Smarki<lb break="no"/>nikas</w>
+        <lb n="22" xml:id="BP_1591_I_12_28_Puerorum_105_22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_22#1">negaleia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_22#2">ußgauti</w><ref decls="biblical" cRef="b.MAT.2.13-15"/></quote>
+.
+        <lb n="23" xml:id="BP_1591_I_12_28_Puerorum_105_23"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_23#1">Mes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_23#2">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_23#3">ſchos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_23#4">Euangelios</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_23#5">ſchů</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_23#6">kartu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_23#7">tiktai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_23#8">/</w>
+        <lb n="24" xml:id="BP_1591_I_12_28_Puerorum_105_24"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_24#1">Ape</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_24#2">Smarkuma</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_24#3">Herodo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_24#4">kalbeſim</w>.
+        <lb n="25" xml:id="BP_1591_I_12_28_Puerorum_105_25"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_25#1">Ape</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_25#2">Smarkuma</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_25#3">Karaliaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_25#4">Herodo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_25#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_25#6">tiek</w>
+        <lb n="26" xml:id="BP_1591_I_12_28_Puerorum_105_26"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_26#1">nekaltu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_26#2">Berneliu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_105_26#3">nußawinancʒio</w>.
+        <pb n="106"/>
+        <lb n="1" xml:id="BP_1591_I_12_28_Puerorum_106_1"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_1#1">Swietiſchkoſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_1#2">Hiſtoriaſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_1#3">tankei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_1#4">ſkaitom</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_1#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_1#6">kartais</w>
+        <lb n="2-3" xml:id="BP_1591_I_12_28_Puerorum_106_2-3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_2-3#1">ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_2-3#2">kario</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_2-3#3">Smarkinikus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_2-3#4">kiek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_2-3#5">tukſtancʒiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_2-3#6">ßmoniu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_2-3#7">pa<lb break="no"/>muſchuſius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_2-3#8">/</w>
+        <lb n="3-4" xml:id="BP_1591_I_12_28_Puerorum_106_3-4"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_3-4#1">alle</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_3-4#2">niekadai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_3-4#3">neſkaitom</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_3-4#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_3-4#5">ben</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_3-4#6">wiena</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_3-4#7">ſmar<lb break="no"/>kinika</w>
+        <lb n="4" xml:id="BP_1591_I_12_28_Puerorum_106_4"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_4#1">tiek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_4#2">maßu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_4#3">Berneliu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_4#4">wienu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_4#5">kartu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_4#6">ußumuſchuſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_4#7">/</w>
+        <lb n="5-6" xml:id="BP_1591_I_12_28_Puerorum_106_5-6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_5-6#1">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_5-6#2">ſchis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_5-6#3">karalius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_5-6#4">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_5-6#5">ira</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_5-6#6">pamuſchdines</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_5-6#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_5-6#8">Du<lb break="no"/>mok</w>
+        <lb n="6-7" xml:id="BP_1591_I_12_28_Puerorum_106_6-7"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#1">tu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#2">pats</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#4">iei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#5">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#6">wiſſo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#7">mieſto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#8">Bernelius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#9">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#10">kurie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_6-7#11">bu<lb break="no"/>wa</w>
+        <lb n="7-8" xml:id="BP_1591_I_12_28_Puerorum_106_7-8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#1">dweiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#3">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#4">maßaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#5">metu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#7">dawe</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#8">nußawinti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#9">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#10">kiek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_7-8#11">bu<lb break="no"/>wa</w>
+        <lb n="8" xml:id="BP_1591_I_12_28_Puerorum_106_8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_8#1">ßindancʒiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_8#2">waikeliu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_8#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_8#4">kiek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_8#5">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_8#6">augiwiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_8#7">riekencʒiu</w>
+        <lb n="9-10" xml:id="BP_1591_I_12_28_Puerorum_106_9-10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#1">delei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#2">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#3">mielo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#4">waiko</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#6">kuri</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#7">nieko</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#8">nekalta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#9">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#10">tacʒau</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_9-10#11">re<lb break="no"/>geia</w>
+        <lb n="10" xml:id="BP_1591_I_12_28_Puerorum_106_10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#1">po</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#2">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#3">akim</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#5">be</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#6">prowos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#8">be</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#9">tieſos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#10">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#11">pradurema</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_10#12">/</w>
+        <lb n="11-12" xml:id="BP_1591_I_12_28_Puerorum_106_11-12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_11-12#1">perkertama</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_11-12#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_11-12#3">perpleſchema</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_11-12#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_11-12#5">alba</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_11-12#6">kitaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_11-12#7">ſmercʒiop</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_11-12#8">deda<lb break="no"/>ma</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_11-12#9">/</w>
+        <lb n="12" xml:id="BP_1591_I_12_28_Puerorum_106_12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_12#1">kiek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_12#2">Tiewu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_12#3">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_12#4">wiſſame</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_12#5">mieſte</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_12#6">Bethlehem</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_12#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_12#8">ir</w>
+        <lb n="13" xml:id="BP_1591_I_12_28_Puerorum_106_13"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_13#1">rubeßoſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_13#2">to</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_13#3">mieſto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_13#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_13#5">kurie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_13#6">tapeieg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_13#7">turreia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_13#8">regeti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_13#9">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_13#10">ſawa</w>
+        <lb n="14-15" xml:id="BP_1591_I_12_28_Puerorum_106_14-15"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#1">miela</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#3">graßu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#5">bei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#6">nieko</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#7">pikto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#8">nepadaruſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#9">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#10">berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#11">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_14-15#12">ne<lb break="no"/>ßinnanti</w>
+        <lb n="15" xml:id="BP_1591_I_12_28_Puerorum_106_15"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_15#1">dabar</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_15#2">kas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_15#3">pikt</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_15#4">ira</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_15#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_15#6">nußawinama</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_15#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_15#8">O</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_15#9">nebuwa</w>
+        <lb n="16" xml:id="BP_1591_I_12_28_Puerorum_106_16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_16#1">Tiewui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_16#2">nei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_16#3">Augiwei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_16#4">wale</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_16#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_16#6">ta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_16#7">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_16#8">mieluli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_16#9">iſchgelbeti</w>
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_106_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_17#1">alba</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_17#2">iſchwadůti</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_17#4">Kiek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_17#5">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_17#6">ſeſſeru</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_17#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_17#8">kurios</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_17#9">be</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_17#10">ſwalios</w>
+        <lb n="18-19" xml:id="BP_1591_I_12_28_Puerorum_106_18-19"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#1">turreia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#2">regeti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#4">iog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#5">ios</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#6">mielas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#7">brolaitis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#9">teipo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#10">baiſei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_18-19#11">bu<lb break="no"/>wa</w>
+        <lb n="19" xml:id="BP_1591_I_12_28_Puerorum_106_19"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_19#1">ßelnieru</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_19#2">Herodo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_19#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_19#4">ſmercʒiop</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_19#5">biauroſp</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_19#6">dedams</w>.
+        <lb n="20-21" xml:id="BP_1591_I_12_28_Puerorum_106_20-21"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_20-21#1">Iſchtieſos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_20-21#2">akmů</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_20-21#3">galeia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_20-21#4">gailetiſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_20-21#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_20-21#6">ſcho</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_20-21#7">ſmarkawima</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_20-21#8">ka<lb break="no"/>ralius</w>
+        <lb n="21" xml:id="BP_1591_I_12_28_Puerorum_106_21"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_21#1">Sʒidu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_21#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_21#3">kada</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_21#4">pro</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_21#5">wiſſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_21#6">mieſta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_21#7">Bethlehem</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_21#8">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_21#9">pro</w>
+        <lb n="22" xml:id="BP_1591_I_12_28_Puerorum_106_22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_22#1">wiſſus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_22#2">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_22#3">kiemus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_22#4">ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_22#5">wiſſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_22#6">ulicʒiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_22#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_22#8">Koßname</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_22#9">numme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_22#10">/</w>
+        <lb n="23" xml:id="BP_1591_I_12_28_Puerorum_106_23"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_23#1">tokſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_23#2">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_23#3">krauio</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_23#4">pralieghimas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_23#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_23#6">tokſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_23#7">werkſmas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_23#8">/</w>
+        <lb n="24" xml:id="BP_1591_I_12_28_Puerorum_106_24"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_24#1">kaukimmas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_24#2">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_24#3">drebeijmas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_24#4">wiſſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_24#5">ßmoniu</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_24#7">Augiwes</w>
+        <lb n="25" xml:id="BP_1591_I_12_28_Puerorum_106_25"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_25#1">warweia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_25#2">krauieis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_25#3">waiko</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_25#4">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_25#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_25#6">Vlicʒos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_25#7">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_25#8">wiſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_25#9">gaſai</w>
+        <lb n="26-107" xml:id="BP_1591_I_12_28_Puerorum_106_26-107"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_26-107#1">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_26-107#2">krauieis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_26-107#3">nekaltuiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_26-107#4">Berneliu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_26-107#5">apſchlakiti</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_106_26-107#7">Iſch<lb break="no"/>tieſſos</w>
+        <pb n="107"/>
+        <lb n="1" xml:id="BP_1591_I_12_28_Puerorum_107_1"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_1#1">galeia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_1#2">tatai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_1#3">pabaiſeti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_1#4">mielai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_1#5">Saulelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_1#6">ir</w>
+        <lb n="2" xml:id="BP_1591_I_12_28_Puerorum_107_2"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_2#1">menui</w>:
+        <lb n="3" xml:id="BP_1591_I_12_28_Puerorum_107_3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_3#1">Bet</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_3#2">pawiſdekem</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_3#3">ſchicʒe</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_3#4">tris</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_3#5">daiktus</w>.
+        <lb n="4" xml:id="BP_1591_I_12_28_Puerorum_107_4"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_4#1">Pirmiauſei</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_4#3">Kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_4#4">kitrei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_4#5">elgeſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_4#6">Herodas</w>.
+        <lb n="5" xml:id="BP_1591_I_12_28_Puerorum_107_5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_5#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_5#2">Antro</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_5#4">Kodelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_5#5">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_5#6">ſchůs</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_5#7">nekaltus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_5#8">Bernelius</w>
+        <lb n="6" xml:id="BP_1591_I_12_28_Puerorum_107_6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_6#1">ußmuſchdin</w>.
+        <lb n="7" xml:id="BP_1591_I_12_28_Puerorum_107_7"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_7#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_7#2">Trecʒio</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_7#4">Kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_7#5">iam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_7#6">tas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_7#7">darbas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_7#8">ſekaſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_7#9">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_7#10">Ir</w>
+        <lb n="8" xml:id="BP_1591_I_12_28_Puerorum_107_8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_8#1">koke</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_8#2">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_8#3">paſkui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_8#4">nůg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_8#5">Diewo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_8#6">gauna</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_8#7">alga</w>.
+        <lb n="9" xml:id="BP_1591_I_12_28_Puerorum_107_9"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_9#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_9#2">Pirmo</w>.
+        <lb n="10" xml:id="BP_1591_I_12_28_Puerorum_107_10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_10#1">Ape</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_10#2">Kitriſta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_10#3">Karaliaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_10#4">Herodo</w>.
+        <lb n="11" xml:id="BP_1591_I_12_28_Puerorum_107_11"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_11#1">HErodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_11#2">nůg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_11#3">Iſchmintingu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_11#4">iſchtjrens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_11#5">naughi</w>
+        <lb n="12-13" xml:id="BP_1591_I_12_28_Puerorum_107_12-13"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_12-13#1">Karaliu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_12-13#2">Sʒidu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_12-13#3">gimuſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_12-13#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_12-13#5">tůiaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_12-13#6">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_12-13#7">ſchir<lb break="no"/>dije</w>
+        <lb n="13" xml:id="BP_1591_I_12_28_Puerorum_107_13"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_13#1">dumaij</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_13#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_13#3">eſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_13#4">ta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_13#5">Berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_13#6">nepalikſiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_13#7">giwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_13#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_13#9">bet</w>
+        <lb n="14" xml:id="BP_1591_I_12_28_Puerorum_107_14"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_14#1">ſmerti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_14#2">iam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_14#3">důſiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_14#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_14#5">Todelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_14#6">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_14#7">ſchu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_14#8">Triju</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_14#9">daikttu</w>
+        <lb n="15" xml:id="BP_1591_I_12_28_Puerorum_107_15"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_15#1">tireſſi</w>.
+        <lb n="16" xml:id="BP_1591_I_12_28_Puerorum_107_16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_16#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_16#2">Pirmo</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_16#4">Noredams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_16#5">ßinoti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_16#6">wieta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_16#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_16#8">kur</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_16#9">taſſai</w>
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_107_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_17#1">Bernelis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_17#2">butu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_17#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_17#4">kurri</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_17#5">iſchmintingi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_17#6">ſaka</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_17#7">Karaluna</w>
+        <lb n="18-19" xml:id="BP_1591_I_12_28_Puerorum_107_18-19"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_18-19#1">ſanti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_18-19#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_18-19#3">atwadin</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_18-19#4">ſaweſp</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_18-19#5">wiriauſius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_18-19#6">kunigus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_18-19#7">baßni<lb break="no"/>cʒios</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_18-19#8">/</w>
+        <lb n="19-20" xml:id="BP_1591_I_12_28_Puerorum_107_19-20"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_19-20#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_19-20#2">raſchta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_19-20#3">mokancʒius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_19-20#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_19-20#5">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_19-20#6">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_19-20#7">tu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_19-20#8">tikrai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_19-20#9">daſſißin<lb break="no"/>na</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_19-20#10">/</w>
+        <lb n="20" xml:id="BP_1591_I_12_28_Puerorum_107_20"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_20#1">kur</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_20#2">turretu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_20#3">Kriſtus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_20#4">ußgimti</w><ref decls="biblical" cRef="b.MAT.2.5-6"/></quote>
+.
+        <lb n="21-22" xml:id="BP_1591_I_12_28_Puerorum_107_21-22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_21-22#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_21-22#2">Antro</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_21-22#4">Iſchtjrens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_21-22#5">wieta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_21-22#6">alba</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_21-22#7">mieſta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_21-22#8">ußgimi<lb break="no"/>mo</w>
+        <lb n="22" xml:id="BP_1591_I_12_28_Puerorum_107_22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_22#1">Kriſtaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_22#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_22#3">pawadin</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_22#4">ſaweſp</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_22#5">Iſchmintingus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_22#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_22#7">pilnai</w>
+        <lb n="23" xml:id="BP_1591_I_12_28_Puerorum_107_23"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_23#1">teipaieg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_23#2">nůgiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_23#3">klauſdams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_23#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_23#5">Cʒieſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_23#6">kada</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_23#7">ßwaiſde</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_23#8">iemus</w>
+        <lb n="24-25" xml:id="BP_1591_I_12_28_Puerorum_107_24-25"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_24-25#1">paſſirode</w><ref decls="biblical" cRef="b.MAT.2.7"/></quote>
+.
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_24-25#3">Idant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_24-25#4">ßinnotu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_24-25#5">cʒieſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_24-25#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_24-25#7">ků</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_24-25#8">metu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_24-25#9">butu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_24-25#10">uß<lb break="no"/>gimmens</w>
+        <lb n="25" xml:id="BP_1591_I_12_28_Puerorum_107_25"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_107_25#1">Kriſtus</w>.
+        <pb n="108"/>
+        <lb n="1-2" xml:id="BP_1591_I_12_28_Puerorum_108_1-2"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_1-2#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_1-2#2">Trecʒio</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_1-2#4">Sʒinnodams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_1-2#5">wieta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_1-2#6">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_1-2#7">Cʒieſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_1-2#8">ußgim<lb break="no"/>mimo</w>
+        <lb n="2-3" xml:id="BP_1591_I_12_28_Puerorum_108_2-3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_2-3#1">Kriſtaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_2-3#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_2-3#3">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_2-3#4">kitriſtos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_2-3#5">piktos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_2-3#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_2-3#7">ſiuncʒ</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_2-3#8">Iſch<lb break="no"/>mintingus</w>
+        <lb n="3" xml:id="BP_1591_I_12_28_Puerorum_108_3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_3#1">ing</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_3#2">Bethlehem</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_3#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_3#4">priſakidams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_3#5">iemus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_3#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_3#7">idant</w>
+        <lb n="4" xml:id="BP_1591_I_12_28_Puerorum_108_4"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_4#1">anis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_4#2">atlikke</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_4#3">prieg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_4#4">to</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_4#5">Bernelio</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_4#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_4#7">jop</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_4#8">wel</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_4#9">atgriſchtu</w><ref decls="biblical" cRef="b.MAT.2.8"/></quote>
+.
+        <lb n="5-6" xml:id="BP_1591_I_12_28_Puerorum_108_5-6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_5-6#1">Kodel</w>?
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_5-6#3">Idant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_5-6#4">iů</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_5-6#5">tikrai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_5-6#6">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_5-6#7">iu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_5-6#8">iſchtirtu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_5-6#9">ape</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_5-6#10">ta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_5-6#11">Ber<lb break="no"/>neli</w>
+        <lb n="6" xml:id="BP_1591_I_12_28_Puerorum_108_6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_6#1">Chriſtu</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_6#3">Kitriaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_6#4">iſchtioſos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_6#5">niekas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_6#6">nebutu</w>
+        <lb n="7-8" xml:id="BP_1591_I_12_28_Puerorum_108_7-8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_7-8#1">galleiens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_7-8#2">ßabangus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_7-8#3">ſpenſti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_7-8#4">Kriſtui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_7-8#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_7-8#6">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_7-8#7">ſchiſſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_7-8#8">He<lb break="no"/>rodas</w>
+        <lb n="8" xml:id="BP_1591_I_12_28_Puerorum_108_8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_8#1">ſpendens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_8#2">ira</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_8#4">Kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_8#5">tada</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_8#6">thů</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_8#7">cʒieſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_8#8">wirauſe</w>
+        <lb n="9-10" xml:id="BP_1591_I_12_28_Puerorum_108_9-10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_9-10#1">galwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_9-10#2">Sʒidu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_9-10#3">tikoia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_9-10#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_9-10#5">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_9-10#6">ßabangus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_9-10#7">ſpende</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_9-10#8">Ponui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_9-10#9">Kri<lb break="no"/>ſtui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_9-10#10">/</w>
+        <lb n="10-11" xml:id="BP_1591_I_12_28_Puerorum_108_10-11"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#1">teip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#2">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#3">dabar</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#4">Ponas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#5">Diewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#6">Tiewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#8">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#9">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#10">Su<lb break="no"/>nus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_10-11#11">/</w>
+        <lb n="11-12" xml:id="BP_1591_I_12_28_Puerorum_108_11-12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_11-12#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_11-12#2">Schwenta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_11-12#3">Dwaſe</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_11-12#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_11-12#5">bei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_11-12#6">Diewo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_11-12#7">brangus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_11-12#8">ßo<lb break="no"/>dis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_11-12#9">/</w>
+        <lb n="12" xml:id="BP_1591_I_12_28_Puerorum_108_12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_12#1">didʒiauſei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_12#2">ira</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_12#3">peikiami</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_12#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_12#5">nůg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_12#6">wireſniu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_12#7">Ponu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_12#8">ſcho</w>
+        <lb n="13" xml:id="BP_1591_I_12_28_Puerorum_108_13"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#1">ſwieto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#3">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#4">tatai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#5">regim</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#6">ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#7">Turko</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#8">ne</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#9">krikſchcʒonies</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#10">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_13#11">ir</w>
+        <lb n="14" xml:id="BP_1591_I_12_28_Puerorum_108_14"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_14#1">kitu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_14#2">pagoniſchku</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_14#3">karaliu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_14#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_14#5">Thie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_14#6">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_14#7">wieno</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_14#8">wiſſadai</w>
+        <lb n="15-16" xml:id="BP_1591_I_12_28_Puerorum_108_15-16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_15-16#1">ſtengeſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_15-16#2">prieſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_15-16#3">ſchi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_15-16#4">Kriſtu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_15-16#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_15-16#6">Tůgi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_15-16#7">bila</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_15-16#8">Dowidas</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_15-16#10">Ka<lb break="no"/>ralei</w>
+        <lb n="16" xml:id="BP_1591_I_12_28_Puerorum_108_16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_16#1">ßemes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_16#2">ſtengeſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_16#3">prieſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_16#4">Wieſchpati</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_16#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_16#6">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_16#7">Ponai</w>
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_108_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_17#1">rodij</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_17#2">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_17#3">wieno</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_17#4">prieſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_17#5">Wieſchpati</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_17#6">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_17#7">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_17#8">pateptaghi</w><ref decls="biblical" cRef="b.PSA.2.2"/></quote>
+.
+        <lb n="18" xml:id="BP_1591_I_12_28_Puerorum_108_18"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_18#1">Schwentas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_18#2">Simeonas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_18#3">teipaieg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_18#4">bila</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_18#5">ape</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_18#6">Kriſtu</w>.
+        <lb n="19" xml:id="BP_1591_I_12_28_Puerorum_108_19"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_19#1">Schiſſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_19#2">bus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_19#3">paſtatitas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_19#4">ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_19#5">ßenklo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_19#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_19#7">kuriam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_19#8">bus</w>
+        <lb n="20" xml:id="BP_1591_I_12_28_Puerorum_108_20"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_20#1">prieſchtarauta</w><ref decls="biblical" cRef="b.LUK.2.34"/></quote>
+.
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_20#3">Teip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_20#4">tatai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_20#5">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_20#6">nog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_20#7">pradʒio</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_20#8">ſwieto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_20#9">/</w>
+        <lb n="21-22" xml:id="BP_1591_I_12_28_Puerorum_108_21-22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_21-22#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_21-22#2">bus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_21-22#3">ikki</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_21-22#4">pagineghimo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_21-22#5">Swieto</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_21-22#7">Todelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_21-22#8">mes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_21-22#9">Krikſch<lb break="no"/>cʒonis</w>
+        <lb n="22" xml:id="BP_1591_I_12_28_Puerorum_108_22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_22#1">iſchto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_22#2">pikto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_22#3">budo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_22#4">didʒu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_22#5">Ponu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_22#6">nepaſſipiktinkime</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_22#7">/</w>
+        <lb n="23" xml:id="BP_1591_I_12_28_Puerorum_108_23"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_23#1">nei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_23#2">todelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_23#3">wieros</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_23#4">ing</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_23#5">pona</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_23#6">muſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_23#7">Kriſtu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_23#8">nepameſkem</w>.
+        <lb n="24" xml:id="BP_1591_I_12_28_Puerorum_108_24"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_24#1">Wel</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_24#2">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_24#3">karalius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_24#4">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_24#5">labai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_24#6">kitrei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_24#7">elgeſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_24#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_24#9">idant</w>
+        <lb n="25" xml:id="BP_1591_I_12_28_Puerorum_108_25"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_25#1">Kriſtu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_25#2">nußawintu</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_25#4">Teipo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_25#5">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_25#6">dabar</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_25#7">wiſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_25#8">pikti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_25#9">ßmones</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_108_25#10">/</w>
+        <pb n="109"/>
+        <lb n="1" xml:id="BP_1591_I_12_28_Puerorum_109_1"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_1#1">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_1#2">griekus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_1#3">mok</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_1#4">ſlepti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_1#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_1#6">pamaßinti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_1#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_1#8">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_1#9">didei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_1#10">kitrei</w>
+        <lb n="2" xml:id="BP_1591_I_12_28_Puerorum_109_2"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_2#1">elgtiſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_2#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_2#3">ieib</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_2#4">tiktai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_2#5">geroſius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_2#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_2#7">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_2#8">Diewui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_2#9">tikincʒioſius</w>
+        <lb n="3-4" xml:id="BP_1591_I_12_28_Puerorum_109_3-4"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_3-4#1">prigautu</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_3-4#3">Neſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_3-4#4">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_3-4#5">Kriſtus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_3-4#6">ſaka</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_3-4#8">Waikai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_3-4#9">ſcho</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_3-4#10">ſwie<lb break="no"/>ta</w>
+        <lb n="4-5" xml:id="BP_1591_I_12_28_Puerorum_109_4-5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_4-5#1">kitreſni</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_4-5#2">ira</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_4-5#3">nei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_4-5#4">waikai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_4-5#5">ſchwieſibes</w><ref decls="biblical" cRef="b.LUK.16.8"/></quote>
+.
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_4-5#7">Todelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_4-5#8">iau<lb break="no"/>kinkimos</w>
+        <lb n="5" xml:id="BP_1591_I_12_28_Puerorum_109_5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_5#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_5#2">mes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_5#3">kiek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_5#4">primanam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_5#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_5#6">kitrei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_5#7">giwenti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_5#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_5#9">ieib</w>
+        <lb n="6" xml:id="BP_1591_I_12_28_Puerorum_109_6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_6#1">nůg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_6#2">piktuiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_6#3">nebutumbim</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_6#4">prigauti</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_6#6">Buket</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_6#7">kitrus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_6#8">/</w>
+        <lb n="7" xml:id="BP_1591_I_12_28_Puerorum_109_7"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_7#1">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_7#2">ßaltei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_7#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_7#4">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_7#5">praſti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_7#6">kaip</w><ref decls="biblical" cRef="b.MAT.10.16"/></quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_7#7">Karwelei</w>
+        <lb n="8" xml:id="BP_1591_I_12_28_Puerorum_109_8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_8#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_8#2">Antro</w>.
+        <lb n="9" xml:id="BP_1591_I_12_28_Puerorum_109_9"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_9#1">Kodelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_9#2">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_9#3">tiek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_9#4">nekaltu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_9#5">Berneliu</w>
+        <lb n="10" xml:id="BP_1591_I_12_28_Puerorum_109_10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_10#1">ußmuſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_10#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_10#3">kodel</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_10#4">tika</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_10#5">Kriſtaus</w>.
+        <lb n="11-12" xml:id="BP_1591_I_12_28_Puerorum_109_11-12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_11-12#1">ISchtieſos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_11-12#2">ſchitie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_11-12#3">Bernelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_11-12#4">nieka</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_11-12#5">nebuwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_11-12#6">nuſſi<lb break="no"/>deie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_11-12#7">/</w>
+        <lb n="12" xml:id="BP_1591_I_12_28_Puerorum_109_12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_12#1">nei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_12#2">prieſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_12#3">Karaliu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_12#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_12#5">nei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_12#6">prieſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_12#7">kita</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_12#8">koki</w>
+        <lb n="13-14" xml:id="BP_1591_I_12_28_Puerorum_109_13-14"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#1">ßmogu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#3">neſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#4">ka</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#5">galleia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#6">anis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#7">pikt</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#8">dariti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#9">alba</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#10">kal<lb break="no"/>beti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_13-14#11">/</w>
+        <lb n="14-15" xml:id="BP_1591_I_12_28_Puerorum_109_14-15"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_14-15#1">kudikeis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_14-15#2">budami</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_14-15#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_14-15#4">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_14-15#5">dabar</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_14-15#6">beßinda</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_14-15#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_14-15#8">Todelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_14-15#9">Hero<lb break="no"/>das</w>
+        <lb n="15" xml:id="BP_1591_I_12_28_Puerorum_109_15"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_15#1">iu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_15#2">nenußawina</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_15#3">anu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_15#4">pacʒiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_15#5">delei</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_15#7">Nei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_15#8">wel</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_15#9">prieſch</w>
+        <lb n="16" xml:id="BP_1591_I_12_28_Puerorum_109_16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_16#1">Heroda</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_16#2">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_16#3">nuſſideie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_16#4">iu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_16#5">Tiewai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_16#6">alba</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_16#7">augiwes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_16#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_16#9">alba</w>
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_109_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_17#1">kitti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_17#2">iu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_17#3">gentis</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_17#5">Bet</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_17#6">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_17#7">ios</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_17#8">nußawin</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_17#9">Kriſtaus</w>
+        <lb n="18" xml:id="BP_1591_I_12_28_Puerorum_109_18"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_18#1">delei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_18#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_18#3">kuri</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_18#4">panna</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_18#5">Maria</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_18#6">pagimde</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_18#7">Bethleheme</w>.
+        <lb n="19-20" xml:id="BP_1591_I_12_28_Puerorum_109_19-20"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_19-20#1">O</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_19-20#2">taſſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_19-20#3">Berneleis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_19-20#4">Kriſtus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_19-20#5">ka</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_19-20#6">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_19-20#7">pikta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_19-20#8">He<lb break="no"/>rodui</w>
+        <lb n="20" xml:id="BP_1591_I_12_28_Puerorum_109_20"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_20#1">darens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_20#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_20#3">alba</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_20#4">dariſens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_20#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_20#6">kodelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_20#7">iam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_20#8">Herodas</w>
+        <lb n="21" xml:id="BP_1591_I_12_28_Puerorum_109_21"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_21#1">teip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_21#2">kerſchij</w>?
+        <lb n="22" xml:id="BP_1591_I_12_28_Puerorum_109_22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_22#1">Wierikem</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_22#2">nei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_22#3">ſchiſſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_22#4">Kriſtus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_22#5">iam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_22#6">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_22#7">ko</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_22#8">pikta</w>
+        <lb n="23" xml:id="BP_1591_I_12_28_Puerorum_109_23"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_23#1">darens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_23#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_23#3">nei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_23#4">wel</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_23#5">paſkui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_23#6">dariſens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_23#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_23#8">O</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_23#9">wienok</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_23#10">Herodas</w>
+        <lb n="24-110" xml:id="BP_1591_I_12_28_Puerorum_109_24-110"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#1">ghi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#2">derg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#4">peik</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#6">tiktai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#7">bijodamaſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#9">ieib</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#10">ghi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#11">taſſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_109_24-110#12">Ber<lb break="no"/>nelis</w>
+        <pb n="110"/>
+        <lb n="1-2" xml:id="BP_1591_I_12_28_Puerorum_110_1-2"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_1-2#1">ußaugens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_1-2#2">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_1-2#3">karaliſtos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_1-2#4">neprawaritu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_1-2#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_1-2#6">ſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_1-2#7">kara<lb break="no"/>liene</w>
+        <lb n="2" xml:id="BP_1591_I_12_28_Puerorum_110_2"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_2#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_2#2">waikais</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_2#3">io</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_2#5">Neſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_2#6">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_2#7">ßinnoſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_2#8">ſwetimos</w>
+        <lb n="3" xml:id="BP_1591_I_12_28_Puerorum_110_3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_3#1">gimmenes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_3#2">neßidu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_3#3">eſans</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_3#5">Ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_3#6">ßinnoſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_3#7">ne</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_3#8">Sʒidu</w>
+        <lb n="4-5" xml:id="BP_1591_I_12_28_Puerorum_110_4-5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_4-5#1">pacʒiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_4-5#2">ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_4-5#3">karaliſtes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_4-5#4">aprinktas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_4-5#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_4-5#6">Net</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_4-5#7">rimianu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_4-5#8">ſila</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_4-5#9">iſta<lb break="no"/>tas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_4-5#10">/</w>
+        <lb n="5" xml:id="BP_1591_I_12_28_Puerorum_110_5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_5#1">Ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_5#2">ßinnoſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_5#3">Sʒidu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_5#4">nemilims</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_5#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_5#6">bet</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_5#7">beikiams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_5#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_5#9">delei</w>
+        <lb n="6" xml:id="BP_1591_I_12_28_Puerorum_110_6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_6#1">piktenibes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_6#2">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_6#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_6#4">kure</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_6#5">tankiei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_6#6">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_6#7">Sʒidams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_6#8">padarens</w>
+        <lb n="7-8" xml:id="BP_1591_I_12_28_Puerorum_110_7-8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_7-8#1">Schitai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_7-8#2">ſakau</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_7-8#3">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_7-8#4">wis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_7-8#5">ßinnodams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_7-8#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_7-8#7">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_7-8#8">ſchir<lb break="no"/>dije</w>
+        <lb n="8" xml:id="BP_1591_I_12_28_Puerorum_110_8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_8#1">dumoij</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_8#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_8#3">Tatai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_8#4">ßidai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_8#5">ta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_8#6">Berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_8#7">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_8#8">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_8#9">gimines</w>
+        <lb n="9" xml:id="BP_1591_I_12_28_Puerorum_110_9"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_9#1">gimuſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_9#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_9#3">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_9#4">ußaugs</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_9#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_9#6">mane</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_9#7">peikdami</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_9#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_9#9">ſaw</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_9#10">karalumi</w>
+        <lb n="10-11" xml:id="BP_1591_I_12_28_Puerorum_110_10-11"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#1">aprinks</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#3">mane</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#4">ſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#5">moterimi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#7">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#8">waikais</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#9">mana</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#10">ußu<lb break="no"/>muſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_10-11#11">/</w>
+        <lb n="11" xml:id="BP_1591_I_12_28_Puerorum_110_11"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_11#1">alba</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_11#2">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_11#3">karaliſtes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_11#4">ſchos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_11#5">iſchtrems</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_11#7">Idant</w>
+        <lb n="12" xml:id="BP_1591_I_12_28_Puerorum_110_12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_12#1">nu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_12#2">man</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_12#3">teip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_12#4">nebutu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_12#5">(</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_12#6">dumoij</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_12#7">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_12#8">)</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_12#9">tadda</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_12#10">eſch</w>
+        <lb n="13" xml:id="BP_1591_I_12_28_Puerorum_110_13"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_13#1">wiſſus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_13#2">waikus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_13#3">Bethleheme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_13#4">ußmuſchdinſiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_13#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_13#6">idant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_13#7">ir</w>
+        <lb n="14" xml:id="BP_1591_I_12_28_Puerorum_110_14"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_14#1">ta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_14#2">Kriſtu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_14#3">ußgaucʒiau</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_14#4">drauge</w>.
+        <lb n="15-16" xml:id="BP_1591_I_12_28_Puerorum_110_15-16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_15-16#1">Bei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_15-16#2">iſchtieſos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_15-16#3">ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_15-16#4">to</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_15-16#5">labai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_15-16#6">baiſaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_15-16#7">darbo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_15-16#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_15-16#9">Hero<lb break="no"/>da</w>
+        <lb n="16" xml:id="BP_1591_I_12_28_Puerorum_110_16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_16#1">pats</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_16#2">welinas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_16#3">pagunde</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_16#5">Neſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_16#6">welinas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_16#7">ßinnoia</w>
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_110_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_17#1">Meſſioſchu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_17#2">ateiſenti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_17#3">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_17#4">dangaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_17#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_17#6">idant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_17#7">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_17#8">wiſſa</w>
+        <lb n="18" xml:id="BP_1591_I_12_28_Puerorum_110_18"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_18#1">ſwieta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_18#2">pagelbetu</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_18#4">Potam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_18#5">Welinas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_18#6">ßinnoia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_18#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_18#8">nu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_18#9">cʒeſa</w>
+        <lb n="19" xml:id="BP_1591_I_12_28_Puerorum_110_19"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_19#1">ſanti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_19#2">iog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_19#3">turretu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_19#4">Meſſioſchus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_19#5">paſſiroditi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_19#6">Swietui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_19#7">/</w>
+        <lb n="20-21" xml:id="BP_1591_I_12_28_Puerorum_110_20-21"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_20-21#1">Sʒinnoia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_20-21#2">teipaieg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_20-21#3">duſchiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_20-21#4">neprietelius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_20-21#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_20-21#6">Schi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_20-21#7">Ber<lb break="no"/>neli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_20-21#8">/</w>
+        <lb n="21-22" xml:id="BP_1591_I_12_28_Puerorum_110_21-22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_21-22#1">kuri</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_21-22#2">Pana</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_21-22#3">Maria</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_21-22#4">pagimde</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_21-22#5">eſanti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_21-22#6">Diewo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_21-22#7">ſwie<lb break="no"/>tui</w>
+        <lb n="22" xml:id="BP_1591_I_12_28_Puerorum_110_22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_22#1">paßadeta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_22#2">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_22#3">atſiunſta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_22#4">Meſſioſchu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_22#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_22#6">Neſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_22#7">girdeia</w>
+        <lb n="23-24" xml:id="BP_1591_I_12_28_Puerorum_110_23-24"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_23-24#1">Angela</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_23-24#2">ſchwenta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_23-24#3">piemenims</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_23-24#4">kalbanti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_23-24#5">ape</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_23-24#6">ſchi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_23-24#7">Berne<lb break="no"/>li</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_23-24#8">/</w>
+        <lb n="24" xml:id="BP_1591_I_12_28_Puerorum_110_24"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_24#1">Sche</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_24#2">nakti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_24#3">ußgimme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_24#4">iumus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_24#5">iſchgelbetoias</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_24#6">wiſſu</w>
+        <lb n="25-26" xml:id="BP_1591_I_12_28_Puerorum_110_25-26"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_25-26#1">ßmoniu</w><ref decls="biblical" cRef="b.LUK.2.11"/></quote>
+.
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_25-26#3">Ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_25-26#4">regeia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_25-26#5">kaipo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_25-26#6">Kriſtui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_25-26#7">klonoieſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_25-26#8">Iſch<lb break="no"/>mintingi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_25-26#9">/</w>
+        <lb n="26-27" xml:id="BP_1591_I_12_28_Puerorum_110_26-27"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_26-27#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_26-27#2">kokias</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_26-27#3">branges</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_26-27#4">dowanas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_26-27#5">anis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_26-27#6">iam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_26-27#7">dowa<lb break="no"/>noia</w>.
+        <lb n="27" xml:id="BP_1591_I_12_28_Puerorum_110_27"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_27#1">Trumpai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_27#2">kalbant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_27#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_27#4">Welinas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_27#5">ßinna</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_27#6">iog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_110_27#7">ſchis</w>
+        <pb n="111"/>
+        <lb n="1" xml:id="BP_1591_I_12_28_Puerorum_111_1"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_1#1">Bernelis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_1#2">Kriſtus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_1#3">daug</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_1#4">duſchu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_1#5">amßinai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_1#6">iſchganjs</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_1#7">ir</w>
+        <lb n="2-3" xml:id="BP_1591_I_12_28_Puerorum_111_2-3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#1">welina</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#2">pati</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#3">po</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#4">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#5">kaiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#6">pamins</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#8">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#9">karaliſte</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#10">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_2-3#11">iſch<lb break="no"/>ardis</w>.
+        <lb n="3" xml:id="BP_1591_I_12_28_Puerorum_111_3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_3#1">Ieib</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_3#2">nu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_3#3">to</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_3#4">Kriſtus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_3#5">negaletu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_3#6">iſchtaiſiti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_3#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_3#8">tadda</w>
+        <lb n="4" xml:id="BP_1591_I_12_28_Puerorum_111_4"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_4#1">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_4#2">Heroda</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_4#3">pagunde</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_4#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_4#5">ieib</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_4#6">Kriſtu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_4#7">ußmuſchtu</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_4#9">Tokſai</w>
+        <lb n="5" xml:id="BP_1591_I_12_28_Puerorum_111_5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_5#1">muſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_5#2">neprietelius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_5#3">ira</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_5#4">welinas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_5#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_5#6">Ieib</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_5#7">primanens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_5#8">mielai</w>
+        <lb n="6" xml:id="BP_1591_I_12_28_Puerorum_111_6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_6#1">butu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_6#2">muſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_6#3">Iſchganima</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_6#4">ußgjnens</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_6#6">Bet</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_6#7">Diewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_6#8">muſu</w>
+        <lb n="7-8" xml:id="BP_1591_I_12_28_Puerorum_111_7-8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_7-8#1">mielaſſis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_7-8#2">Tiewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_7-8#3">noreia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_7-8#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_7-8#5">pagal</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_7-8#6">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_7-8#7">didʒo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_7-8#8">Suſſi<lb break="no"/>milimo</w>
+        <lb n="8" xml:id="BP_1591_I_12_28_Puerorum_111_8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_8#1">ſwieta</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_8#2">pawarguſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_8#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_8#4">per</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_8#5">ſchi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_8#6">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_8#7">Sunu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_8#8">Kriſtu</w>
+        <lb n="9" xml:id="BP_1591_I_12_28_Puerorum_111_9"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_9#1">Iſchgelbeti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_9#2">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_9#3">amßinai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_9#4">iſchganiti</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_9#6">Tůgi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_9#7">ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_9#8">ſchů</w>
+        <lb n="10" xml:id="BP_1591_I_12_28_Puerorum_111_10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_10#1">kartu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_10#2">ſchi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_10#3">Berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_10#4">uſſtoia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_10#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_10#6">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_10#7">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_10#8">Hoiodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_10#9">negaleia</w>
+        <lb n="11" xml:id="BP_1591_I_12_28_Puerorum_111_11"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_11#1">nußawinti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_11#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_11#3">neſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_11#4">teipo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_11#5">raſcha</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_11#6">Schwentas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_11#7">Matthieus</w>
+        <lb n="12-13" xml:id="BP_1591_I_12_28_Puerorum_111_12-13"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_12-13#1">Diewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_12-13#2">priſake</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_12-13#3">iſchmintingiems</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_12-13#4">Sapnije</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_12-13#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_12-13#6">idant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_12-13#7">ne<lb break="no"/>griſchtu</w>
+        <lb n="13-14" xml:id="BP_1591_I_12_28_Puerorum_111_13-14"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_13-14#1">Herodop</w><ref decls="biblical" cRef="b.MAT.2.12"/></quote>
+.
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_13-14#3">Item</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_13-14#4">ſchoie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_13-14#5">Euangelioie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_13-14#6">teip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_13-14#7">ſkai<lb break="no"/>tam</w>.
+        <lb n="14" xml:id="BP_1591_I_12_28_Puerorum_111_14"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_14#1">Atſtoius</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_14#2">Iſchmintingiems</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_14#3">nog</w>
+        <lb n="15" xml:id="BP_1591_I_12_28_Puerorum_111_15"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_15#1">Bernelio</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_15#2">Kriſtaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_15#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_15#4">Schitai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_15#5">Angelas</w>
+        <lb n="16-17" xml:id="BP_1591_I_12_28_Puerorum_111_16-17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_16-17#1">Pono</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_16-17#2">Diewo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_16-17#3">paſſirode</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_16-17#4">Ioſephui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_16-17#5">ſap<lb break="no"/>nije</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_16-17#6">/</w>
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_111_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_17#1">bilodams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_17#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_17#3">kelkes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_17#4">imk</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_17#5">Berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_17#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_17#7">ir</w>
+        <lb n="18-19" xml:id="BP_1591_I_12_28_Puerorum_111_18-19"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_18-19#1">motina</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_18-19#2">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_18-19#3">taweſp</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_18-19#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_18-19#5">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_18-19#6">bek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_18-19#7">ing</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_18-19#8">Egypto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_18-19#9">ße<lb break="no"/>me</w>
+        <lb n="19" xml:id="BP_1591_I_12_28_Puerorum_111_19"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_19#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_19#2">buki</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_19#3">tinai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_19#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_19#5">iki</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_19#6">aſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_19#7">taw</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_19#8">ſakiſiu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_19#9">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_19#10">neſa</w>
+        <lb n="20" xml:id="BP_1591_I_12_28_Puerorum_111_20"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_20#1">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_20#2">tjko</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_20#3">Berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_20#4">to</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_20#5">nußawinti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_20#6">/</w>
+        <lb n="21-22" xml:id="BP_1591_I_12_28_Puerorum_111_21-22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_21-22#1">Ghis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_21-22#2">keleſſi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_21-22#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_21-22#4">eme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_21-22#5">berneli</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_21-22#6">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_21-22#7">motina</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_21-22#8">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_21-22#9">ſa<lb break="no"/>weſp</w>
+        <lb n="22" xml:id="BP_1591_I_12_28_Puerorum_111_22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_22#1">nakti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_22#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_22#3">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_22#4">nueija</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_22#5">ing</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_22#6">Egypto</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_22#7">ßeme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_22#8">/</w>
+        <lb n="23" xml:id="BP_1591_I_12_28_Puerorum_111_23"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_23#1">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_23#2">buwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_23#3">tenai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_23#4">ik</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_23#5">ſmerties</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_111_23#6">Herodo</w><ref decls="biblical" cRef="b.MAT.2.13-15"/></quote>
+.
+        <pb n="112"/>
+        <lb n="1" xml:id="BP_1591_I_12_28_Puerorum_112_1"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_1#1">Bei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_1#2">ſchitaipo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_1#3">Ponas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_1#4">Diewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_1#5">wales</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_1#6">Herodui</w>
+        <lb n="2-3" xml:id="BP_1591_I_12_28_Puerorum_112_2-3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_2-3#1">ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_2-3#2">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_2-3#3">Sunaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_2-3#4">nedawe</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_2-3#6">Ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_2-3#7">kacʒei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_2-3#8">nekalti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_2-3#9">Ber<lb break="no"/>nelei</w>
+        <lb n="3" xml:id="BP_1591_I_12_28_Puerorum_112_3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_3#1">galwa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_3#2">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_3#3">turreia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_3#4">primiſti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_3#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_3#6">Kriſtaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_3#7">delei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_3#8">/</w>
+        <lb n="4" xml:id="BP_1591_I_12_28_Puerorum_112_4"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_4#1">tacʒiau</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_4#2">Diewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_4#3">iůs</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_4#4">Sudnaie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_4#5">dienaie</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_4#6">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_4#7">numiruſiu</w>
+        <lb n="5-6" xml:id="BP_1591_I_12_28_Puerorum_112_5-6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_5-6#1">prikelens</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_5-6#2">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_5-6#3">iemus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_5-6#4">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_5-6#5">tikriems</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_5-6#6">mucʒelnikams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_5-6#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_5-6#8">důs</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_5-6#9">am<lb break="no"/>ßina</w>
+        <lb n="6" xml:id="BP_1591_I_12_28_Puerorum_112_6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_6#1">iſchganima</w>.
+        <lb n="7" xml:id="BP_1591_I_12_28_Puerorum_112_7"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_7#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_7#2">Trecʒio</w>.
+        <lb n="8" xml:id="BP_1591_I_12_28_Puerorum_112_8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_8#1">Ape</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_8#2">alga</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_8#3">tho</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_8#4">ſmarkiniko</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_8#5">Herodo</w>.
+        <lb n="9" xml:id="BP_1591_I_12_28_Puerorum_112_9"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_9#1">POnas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_9#2">Diewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_9#3">teiſuſis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_9#4">ſudʒia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_9#5">ſchi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_9#6">ſmarkinika</w>
+        <lb n="10-11" xml:id="BP_1591_I_12_28_Puerorum_112_10-11"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_10-11#1">Heroda</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_10-11#2">nůdemais</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_10-11#3">biaurei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_10-11#4">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_10-11#5">ſunkei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_10-11#6">ira</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_10-11#7">ka<lb break="no"/>roiens</w>
+        <lb n="11" xml:id="BP_1591_I_12_28_Puerorum_112_11"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_11#1">ſcheme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_11#2">ſwiete</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_11#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_11#4">neſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_11#5">teip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_11#6">ape</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_11#7">ghi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_11#8">ſkaitom</w>.
+        <lb n="12" xml:id="BP_1591_I_12_28_Puerorum_112_12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_12#1">Tapirmaus</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_12#3">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_12#4">apſirga</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_12#5">drugiu</w>.
+        <lb n="13" xml:id="BP_1591_I_12_28_Puerorum_112_13"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_13#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_13#2">2.</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_13#3">Appile</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_13#4">Diewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_13#5">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_13#6">wiſſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_13#7">kuna</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_13#8">piktais</w>
+        <lb n="14" xml:id="BP_1591_I_12_28_Puerorum_112_14"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_14#1">nießais</w>.
+        <lb n="15" xml:id="BP_1591_I_12_28_Puerorum_112_15"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_15#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_15#2">3.</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_15#3">Apſirga</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_15#4">widureis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_15#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_15#6">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_15#7">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_15#8">wiſſas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_15#9">kunas</w>
+        <lb n="16" xml:id="BP_1591_I_12_28_Puerorum_112_16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_16#1">patinna</w>.
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_112_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#2">4.</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#3">Geda</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#4">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#5">(</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#6">ſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#7">atleidimu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#8">iuſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#9">kalbant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#10">)</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_17#11">iam</w>
+        <lb n="18" xml:id="BP_1591_I_12_28_Puerorum_112_18"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_18#1">iſchpuwa</w>.
+        <lb n="19" xml:id="BP_1591_I_12_28_Puerorum_112_19"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_19#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_19#2">5.</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_19#3">Kirmeles</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_19#4">io</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_19#5">kuna</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_19#6">wiſſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_19#7">iſchwalge</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_19#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_19#9">kaip</w>
+        <lb n="20" xml:id="BP_1591_I_12_28_Puerorum_112_20"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_20#1">antai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_20#2">maita</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_20#3">kake</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_20#4">iſchwalga</w>.
+        <lb n="21" xml:id="BP_1591_I_12_28_Puerorum_112_21"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_21#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_21#2">6.</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_21#3">Koiomis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_21#4">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_21#5">rankamis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_21#6">apſirga</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_21#7">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_21#8">kaip</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_21#9">iu</w>
+        <lb n="22" xml:id="BP_1591_I_12_28_Puerorum_112_22"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_22#1">negaleia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_22#2">pakrutinti</w>.
+        <lb n="23" xml:id="BP_1591_I_12_28_Puerorum_112_23"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_23#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_23#2">7.</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_23#3">Priſſimete</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_23#4">iam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_23#5">potam</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_23#6">Gelta</w>.
+        <lb n="24" xml:id="BP_1591_I_12_28_Puerorum_112_24"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_24#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_24#2">8.</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_24#3">Dwaſes</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_24#4">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_24#5">negelia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_24#6">atgauti</w>.
+        <lb n="25-26" xml:id="BP_1591_I_12_28_Puerorum_112_25-26"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_25-26#1">Ant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_25-26#2">9.</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_25-26#3">Schitaipo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_25-26#4">wargdams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_25-26#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_25-26#6">turreia</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_112_25-26#7">iſch<lb break="no"/>dweſti</w>.
+        <lb n="26" xml:id="BP_1591_I_12_28_Puerorum_112_26"/>
+
+
+        <pb n="113"/>
+        <lb n="1-2" xml:id="BP_1591_I_12_28_Puerorum_113_1-2"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_1-2#1">Teipo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_1-2#2">Herodas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_1-2#3">delei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_1-2#4">nußawintu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_1-2#5">nekaltu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_1-2#6">Berne<lb break="no"/>liu</w>
+        <lb n="2" xml:id="BP_1591_I_12_28_Puerorum_113_2"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_2#1">tapa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_2#2">paties</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_2#3">Diewo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_2#4">pakoratas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_2#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_2#6">ſcheme</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_2#7">Swiete</w>.
+        <lb n="3" xml:id="BP_1591_I_12_28_Puerorum_113_3"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_3#1">Bei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_3#2">piggu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_3#3">ira</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_3#4">dumoti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_3#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_3#6">iog</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_3#7">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_3#8">aname</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_3#9">Swiete</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_3#10">Welinop</w>
+        <lb n="4" xml:id="BP_1591_I_12_28_Puerorum_113_4"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_4#1">ſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_4#2">kunu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_4#3">ir</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_4#4">duſche</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_4#5">nueija</w>.
+        <lb n="5" xml:id="BP_1591_I_12_28_Puerorum_113_5"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_5#1">Todelei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_5#2">wenkime</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_5#3">pralieti</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_5#4">krauio</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_5#5">ßmogaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_5#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_5#7">neſa</w>
+        <lb n="6" xml:id="BP_1591_I_12_28_Puerorum_113_6"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_6#1">taſſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_6#2">labai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_6#3">brangus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_6#4">ira</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_6#5">po</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_6#6">akim</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_6#7">Pono</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_6#8">Diewo</w>.
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_6#10">Neſa</w>
+        <lb n="7-8" xml:id="BP_1591_I_12_28_Puerorum_113_7-8"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_7-8#1">pats</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_7-8#2">Diewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_7-8#3">ſaka</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_7-8#4">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_7-8#5">Kurſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_7-8#6">ßmogaus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_7-8#7">kraughi</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_7-8#8">pra<lb break="no"/>lieij</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_7-8#9">/</w>
+        <lb n="8-9" xml:id="BP_1591_I_12_28_Puerorum_113_8-9"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_8-9#1">tho</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_8-9#2">krauias</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_8-9#3">wel</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_8-9#4">tur</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_8-9#5">pralietas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_8-9#6">buti</w><ref decls="biblical" cRef="b.GEN.9.6"/></quote>
+.
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_8-9#8">Bet</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_8-9#9">Kri<lb break="no"/>ſtus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_8-9#10">/</w>
+        <lb n="9-10" xml:id="BP_1591_I_12_28_Puerorum_113_9-10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_9-10#1">Petrui</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_9-10#2">kalbedams</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_9-10#3">cʒieſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_9-10#4">ſawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_9-10#5">mukos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_9-10#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_9-10#7">bila</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_9-10#9">In<lb break="no"/>kiſchk</w>
+        <lb n="10" xml:id="BP_1591_I_12_28_Puerorum_113_10"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_10#1">Petrai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_10#2">karda</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_10#3">tawa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_10#4">ing</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_10#5">makſchtis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_10#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_10#7">Neſa</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_10#8">kas</w>
+        <lb n="11-12" xml:id="BP_1591_I_12_28_Puerorum_113_11-12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_11-12#1">karda</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_11-12#2">imma</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_11-12#3">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_11-12#4">taſſai</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_11-12#5">kardu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_11-12#6">prapuls</w><ref decls="biblical" cRef="b.MAT.26.52"/></quote>
+.
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_11-12#8">Bei</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_11-12#9">pats</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_11-12#10">Die<lb break="no"/>was</w>
+        <lb n="12" xml:id="BP_1591_I_12_28_Puerorum_113_12"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_12#1">teipaieg</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_12#2">ſaka</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_12#3">penktame</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_12#4">priſakime</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_12#6">Ne</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_12#7">ußmuſchk</w>
+        <lb n="13" xml:id="BP_1591_I_12_28_Puerorum_113_13"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_13#1">ßmogaus</w>
+        <lb n="14" xml:id="BP_1591_I_12_28_Puerorum_113_14"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_14#1">Tiek</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_14#2">iumus</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_14#3">ſchů</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_14#4">kartu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_14#5">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_14#6">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_14#7">tos</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_14#8">Euangelios</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_14#9">/</w>
+        <lb n="15-16" xml:id="BP_1591_I_12_28_Puerorum_113_15-16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_15-16#1">Wiſſo</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_15-16#2">galinſis</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_15-16#3">Diewas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_15-16#4">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_15-16#5">te</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_15-16#6">paded</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_15-16#7">mums</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_15-16#8">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_15-16#9">Idant</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_15-16#10">koß<lb break="no"/>nas</w>
+        <lb n="16" xml:id="BP_1591_I_12_28_Puerorum_113_16"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_16#1">iſch</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_16#2">muſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_16#3">iſchwenktu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_16#4">krauio</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_16#5">pralieghima</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_16#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_16#7">ieib</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_16#8">ir</w>
+        <lb n="17" xml:id="BP_1591_I_12_28_Puerorum_113_17"/>
+
+
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_17#1">muſu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_17#2">Krauias</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_17#3">ne</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_17#4">butu</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_17#5">pralietas</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_17#6">/</w>
+        <w xml:id="BP_1591_I_12_28_Puerorum_113_17#7">Amen</w>.
+      </div>
+    </body>
+  </text>
+</TEI>

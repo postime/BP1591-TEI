@@ -1,0 +1,2905 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bretke Postil</title>
+      </titleStmt>
+      <publicationStmt>
+      </publicationStmt>
+      <sourceDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="edition" xml:id="BP_1591">
+    <body>
+      <div type="sermon" xml:id="BP_1591_II_Dom_6_Pasch">
+        <pb n="120"/>
+        <lb n="1" xml:id="BP_1591_II_Dom_6_Pasch_120_1"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_1#1">SCHESCHTOIE</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_1#2">NEDELIOIE</w>
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_120_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_2#1">po</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_2#2">vveliku</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_2#3">kuri</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_2#4">vvadinama</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_2#5">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_2#6">Exaudi</w>.
+        <lb n="3" xml:id="BP_1591_II_Dom_6_Pasch_120_3"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_3#1">Euangelia</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_3#2">Ioh:</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_3#3">15.</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_3#4">bei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_3#5">16.</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_3#6">Paguld:</w>
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_120_4"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_4#1">KAd</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_4#2">ateis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_4#3">palinkſmintoghi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_4#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_4#5">kure</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_4#6">aſch</w>
+        <lb n="5" xml:id="BP_1591_II_Dom_6_Pasch_120_5"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_5#1">iumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_5#2">atſiuſiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_5#3">nog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_5#4">Tiewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_5#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_5#6">Dwaſe</w>
+        <lb n="6" xml:id="BP_1591_II_Dom_6_Pasch_120_6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_6#1">Tieſos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_6#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_6#3">kuri</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_6#4">nog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_6#5">Tiewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_6#6">iſcheit</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_6#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_6#8">ta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_6#9">liudis</w>
+        <lb n="7" xml:id="BP_1591_II_Dom_6_Pasch_120_7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_7#1">apie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_7#2">mane</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_7#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_7#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_7#5">ius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_7#6">taipaieg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_7#7">liudiſite</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_7#8">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_7#9">neſa</w>
+        <lb n="8" xml:id="BP_1591_II_Dom_6_Pasch_120_8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_8#1">nog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_8#2">pradʒios</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_8#3">pas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_8#4">mane</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_120_8#5">buwate</w>.
+        <pb n="121"/>
+        <lb n="1-2" xml:id="BP_1591_II_Dom_6_Pasch_121_1-2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_1-2#1">Tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_1-2#2">iumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_1-2#3">ſakiau</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_1-2#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_1-2#5">idant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_1-2#6">nepaſſi<lb break="no"/>piktintumbite</w>.
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_121_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_2#1">Iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_2#2">Surinkimu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_2#3">iſchmes</w>
+        <lb n="3-4" xml:id="BP_1591_II_Dom_6_Pasch_121_3-4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_3-4#1">ius</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_3-4#3">Bet</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_3-4#4">atais</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_3-4#5">cʒieſas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_3-4#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_3-4#7">iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_3-4#8">kurs</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_3-4#9">ius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_3-4#10">uß<lb break="no"/>muſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_3-4#11">/</w>
+        <lb n="4-5" xml:id="BP_1591_II_Dom_6_Pasch_121_4-5"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_4-5#1">tariſis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_4-5#2">Diewui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_4-5#3">tarnawima</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_4-5#4">da<lb break="no"/>ras</w>.
+        <lb n="5" xml:id="BP_1591_II_Dom_6_Pasch_121_5"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_5#1">A</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_5#2">tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_5#3">ghie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_5#4">todelei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_5#5">iumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_5#6">daris</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_5#7">/</w>
+        <lb n="6-7" xml:id="BP_1591_II_Dom_6_Pasch_121_6-7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_6-7#1">iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_6-7#2">nepaßiſt</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_6-7#3">Tiewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_6-7#4">nei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_6-7#5">manes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_6-7#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_6-7#7">Bet</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_6-7#8">ta<lb break="no"/>tai</w>
+        <lb n="7" xml:id="BP_1591_II_Dom_6_Pasch_121_7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_7#1">iumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_7#2">biloiau</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_7#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_7#4">idant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_7#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_7#6">kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_7#7">tas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_7#8">cʒieſas</w>
+        <lb n="8-9" xml:id="BP_1591_II_Dom_6_Pasch_121_8-9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_8-9#1">ateis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_8-9#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_8-9#3">atmintumbite</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_8-9#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_8-9#5">iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_8-9#6">aſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_8-9#7">iumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_8-9#8">ſa<lb break="no"/>kiau</w>.
+        <lb n="9-10" xml:id="BP_1591_II_Dom_6_Pasch_121_9-10"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_9-10#1">Tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_9-10#2">iumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_9-10#3">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_9-10#4">pradʒios</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_9-10#5">neſa<lb break="no"/>kiau</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_9-10#6">/</w>
+        <lb n="10" xml:id="BP_1591_II_Dom_6_Pasch_121_10"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_10#1">neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_10#2">ſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_10#3">iumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_10#4">buwau</w><ref decls="biblical" cRef="b.JOH.15.26-16.4"/></quote>
+.
+        <lb n="11" xml:id="BP_1591_II_Dom_6_Pasch_121_11"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_11#1">Iſchguldimas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_11#2">ſchos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_11#3">Euangelios</w>.
+        <lb n="12" xml:id="BP_1591_II_Dom_6_Pasch_121_12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_12#1">POnas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_12#2">muſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_12#3">IEſus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_12#4">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_12#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_12#6">ſchitoie</w>
+        <lb n="13" xml:id="BP_1591_II_Dom_6_Pasch_121_13"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_13#1">Euangelioie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_13#2">Apaſchtalams</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_13#3">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_13#4">kalb</w>
+        <lb n="14" xml:id="BP_1591_II_Dom_6_Pasch_121_14"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_14#1">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_14#2">du</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_14#3">daiktu</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_14#5">Pirma</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_14#6">ghis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_14#7">iemus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_14#8">ßada</w>
+        <lb n="15" xml:id="BP_1591_II_Dom_6_Pasch_121_15"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_15#1">netiktai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_15#2">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_15#3">dangaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_15#4">po</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_15#5">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_15#6">Smerties</w>
+        <lb n="16" xml:id="BP_1591_II_Dom_6_Pasch_121_16"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#1">atſiuſti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#3">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#4">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#6">bet</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#8">graßei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#9">moka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#10">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_16#11">ka</w>
+        <lb n="17" xml:id="BP_1591_II_Dom_6_Pasch_121_17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_17#1">ſchwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_17#2">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_17#3">ateiuſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_17#4">ger</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_17#5">daris</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_17#6">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_17#7">iůſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_17#8">iſchtaiſis</w><ref decls="biblical" cRef="b.JOH.15.26"/></quote>
+.
+        <lb n="18" xml:id="BP_1591_II_Dom_6_Pasch_121_18"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_18#1">Antra</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_18#2">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_18#3">Apaſchtalams</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_18#4">teipaieg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_18#5">praneſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_18#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_18#7">kas</w>
+        <lb n="19" xml:id="BP_1591_II_Dom_6_Pasch_121_19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_19#1">iemus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_19#2">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_19#3">wiſſiems</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_19#4">krikſchcʒonims</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_19#5">ſchicʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_19#6">ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_19#7">ßemes</w>
+        <lb n="20-21" xml:id="BP_1591_II_Dom_6_Pasch_121_20-21"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_20-21#1">giwenantiemus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_20-21#2">nůg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_20-21#3">piktuiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_20-21#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_20-21#5">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_20-21#6">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_20-21#7">neſibian<lb break="no"/>cʒuiu</w>
+        <lb n="21-122" xml:id="BP_1591_II_Dom_6_Pasch_121_21-122"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_21-122#1">ßmoniu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_21-122#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_21-122#3">bus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_21-122#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_21-122#5">nuſſidůs</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_21-122#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_21-122#7">iam</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_21-122#8">Danguna</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_21-122#9">uß<lb break="no"/>ßenguſiam</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_121_21-122#10">/</w>
+        <pb n="122"/>
+        <lb n="1" xml:id="BP_1591_II_Dom_6_Pasch_122_1"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_1#1">butent</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_1#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_1#3">iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_1#4">anis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_1#5">didʒius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_1#6">tures</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_1#7">kenteti</w>
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_122_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_2#1">wargus</w><ref decls="biblical" cRef="b.JOH.16.2-3"/></quote>
+.
+        <lb n="3-4" xml:id="BP_1591_II_Dom_6_Pasch_122_3-4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_3-4#1">Tůgi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_3-4#2">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_3-4#3">mes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_3-4#4">nu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_3-4#5">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_3-4#6">ſchů</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_3-4#7">du</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_3-4#8">daiktu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_3-4#9">pilniaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_3-4#10">mo<lb break="no"/>kinkimes</w>.
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_122_4"/>
+
+
+        <lb n="5" xml:id="BP_1591_II_Dom_6_Pasch_122_5"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_5#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_5#2">Pirmo</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_5#4">Ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_5#5">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_5#6">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_5#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_5#8">kiek</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_5#9">ſchicʒe</w>
+        <lb n="6" xml:id="BP_1591_II_Dom_6_Pasch_122_6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_6#1">Ponas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_6#2">primen</w>.
+        <lb n="7" xml:id="BP_1591_II_Dom_6_Pasch_122_7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_7#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_7#2">Antro</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_7#4">Ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_7#5">Wargus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_7#6">Apaſchtalu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_7#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_7#8">kittu</w>
+        <lb n="8" xml:id="BP_1591_II_Dom_6_Pasch_122_8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_8#1">krikſchcʒoniu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_8#2">ſcheme</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_8#3">Swiete</w>.
+        <lb n="9" xml:id="BP_1591_II_Dom_6_Pasch_122_9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_9#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_9#2">Pirmo</w>.
+        <lb n="10" xml:id="BP_1591_II_Dom_6_Pasch_122_10"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_10#1">Ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_10#2">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_10#3">Dwaſe</w>.
+        <lb n="11-12" xml:id="BP_1591_II_Dom_6_Pasch_122_11-12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_11-12#1">KAcʒei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_11-12#2">ketwirtoi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_11-12#3">nedelioi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_11-12#4">po</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_11-12#5">Weliku</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_11-12#6">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_11-12#7">ſchwen<lb break="no"/>tos</w>
+        <lb n="12" xml:id="BP_1591_II_Dom_6_Pasch_122_12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_12#1">Dwaſes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_12#2">darba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_12#3">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_12#4">Vreda</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_12#5">kiekunta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_12#6">ſakem</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_12#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_12#8">ir</w>
+        <lb n="13-14" xml:id="BP_1591_II_Dom_6_Pasch_122_13-14"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_13-14#1">Schwenteie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_13-14#2">Sekminiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_13-14#3">daugeſne</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_13-14#4">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_13-14#5">ta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_13-14#6">Die<lb break="no"/>wo</w>
+        <lb n="14-15" xml:id="BP_1591_II_Dom_6_Pasch_122_14-15"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_14-15#1">dowana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_14-15#2">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_14-15#3">palinkſmintoie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_14-15#4">muſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_14-15#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_14-15#6">bus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_14-15#7">ſakjta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_14-15#8">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_14-15#9">ta<lb break="no"/>cʒiau</w>
+        <lb n="15" xml:id="BP_1591_II_Dom_6_Pasch_122_15"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_15#1">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_15#2">ſchů</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_15#3">kartu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_15#4">dabokimes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_15#5">ka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_15#6">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_15#7">ſchoie</w>
+        <lb n="16" xml:id="BP_1591_II_Dom_6_Pasch_122_16"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_16#1">Euangelioie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_16#2">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_16#3">ie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_16#4">kalb</w>.
+        <lb n="17-18" xml:id="BP_1591_II_Dom_6_Pasch_122_17-18"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_17-18#1">Ponas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_17-18#2">muſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_17-18#3">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_17-18#4">ſchicʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_17-18#5">triu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_17-18#6">daiktu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_17-18#7">Apaſch<lb break="no"/>talams</w>
+        <lb n="18" xml:id="BP_1591_II_Dom_6_Pasch_122_18"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_18#1">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_18#2">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_18#3">mumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_18#4">wiſſiemus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_18#5">primen</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_18#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_18#7">pirma</w>
+        <lb n="19" xml:id="BP_1591_II_Dom_6_Pasch_122_19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_19#1">kas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_19#2">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_19#3">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_19#4">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_19#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_19#6">Antro</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_19#7">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_19#8">kur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_19#9">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_19#10">nůg</w>
+        <lb n="20-21" xml:id="BP_1591_II_Dom_6_Pasch_122_20-21"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_20-21#1">ko</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_20-21#2">ta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_20-21#3">ateit</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_20-21#5">Trecʒio</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_20-21#6">kam</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_20-21#7">ta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_20-21#8">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_20-21#9">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_20-21#10">důdama</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_20-21#11">ßmo<lb break="no"/>niems</w>.
+        <lb n="21-22" xml:id="BP_1591_II_Dom_6_Pasch_122_21-22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_21-22#1">Bei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_21-22#2">ſchu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_21-22#3">triu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_21-22#4">daiktu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_21-22#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_21-22#6">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_21-22#7">mumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_21-22#8">gerai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_21-22#9">pri<lb break="no"/>mokti</w>
+        <lb n="22" xml:id="BP_1591_II_Dom_6_Pasch_122_22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_22#1">nůdem</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_22#2">priwalu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_22#3">ira</w>.
+        <lb n="23-24" xml:id="BP_1591_II_Dom_6_Pasch_122_23-24"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_23-24#1">Pirma</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_23-24#3">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_23-24#4">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_23-24#5">ſchicʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_23-24#6">Pono</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_23-24#7">Kri<lb break="no"/>ſtaus</w>
+        <lb n="24-25" xml:id="BP_1591_II_Dom_6_Pasch_122_24-25"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_24-25#1">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_24-25#2">wadinama</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_24-25#3">palinkſmintoia</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_24-25#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_24-25#5">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_24-25#6">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_24-25#7">Tie<lb break="no"/>ſos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_24-25#8">/</w>
+        <lb n="25-123" xml:id="BP_1591_II_Dom_6_Pasch_122_25-123"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_25-123#1">neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_25-123#2">teip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_25-123#3">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_25-123#4">bila</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_25-123#6">Kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_25-123#7">ateis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_122_25-123#8">palinkſ<lb break="no"/>mintoghi</w>.<ref decls="biblical" cRef="b.JOH.15.26"/></quote>
+
+        <pb n="123"/>
+        <lb n="1" xml:id="BP_1591_II_Dom_6_Pasch_123_1"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_1#1">Potam</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_1#3">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_1#4">Tieſos</w><ref decls="biblical" cRef="b.JOH.15.26"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_1#6">Ponas</w>
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_123_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_2#1">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_2#2">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_2#3">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_2#4">wadin</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_2#5">palinkſmintoghe</w>
+        <lb n="3" xml:id="BP_1591_II_Dom_6_Pasch_123_3"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_3#1">ßmoniu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_3#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_3#3">todel</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_3#4">iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_3#5">ghi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_3#6">ßmogu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_3#7">ſmutna</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_3#8">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_3#9">pawarguſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_3#10">/</w>
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_123_4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_4#1">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_4#2">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_4#3">grieku</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_4#4">delei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_4#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_4#6">didei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_4#7">bjantiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_4#8">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_4#9">narſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_4#10">ir</w>
+        <lb n="5-6" xml:id="BP_1591_II_Dom_6_Pasch_123_5-6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_5-6#1">karaghimo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_5-6#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_5-6#3">wiſſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_5-6#4">geriauſei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_5-6#5">gal</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_5-6#6">palinkſminti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_5-6#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_5-6#8">ieib</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_5-6#9">ßmo<lb break="no"/>gutelis</w>
+        <lb n="6" xml:id="BP_1591_II_Dom_6_Pasch_123_6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_6#1">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_6#2">wiſſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_6#3">ſchaliu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_6#4">ſpaudʒems</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_6#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_6#6">buk</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_6#7">Welino</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_6#8">/</w>
+        <lb n="7-8" xml:id="BP_1591_II_Dom_6_Pasch_123_7-8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#1">buk</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#2">piktu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#3">ßmoniu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#5">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#6">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#7">paties</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#8">kuno</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#9">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#10">nenuſſimin<lb break="no"/>tů</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_7-8#11">/</w>
+        <lb n="8" xml:id="BP_1591_II_Dom_6_Pasch_123_8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_8#1">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_8#2">wieros</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_8#3">ing</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_8#4">Diewa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_8#5">nepameſtu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_8#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_8#7">Bet</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_8#8">Diewui</w>
+        <lb n="9" xml:id="BP_1591_II_Dom_6_Pasch_123_9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_9#1">wiſſoſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_9#2">daiktoſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_9#3">ſtiprei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_9#4">iſchtiketu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_9#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_9#6">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_9#7">wiſſokius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_9#8">wargus</w>
+        <lb n="10" xml:id="BP_1591_II_Dom_6_Pasch_123_10"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_10#1">kantrei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_10#2">iſchkentetu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_10#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_10#4">ſcheme</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_10#5">ſwiete</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_10#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_10#7">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_10#8">pagalbos</w>
+        <lb n="11" xml:id="BP_1591_II_Dom_6_Pasch_123_11"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_11#1">aname</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_11#2">ſwiete</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_11#3">laukdams</w>.
+        <lb n="12" xml:id="BP_1591_II_Dom_6_Pasch_123_12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_12#1">Kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_12#2">ſchita</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_12#3">darba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_12#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_12#5">palinkſminima</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_12#6">Dwaſes</w>
+        <lb n="13" xml:id="BP_1591_II_Dom_6_Pasch_123_13"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_13#1">Schwentos</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_13#2">regim</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_13#3">Iobe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_13#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_13#5">kurſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_13#6">wiſſus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_13#7">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_13#8">waikus</w>
+        <lb n="14-15" xml:id="BP_1591_II_Dom_6_Pasch_123_14-15"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#1">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#2">wiſſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#3">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#4">lobi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#5">pametens</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#8">ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#9">kuno</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#10">didei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#11">negal<lb break="no"/>ledams</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_14-15#12">/</w>
+        <lb n="15" xml:id="BP_1591_II_Dom_6_Pasch_123_15"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_15#1">tacʒiau</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_15#2">nůg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_15#3">Diewo</w><ref decls="biblical" cRef="b.JOB.1.13-2.10"/></quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_15#4">neatpůl</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_15#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_15#6">net</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_15#7">bila</w>.
+        <lb n="16" xml:id="BP_1591_II_Dom_6_Pasch_123_16"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_16#1">Kacʒei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_16#2">numarintu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_16#3">mane</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_16#4">Diewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_16#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_16#6">tacʒiau</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_16#7">aſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_16#8">iam</w>
+        <lb n="17" xml:id="BP_1591_II_Dom_6_Pasch_123_17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_17#1">nuſſitikeſiu</w><ref decls="biblical" cRef="b.JOB.13.15"/></quote>
+.
+        <lb n="18-19" xml:id="BP_1591_II_Dom_6_Pasch_123_18-19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_18-19#1">Teipo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_18-19#2">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_18-19#3">wiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_18-19#4">mucʒelnikai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_18-19#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_18-19#6">didʒiauſes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_18-19#7">mukas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_18-19#8">kan<lb break="no"/>trei</w>
+        <lb n="19" xml:id="BP_1591_II_Dom_6_Pasch_123_19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_19#1">iſchkenteia</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_19#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_19#3">duſche</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_19#4">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_19#5">Diewu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_19#6">paliecawodami</w>.
+        <lb n="20-21" xml:id="BP_1591_II_Dom_6_Pasch_123_20-21"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_20-21#1">Potam</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_20-21#2">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_20-21#3">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_20-21#4">Kriſtaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_20-21#5">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_20-21#6">wadi<lb break="no"/>nama</w>
+        <lb n="21" xml:id="BP_1591_II_Dom_6_Pasch_123_21"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_21#1">Dwaſe</w><ref decls="biblical" cRef="b.JOH.15.26"/></quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_21#2">Tieſos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_21#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_21#4">neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_21#5">kaip</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_21#6">Welinas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_21#7">mellagis</w>
+        <lb n="22" xml:id="BP_1591_II_Dom_6_Pasch_123_22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_22#1">budams</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_22#2">mellus</w><ref decls="biblical" cRef="b.JOH.8.44"/></quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_22#3">pramana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_22#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_22#5">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_22#6">ßmones</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_22#7">ing</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_22#8">mellus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_22#9">bei</w>
+        <lb n="23" xml:id="BP_1591_II_Dom_6_Pasch_123_23"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_23#1">kleioghimus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_23#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_23#3">pamokſle</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_23#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_23#5">kittame</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_23#6">giwenime</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_23#7">weda</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_23#8">/</w>
+        <lb n="24-25" xml:id="BP_1591_II_Dom_6_Pasch_123_24-25"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_24-25#1">Teip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_24-25#2">atpent</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_24-25#3">ſchwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_24-25#4">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_24-25#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_24-25#6">gin</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_24-25#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_24-25#8">ßmoguteli</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_24-25#9">Die<lb break="no"/>wo</w>
+        <lb n="25-26" xml:id="BP_1591_II_Dom_6_Pasch_123_25-26"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_25-26#1">biantiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_25-26#2">priſtoij</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_25-26#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_25-26#4">kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_25-26#5">io</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_25-26#6">welinas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_25-26#7">melais</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_25-26#8">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_25-26#9">ſdrodli<lb break="no"/>wiſtemis</w>
+        <lb n="26" xml:id="BP_1591_II_Dom_6_Pasch_123_26"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_26#1">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_26#2">negal</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_26#3">prigauti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_26#4">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_26#5">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_26#6">tikroio</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_26#7">kelio</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_123_26#8">/</w>
+        <pb n="124"/>
+        <lb n="1-2" xml:id="BP_1591_II_Dom_6_Pasch_124_1-2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#1">tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#2">eſti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#4">tikros</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#5">wieros</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#6">iſchweſti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#7">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#8">kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#9">tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#10">regim</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_1-2#11">Io<lb break="no"/>ſephe</w>
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_124_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_2#1">Egyptu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_2#2">ßemeie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_2#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_2#4">taſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_2#5">buwa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_2#6">welino</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_2#7">gundinams</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_2#8">/</w>
+        <lb n="3" xml:id="BP_1591_II_Dom_6_Pasch_124_3"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_3#1">idant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_3#2">ſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_3#3">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_3#4">Pone</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_3#5">apſikekſchautu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_3#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_3#7">A</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_3#8">Schwenta</w>
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_124_4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_4#1">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_4#2">ghi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_4#3">priſtodama</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_4#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_4#5">iam</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_4#6">ing</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_4#7">ſchirdi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_4#8">ta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_4#9">prota</w>
+        <lb n="5-6" xml:id="BP_1591_II_Dom_6_Pasch_124_5-6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_5-6#1">dawe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_5-6#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_5-6#3">idant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_5-6#4">ghis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_5-6#5">to</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_5-6#6">nedaritu</w><ref decls="biblical" cRef="b.GEN.39.7-12"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_5-6#8">Teipo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_5-6#9">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_5-6#10">dabar</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_5-6#11">ſchwen<lb break="no"/>ta</w>
+        <lb n="6-7" xml:id="BP_1591_II_Dom_6_Pasch_124_6-7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_6-7#1">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_6-7#2">ßmones</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_6-7#3">Krikſchcʒonis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_6-7#4">priſtoij</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_6-7#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_6-7#6">idant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_6-7#7">ne<lb break="no"/>teiſaus</w>
+        <lb n="7" xml:id="BP_1591_II_Dom_6_Pasch_124_7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_7#1">pamokſlo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_7#2">neklaußtu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_7#3">nei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_7#4">prijmtu</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_7#6">Iei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_7#7">tada</w>
+        <lb n="8" xml:id="BP_1591_II_Dom_6_Pasch_124_8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_8#1">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_8#2">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_8#3">ßmones</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_8#4">warkſtancʒes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_8#5">teip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_8#6">gal</w>
+        <lb n="9" xml:id="BP_1591_II_Dom_6_Pasch_124_9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_9#1">palinkſminti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_9#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_9#3">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_9#4">iſchlaikiti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_9#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_9#6">idant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_9#7">welino</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_9#8">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_9#9">piktoio</w>
+        <lb n="10" xml:id="BP_1591_II_Dom_6_Pasch_124_10"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_10#1">ſwieto</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_10#2">nebutu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_10#3">prigauti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_10#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_10#5">tada</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_10#6">iſchtieſos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_10#7">Dwaſe</w>
+        <lb n="11" xml:id="BP_1591_II_Dom_6_Pasch_124_11"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_11#1">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_11#2">tur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_11#3">tikras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_11#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_11#5">pilnas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_11#6">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_11#7">amßinas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_11#8">Diewas</w>
+        <lb n="12" xml:id="BP_1591_II_Dom_6_Pasch_124_12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_12#1">buti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_12#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_12#3">Diewui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_12#4">Tiewui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_12#5">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_12#6">Sunui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_12#7">Ponui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_12#8">muſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_12#9">IEſui</w>
+        <lb n="13" xml:id="BP_1591_II_Dom_6_Pasch_124_13"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_13#1">Kriſtui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_13#2">wiſſame</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_13#3">ligi</w>.
+        <lb n="14" xml:id="BP_1591_II_Dom_6_Pasch_124_14"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_14#1">Antro</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_14#2">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_14#3">ßodʒiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_14#4">paties</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_14#5">Pono</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_14#6">Kriſtaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_14#7">regim</w>
+        <lb n="15-16" xml:id="BP_1591_II_Dom_6_Pasch_124_15-16"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_15-16#1">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_15-16#2">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_15-16#3">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_15-16#4">niekur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_15-16#5">kitur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_15-16#6">neatencʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_15-16#7">net</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_15-16#8">tik<lb break="no"/>tai</w>
+        <lb n="16" xml:id="BP_1591_II_Dom_6_Pasch_124_16"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_16#1">nůg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_16#2">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_16#3">per</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_16#4">Kriſtu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_16#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_16#6">Tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_16#7">eſti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_16#8">Schwenta</w>
+        <lb n="17" xml:id="BP_1591_II_Dom_6_Pasch_124_17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_17#1">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_17#2">ateit</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_17#3">ßmoniump</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_17#4">nůg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_17#5">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_17#6">Tiewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_17#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_17#8">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_17#9">Ponas</w>
+        <lb n="18" xml:id="BP_1591_II_Dom_6_Pasch_124_18"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_18#1">muſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_18#2">IEſus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_18#3">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_18#4">ſchita</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_18#5">ßmoniems</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_18#6">ſiuncʒ</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_18#7">alba</w>
+        <lb n="19-20" xml:id="BP_1591_II_Dom_6_Pasch_124_19-20"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_19-20#1">pridůſt</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_19-20#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_19-20#3">neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_19-20#4">teipo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_19-20#5">ſaka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_19-20#6">Kriſtus</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_19-20#8">Kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_19-20#9">ateis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_19-20#10">pa<lb break="no"/>linkſmintoghi</w>
+        <lb n="20" xml:id="BP_1591_II_Dom_6_Pasch_124_20"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_20#1">kure</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_20#2">aſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_20#3">iumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_20#4">atſiuſiu</w>
+        <lb n="21" xml:id="BP_1591_II_Dom_6_Pasch_124_21"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_21#1">nog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_21#2">Tiewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_21#3">kuri</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_21#4">nog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_21#5">Tiewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_21#6">iſcheit</w><ref decls="biblical" cRef="b.JOH.15.26"/></quote>
+.
+        <lb n="22" xml:id="BP_1591_II_Dom_6_Pasch_124_22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_22#1">Schicʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_22#2">girdi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_22#3">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_22#4">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_22#5">iſchencʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_22#6">nůg</w>
+        <lb n="23" xml:id="BP_1591_II_Dom_6_Pasch_124_23"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_23#1">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_23#2">Tiewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_23#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_23#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_23#5">ßmoniump</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_23#6">ſiuncʒiama</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_23#7">Pono</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_23#8">muſu</w>
+        <lb n="24" xml:id="BP_1591_II_Dom_6_Pasch_124_24"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_24#1">IEſaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_24#2">Kriſtaus</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_24#4">Wis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_24#5">ka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_24#6">Diewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_24#7">Tiewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_124_24#8">nor</w>
+        <pb n="125"/>
+        <lb n="1" xml:id="BP_1591_II_Dom_6_Pasch_125_1"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#1">tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#2">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#3">Sunus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#4">io</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#5">nor</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#7">Bei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#8">ka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#9">Tiewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#10">ſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_1#11">Sunumi</w>
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_125_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_2#1">nor</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_2#2">tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_2#3">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_2#4">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_2#5">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_2#6">nor</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_2#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_2#8">Bei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_2#9">ka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_2#10">ſchwenta</w>
+        <lb n="3" xml:id="BP_1591_II_Dom_6_Pasch_125_3"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#1">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#2">nor</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#4">tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#5">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#6">Diewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#7">Tiewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#8">ſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#9">ſunumi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#10">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_3#11">nor</w>
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_125_4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_4#1">Ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_4#2">ſchiteipo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_4#3">wienas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_4#4">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_4#5">noras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_4#6">Schwentos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_4#7">Traices</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_4#8">/</w>
+        <lb n="5" xml:id="BP_1591_II_Dom_6_Pasch_125_5"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_5#1">Togidel</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_5#2">nu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_5#3">Diewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_5#4">Tiewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_5#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_5#6">Sunus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_5#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_5#8">Dwaſe</w>
+        <lb n="6-7" xml:id="BP_1591_II_Dom_6_Pasch_125_6-7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_6-7#1">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_6-7#2">wienas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_6-7#3">Diewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_6-7#4">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_6-7#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_6-7#6">kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_6-7#7">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_6-7#8">tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_6-7#9">die<lb break="no"/>noie</w>
+        <lb n="7" xml:id="BP_1591_II_Dom_6_Pasch_125_7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_7#1">Schwentos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_7#2">Traices</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_7#3">daugiaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_7#4">girdeſim</w>.
+        <lb n="8" xml:id="BP_1591_II_Dom_6_Pasch_125_8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_8#1">Trecʒio</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_8#3">Schwentos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_8#4">Dwaſes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_8#5">Vredas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_8#6">alba</w>
+        <lb n="9" xml:id="BP_1591_II_Dom_6_Pasch_125_9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_9#1">darbas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_9#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_9#3">pagal</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_9#4">ßodʒiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_9#5">ſchos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_9#6">Euangelios</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_9#7">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_9#8">liuditi</w>
+        <lb n="10-11" xml:id="BP_1591_II_Dom_6_Pasch_125_10-11"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#1">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#2">IEſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#3">Kriſtu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#5">Tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#6">eſti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#7">mokiti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#8">ßmones</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#9">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#10">iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_10-11#11">ſchiſ<lb break="no"/>ſai</w>
+        <lb n="11-12" xml:id="BP_1591_II_Dom_6_Pasch_125_11-12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_11-12#1">IEſus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_11-12#2">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_11-12#3">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_11-12#4">tikras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_11-12#5">Diewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_11-12#6">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_11-12#7">tikras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_11-12#8">ßmo<lb break="no"/>gus</w>
+        <lb n="12" xml:id="BP_1591_II_Dom_6_Pasch_125_12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_12#1">Iſchgelbetoias</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_12#2">Swieto</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_12#4">Neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_12#5">teipo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_12#6">ſchicʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_12#7">kalba</w>
+        <lb n="13-14" xml:id="BP_1591_II_Dom_6_Pasch_125_13-14"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_13-14#1">Kriſtus</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_13-14#3">Ta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_13-14#4">liudis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_13-14#5">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_13-14#6">mane</w><ref decls="biblical" cRef="b.JOH.15.26"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_13-14#8">A</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_13-14#9">Schwen<lb break="no"/>ta</w>
+        <lb n="14" xml:id="BP_1591_II_Dom_6_Pasch_125_14"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_14#1">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_14#2">ſchita</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_14#3">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_14#4">darba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_14#5">tada</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_14#6">iſchtaiſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_14#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_14#8">kada</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_14#9">ghi</w>
+        <lb n="15" xml:id="BP_1591_II_Dom_6_Pasch_125_15"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#1">ßmogui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#2">ing</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#3">io</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#4">ſchirdi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#5">ſchita</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#6">prota</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#8">duma</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#9">důſt</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#10">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_15#11">Tatai</w>
+        <lb n="16-17" xml:id="BP_1591_II_Dom_6_Pasch_125_16-17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_16-17#1">taſſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_16-17#2">IEſus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_16-17#3">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_16-17#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_16-17#5">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_16-17#6">tikras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_16-17#7">Meſſioſchus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_16-17#8">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_16-17#9">ßmo<lb break="no"/>niems</w>
+        <lb n="17" xml:id="BP_1591_II_Dom_6_Pasch_125_17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_17#1">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_17#2">Raiuie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_17#3">paßadetas</w>.
+        <lb n="18-19" xml:id="BP_1591_II_Dom_6_Pasch_125_18-19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_18-19#1">Todelei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_18-19#2">kad</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_18-19#3">tu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_18-19#4">ſupraſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_18-19#5">toke</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_18-19#6">duma</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_18-19#7">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_18-19#8">toki</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_18-19#9">tike<lb break="no"/>ghima</w>
+        <lb n="19" xml:id="BP_1591_II_Dom_6_Pasch_125_19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_19#1">ſchirdije</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_19#2">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_19#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_19#4">tada</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_19#5">permanik</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_19#6">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_19#7">ßinnok</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_19#8">ſchitai</w>
+        <lb n="20" xml:id="BP_1591_II_Dom_6_Pasch_125_20"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_20#1">iſchtieſos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_20#2">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_20#3">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_20#4">tawije</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_20#5">darancʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_20#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_20#7">Bei</w>
+        <lb n="21-22" xml:id="BP_1591_II_Dom_6_Pasch_125_21-22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_21-22#1">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_21-22#2">to</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_21-22#3">permanik</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_21-22#4">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_21-22#5">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_21-22#6">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_21-22#7">tawip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_21-22#8">giwe<lb break="no"/>nancʒe</w>
+        <lb n="22" xml:id="BP_1591_II_Dom_6_Pasch_125_22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_22#1">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_125_22#2">eſancʒe</w>.
+        <pb n="126"/>
+        <lb n="1" xml:id="BP_1591_II_Dom_6_Pasch_126_1"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_1#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_1#2">Antro</w>.
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_126_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_2#1">Ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_2#2">giwenima</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_2#3">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_2#4">wargus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_2#5">bei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_2#6">Apaſchtalu</w>
+        <lb n="3" xml:id="BP_1591_II_Dom_6_Pasch_126_3"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_3#1">bei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_3#2">wiſſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_3#3">krikſchcʒoniu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_3#4">ſcheme</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_3#5">Swiete</w>.
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_126_4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_4#1">Graßus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_4#2">wardas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_4#3">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_4#4">didis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_4#5">daiktas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_4#6">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_4#7">Apaſchtalu</w>
+        <lb n="5-6" xml:id="BP_1591_II_Dom_6_Pasch_126_5-6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_5-6#1">Kriſtaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_5-6#2">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_5-6#3">krikſchcʒoniu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_5-6#4">buti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_5-6#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_5-6#6">neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_5-6#7">ſchitei<lb break="no"/>po</w>
+        <lb n="6" xml:id="BP_1591_II_Dom_6_Pasch_126_6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_6#1">Ponas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_6#2">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_6#3">Petrui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_6#4">kalba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_6#5">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_6#6">Tu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_6#7">eſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_6#8">Petras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_6#9">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_6#10">ir</w>
+        <lb n="7" xml:id="BP_1591_II_Dom_6_Pasch_126_7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_7#1">ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_7#2">tos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_7#3">Olos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_7#4">aſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_7#5">pabudawoſiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_7#6">Baßnicʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_7#7">mana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_7#8">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_7#9">ir</w>
+        <lb n="8" xml:id="BP_1591_II_Dom_6_Pasch_126_8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_8#1">bromas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_8#2">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_8#3">wartai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_8#4">peklos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_8#5">neiweiks</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_8#6">ie</w><ref decls="biblical" cRef="b.MAT.16.18"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_8#8">Todelei</w>
+        <lb n="9" xml:id="BP_1591_II_Dom_6_Pasch_126_9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_9#1">dabokimes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_9#2">ſchicʒe</w>.
+        <lb n="10" xml:id="BP_1591_II_Dom_6_Pasch_126_10"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_10#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_10#2">Pirmo</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_10#4">Kurie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_10#5">tikri</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_10#6">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_10#7">krikſchcʒonis</w>.
+        <lb n="11" xml:id="BP_1591_II_Dom_6_Pasch_126_11"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_11#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_11#2">Antro</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_11#4">Kas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_11#5">iů</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_11#6">tur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_11#7">darbas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_11#8">buti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_11#9">ſcheme</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_11#10">ſwiete</w>.
+        <lb n="12" xml:id="BP_1591_II_Dom_6_Pasch_126_12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_12#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_12#2">Trecʒio</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_12#4">Ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_12#5">nepalaima</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_12#6">krikſchcʒoniu</w>.
+        <lb n="13" xml:id="BP_1591_II_Dom_6_Pasch_126_13"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_13#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_13#2">Ketwir:</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_13#3">Ků</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_13#4">anis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_13#5">nepalaime</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_13#6">tur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_13#7">linkſminties</w>.
+        <lb n="14" xml:id="BP_1591_II_Dom_6_Pasch_126_14"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_14#1">Kas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_14#2">tikras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_14#3">krikſchcʒonis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_14#4">ira</w>?
+        <lb n="15" xml:id="BP_1591_II_Dom_6_Pasch_126_15"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_15#1">Norinſis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_15#2">tikru</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_15#3">krikſchcʒoniu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_15#4">buti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_15#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_15#6">tam</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_15#7">ſchu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_15#8">daiktu</w>
+        <lb n="16" xml:id="BP_1591_II_Dom_6_Pasch_126_16"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_16#1">reik</w>.
+        <lb n="17" xml:id="BP_1591_II_Dom_6_Pasch_126_17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_17#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_17#2">Pirmo</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_17#4">Idant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_17#5">netiktai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_17#6">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_17#7">krikſchcʒoniſchku</w>
+        <lb n="18" xml:id="BP_1591_II_Dom_6_Pasch_126_18"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_18#1">gimditoiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_18#2">butu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_18#3">pagimditas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_18#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_18#5">Bet</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_18#6">idant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_18#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_18#8">patſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_18#9">butu</w>
+        <lb n="19" xml:id="BP_1591_II_Dom_6_Pasch_126_19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_19#1">krikſchtitas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_19#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_19#3">Neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_19#4">be</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_19#5">Schwento</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_19#6">krikſchto</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_19#7">niekas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_19#8">negal</w>
+        <lb n="20" xml:id="BP_1591_II_Dom_6_Pasch_126_20"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_20#1">nei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_20#2">tikru</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_20#3">krikſchcʒoniu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_20#4">nei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_20#5">iſchganitu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_20#6">buti</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_20#8">Iei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_20#9">kas</w>
+        <lb n="21" xml:id="BP_1591_II_Dom_6_Pasch_126_21"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_21#1">neatſigims</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_21#2">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_21#3">Dwaſes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_21#4">Schwentos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_21#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_21#6">tas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_21#7">Dangaus</w>
+        <lb n="22" xml:id="BP_1591_II_Dom_6_Pasch_126_22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_22#1">Karaliſte</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_22#2">ne</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_22#3">ingjs</w><ref decls="biblical" cRef="b.JOH.3.5"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_22#5">Kas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_22#6">apſikrikſchtidins</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_22#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_22#8">tikes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_22#9">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_22#10">tas</w>
+        <lb n="23" xml:id="BP_1591_II_Dom_6_Pasch_126_23"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_23#1">bus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_23#2">iſchganitas</w><ref decls="biblical" cRef="b.MAR.16.16"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_23#4">Schwentas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_23#5">Petras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_23#6">teip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_23#7">kalba</w>
+        <lb n="24-25" xml:id="BP_1591_II_Dom_6_Pasch_126_24-25"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_24-25#1">Sʒidams</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_24-25#2">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_24-25#3">Darikite</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_24-25#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_24-25#5">pakuta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_24-25#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_24-25#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_24-25#8">koßnas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_24-25#9">teapſikrikſch<lb break="no"/>tidin</w>
+        <lb n="25" xml:id="BP_1591_II_Dom_6_Pasch_126_25"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_25#1">wardan</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_25#2">Ieſaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_25#3">Kriſtaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_25#4">ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_25#5">atleidimo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_126_25#6">grieku</w><ref decls="biblical" cRef="b.ACT.2.38"/></quote>
+.
+        <pb n="127"/>
+        <lb n="1" xml:id="BP_1591_II_Dom_6_Pasch_127_1"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_1#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_1#2">Antro</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_1#4">Reik</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_1#5">iam</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_1#6">tikros</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_1#7">wieros</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_1#8">ing</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_1#9">Diewa</w>
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_127_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_2#1">Tiewa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_2#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_2#3">Sunu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_2#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_2#5">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_2#6">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_2#7">wiſſame</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_2#8">ſawa</w>
+        <lb n="3" xml:id="BP_1591_II_Dom_6_Pasch_127_3"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_3#1">amße</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_3#2">ſchirdije</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_3#3">iſchlaikiti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_3#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_3#5">neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_3#6">toktai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_3#7">mes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_3#8">wiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_3#9">eſme</w>
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_127_4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_4#1">Diewui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_4#2">ßadeie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_4#3">kada</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_4#4">mus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_4#5">krikſchtija</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_4#6">tarnas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_4#7">Diewo</w>
+        <lb n="5-6" xml:id="BP_1591_II_Dom_6_Pasch_127_5-6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_5-6#1">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_5-6#2">Baßnicʒios</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_5-6#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_5-6#4">Schita</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_5-6#5">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_5-6#6">priſſiega</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_5-6#7">tur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_5-6#8">krikſch<lb break="no"/>cʒonis</w>
+        <lb n="6-7" xml:id="BP_1591_II_Dom_6_Pasch_127_6-7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_6-7#1">Diewui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_6-7#2">pilnawoti</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_6-7#4">Nes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_6-7#5">teip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_6-7#6">ſaka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_6-7#7">pats</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_6-7#8">Kri<lb break="no"/>ſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_6-7#9">/</w>
+        <lb n="7" xml:id="BP_1591_II_Dom_6_Pasch_127_7"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_7#1">kurſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_7#2">netikes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_7#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_7#4">bus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_7#5">praßuditas</w><ref decls="biblical" cRef="b.MAR.16.16"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_7#7">Be</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_7#8">wieros</w>
+        <lb n="8" xml:id="BP_1591_II_Dom_6_Pasch_127_8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_8#1">negal</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_8#2">kas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_8#3">intikti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_8#4">Diewui</w><ref decls="biblical" cRef="b.HEB.11.6"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_8#6">Bei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_8#7">Ponas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_8#8">Kriſtus</w>
+        <lb n="9" xml:id="BP_1591_II_Dom_6_Pasch_127_9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_9#1">gelbedams</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_9#2">ſimones</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_9#3">negalincʒias</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_9#4">kalba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_9#5">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_9#6">Wiera</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_9#7">tawa</w>
+        <lb n="10" xml:id="BP_1591_II_Dom_6_Pasch_127_10"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_10#1">tawe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_10#2">gelbeia</w><ref decls="biblical" cRef="b.LUK.18.42"/></quote>
+.
+        <lb n="11" xml:id="BP_1591_II_Dom_6_Pasch_127_11"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_11#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_11#2">Trecʒio</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_11#4">Narinſis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_11#5">tikru</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_11#6">krikſchcʒonimi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_11#7">buti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_11#8">/</w>
+        <lb n="12" xml:id="BP_1591_II_Dom_6_Pasch_127_12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_12#1">tur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_12#2">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_12#3">priſiega</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_12#4">giwenimu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_12#5">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_12#6">darbais</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_12#7">per</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_12#8">wiſſa</w>
+        <lb n="13-14" xml:id="BP_1591_II_Dom_6_Pasch_127_13-14"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_13-14#1">ſawa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_13-14#2">amßa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_13-14#3">iſchpilditi</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_13-14#5">Mana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_13-14#6">priſakimůſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_13-14#7">waikſch<lb break="no"/>cʒokite</w>.<ref decls="biblical" cRef="b.LEV.20.8"/></quote>
+
+        <lb n="14" xml:id="BP_1591_II_Dom_6_Pasch_127_14"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_14#1">Mana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_14#2">awis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_14#3">klauſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_14#4">mana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_14#5">balſo</w><ref decls="biblical" cRef="b.JOH.10.26"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_14#7">Mes</w>
+        <lb n="15" xml:id="BP_1591_II_Dom_6_Pasch_127_15"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_15#1">eſme</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_15#2">darbai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_15#3">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_15#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_15#5">leiſti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_15#6">Kriſtuie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_15#7">IEſuie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_15#8">ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_15#9">geru</w>
+        <lb n="16" xml:id="BP_1591_II_Dom_6_Pasch_127_16"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_16#1">darbu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_16#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_16#3">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_16#4">kuru</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_16#5">Diewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_16#6">mus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_16#7">pirm</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_16#8">pagatawija</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_16#9">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_16#10">ieib</w>
+        <lb n="17" xml:id="BP_1591_II_Dom_6_Pasch_127_17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_17#1">anůſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_17#2">giwentumbim</w><ref decls="biblical" cRef="b.EPH.2.10"/></quote>
+.
+        <lb n="18" xml:id="BP_1591_II_Dom_6_Pasch_127_18"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_18#1">Kurſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_18#2">ßmogus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_18#3">krikſchta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_18#4">prieme</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_18#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_18#6">kurſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_18#7">Diewui</w>
+        <lb n="19-20" xml:id="BP_1591_II_Dom_6_Pasch_127_19-20"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#1">tik</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#3">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#4">ſchwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#5">wed</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#6">giwenima</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#8">tas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#9">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#10">tikras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#11">krikſch<lb break="no"/>cʒonis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_19-20#12">/</w>
+        <lb n="20" xml:id="BP_1591_II_Dom_6_Pasch_127_20"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_20#1">atpent</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_20#2">kuriampi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_20#3">tokiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_20#4">daiktu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_20#5">nera</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_20#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_20#7">tas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_20#8">ne</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_20#9">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_20#10">/</w>
+        <lb n="21" xml:id="BP_1591_II_Dom_6_Pasch_127_21"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_21#1">nei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_21#2">Apaſchtalas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_21#3">Kriſtaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_21#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_21#5">ne</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_21#6">tikras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_21#7">krikſchcʒonis</w>.
+        <lb n="22" xml:id="BP_1591_II_Dom_6_Pasch_127_22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_22#1">Vredas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_22#2">Apaſchtalu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_22#3">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_22#4">darbas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_22#5">koßno</w>
+        <lb n="23" xml:id="BP_1591_II_Dom_6_Pasch_127_23"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_23#1">krikſchcʒonies</w>.
+        <lb n="24-25" xml:id="BP_1591_II_Dom_6_Pasch_127_24-25"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_24-25#1">Vredas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_24-25#2">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_24-25#3">darbas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_24-25#4">Apaſchtalu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_24-25#5">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_24-25#6">koßno</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_24-25#7">Baß<lb break="no"/>nicʒos</w>
+        <lb n="25" xml:id="BP_1591_II_Dom_6_Pasch_127_25"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_25#1">tarno</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_25#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_25#3">wel</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_25#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_25#5">koßno</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_25#6">ßmogaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_25#7">ſchitas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_25#8">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_25#9">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_25#10">Iog</w>
+        <lb n="26" xml:id="BP_1591_II_Dom_6_Pasch_127_26"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_26#1">anis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_26#2">po</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_26#3">akim</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_26#4">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_26#5">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_26#6">wiſſo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_26#7">Swieto</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_26#8">tur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_26#9">liuditi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_26#10">ape</w>
+        <lb n="27" xml:id="BP_1591_II_Dom_6_Pasch_127_27"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_27#1">IEſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_27#2">Kriſtu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_27#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_27#4">Neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_27#5">teipo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_27#6">Ponas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_27#7">IEſus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_27#8">bila</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_127_27#9">ſchoie</w>
+        <pb n="128"/>
+        <lb n="1" xml:id="BP_1591_II_Dom_6_Pasch_128_1"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_1#1">Euangelioie</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_1#3">Ius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_1#4">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_1#5">mane</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_1#6">liudiſit</w><ref decls="biblical" cRef="b.JOH.15.27"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_1#8">Ir</w>
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_128_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_2#1">ius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_2#2">buſit</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_2#3">mana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_2#4">ſwietkais</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_2#5">Ieruſaleie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_2#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_2#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_2#8">ikki</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_2#9">galo</w>
+        <lb n="3" xml:id="BP_1591_II_Dom_6_Pasch_128_3"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_3#1">Swieto</w><ref decls="biblical" cRef="b.ACT.1.8"/></quote>
+.
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_128_4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_4#1">Bet</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_4#2">galetu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_4#3">kas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_4#4">ſakiti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_4#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_4#6">ka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_4#7">liudis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_4#8">Apaſchtalai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_4#9">ir</w>
+        <lb n="5" xml:id="BP_1591_II_Dom_6_Pasch_128_5"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_5#1">kiti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_5#2">krikſchcʒonis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_5#3">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_5#4">Ieſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_5#5">Kriſtu</w>?
+        <lb n="6" xml:id="BP_1591_II_Dom_6_Pasch_128_6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_6#1">Atſakau</w>?
+        <lb n="7-8" xml:id="BP_1591_II_Dom_6_Pasch_128_7-8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_7-8#1">Schitai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_7-8#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_7-8#3">iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_7-8#4">ſchiſſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_7-8#5">IEſus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_7-8#6">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_7-8#7">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_7-8#8">Ma<lb break="no"/>rios</w>
+        <lb n="8-9" xml:id="BP_1591_II_Dom_6_Pasch_128_8-9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_8-9#1">gimens</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_8-9#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_8-9#3">eſti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_8-9#4">tikras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_8-9#5">Meſſioſchus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_8-9#6">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_8-9#7">Iſchgani<lb break="no"/>toias</w>
+        <lb n="9" xml:id="BP_1591_II_Dom_6_Pasch_128_9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_9#1">ßmoniu</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_9#3">Teip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_9#4">liudij</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_9#6">Petras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_9#7">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_9#8">Tu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_9#9">eſſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_9#10">Sunus</w>
+        <lb n="10-11" xml:id="BP_1591_II_Dom_6_Pasch_128_10-11"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_10-11#1">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_10-11#2">giwoio</w><ref decls="biblical" cRef="b.MAT.16.16"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_10-11#4">Nera</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_10-11#5">kito</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_10-11#6">wardo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_10-11#7">důto</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_10-11#8">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_10-11#9">per</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_10-11#10">kurri</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_10-11#11">iſch<lb break="no"/>ganiti</w>
+        <lb n="11" xml:id="BP_1591_II_Dom_6_Pasch_128_11"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_11#1">eſme</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_11#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_11#3">tiktai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_11#4">per</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_11#5">warda</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_11#6">IEſaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_11#7">Kriſtaus</w><ref decls="biblical" cRef="b.ACT.4.12"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_11#9">Ir</w>
+        <lb n="12-13" xml:id="BP_1591_II_Dom_6_Pasch_128_12-13"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_12-13#1">Schwentas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_12-13#2">Ianas</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_12-13#4">Tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_12-13#5">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_12-13#6">awins</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_12-13#7">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_12-13#8">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_12-13#9">kur<lb break="no"/>ſai</w>
+        <lb n="13" xml:id="BP_1591_II_Dom_6_Pasch_128_13"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_13#1">ſwieto</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_13#2">Griekus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_13#3">neſch</w><ref decls="biblical" cRef="b.JOH.1.29"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_13#5">Schwentas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_13#6">Powilas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_13#7">/</w>
+        <lb n="14" xml:id="BP_1591_II_Dom_6_Pasch_128_14"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_14#1">IEſus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_14#2">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_14#3">ateja</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_14#4">iſchganiti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_14#5">grieſchnůſius</w><ref decls="biblical" cRef="b.1TI.1.15"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_14#7">Ieſus</w>
+        <lb n="15-16" xml:id="BP_1591_II_Dom_6_Pasch_128_15-16"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_15-16#1">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_15-16#2">paſtatitas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_15-16#3">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_15-16#4">paſkirſtas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_15-16#5">mumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_15-16#6">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_15-16#7">Die<lb break="no"/>wo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_15-16#8">/</w>
+        <lb n="16" xml:id="BP_1591_II_Dom_6_Pasch_128_16"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_16#1">iſchmintime</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_16#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_16#3">Teiſibe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_16#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_16#5">Schwentibe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_16#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_16#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_16#8">iſchganimu</w><ref decls="biblical" cRef="b.1CO.1.30"/></quote>
+.
+        <lb n="17" xml:id="BP_1591_II_Dom_6_Pasch_128_17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_17#1">Schita</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_17#2">pamokſla</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_17#3">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_17#4">Kriſtu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_17#5">po</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_17#6">Apaſchtalu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_17#7">ikki</w>
+        <lb n="18-19" xml:id="BP_1591_II_Dom_6_Pasch_128_18-19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_18-19#1">muſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_18-19#2">ſcham</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_18-19#3">cʒieſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_18-19#4">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_18-19#5">ſake</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_18-19#6">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_18-19#7">liudije</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_18-19#8">wiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_18-19#9">tikri</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_18-19#10">Baßni<lb break="no"/>cʒios</w>
+        <lb n="19" xml:id="BP_1591_II_Dom_6_Pasch_128_19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_19#1">tarnai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_19#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_19#3">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_19#4">wiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_19#5">tikri</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_19#6">krikſchcʒonis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_19#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_19#8">paßinne</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_19#9">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_19#10">ir</w>
+        <lb n="20" xml:id="BP_1591_II_Dom_6_Pasch_128_20"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_20#1">dabar</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_20#2">paßiſta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_20#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_20#4">Ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_20#5">wiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_20#6">kalti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_20#7">eſme</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_20#8">paßinoti</w>.
+        <lb n="21-22" xml:id="BP_1591_II_Dom_6_Pasch_128_21-22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_21-22#1">Kaipo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_21-22#2">ſekſis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_21-22#3">Apaſchtalams</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_21-22#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_21-22#5">kitiemus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_21-22#6">krikſch<lb break="no"/>cʒonims</w>
+        <lb n="22" xml:id="BP_1591_II_Dom_6_Pasch_128_22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_22#1">ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_22#2">Sʒemes</w>?
+        <lb n="23-24" xml:id="BP_1591_II_Dom_6_Pasch_128_23-24"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_23-24#1">Schwentam</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_23-24#2">Petrui</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_23-24#3">tikrai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_23-24#4">liudjancʒam</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_23-24#5">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_23-24#6">Kri<lb break="no"/>ſtu</w>
+        <lb n="24" xml:id="BP_1591_II_Dom_6_Pasch_128_24"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_24#1">Mathieip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_24#2">16.</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_24#3">Paguldime</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_24#4">Sunus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_24#5">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_128_24#6">patſai</w>
+        <pb n="129"/>
+        <lb n="1-2" xml:id="BP_1591_II_Dom_6_Pasch_129_1-2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#1">teipo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#2">ſaka</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#4">Tu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#5">eſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#6">Petras</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#8">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#9">ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#10">tos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#11">Olos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#12">aſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_1-2#13">ſubu<lb break="no"/>dawoſiu</w>
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_129_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_2#1">mana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_2#2">Baßnicʒen</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_2#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_2#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_2#5">peklos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_2#6">bramos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_2#7">alba</w>
+        <lb n="3" xml:id="BP_1591_II_Dom_6_Pasch_129_3"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_3#1">wartai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_3#2">ios</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_3#3">negales</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_3#4">iweikti</w><ref decls="biblical" cRef="b.MAT.16.18"/></quote>
+.
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_129_4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_4#1">Iſchghi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_4#2">ſchiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_4#3">ßodʒiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_4#4">Kriſtaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_4#5">galetu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_4#6">praſtas</w>
+        <lb n="5-6" xml:id="BP_1591_II_Dom_6_Pasch_129_5-6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_5-6#1">kokſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_5-6#2">krikſchcʒonis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_5-6#3">teipo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_5-6#4">dumoti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_5-6#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_5-6#6">Tadda</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_5-6#7">Apaſchta<lb break="no"/>lams</w>
+        <lb n="6-7" xml:id="BP_1591_II_Dom_6_Pasch_129_6-7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_6-7#1">Kriſtaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_6-7#2">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_6-7#3">krikſchʒonims</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_6-7#4">ſcheme</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_6-7#5">ſwiete</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_6-7#6">giwe<lb break="no"/>nantiemus</w>
+        <lb n="7" xml:id="BP_1591_II_Dom_6_Pasch_129_7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_7#1">nieko</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_7#2">pikto</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_7#3">negal</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_7#4">priſſitikti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_7#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_7#6">anis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_7#7">newieno</w>
+        <lb n="8-9" xml:id="BP_1591_II_Dom_6_Pasch_129_8-9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_8-9#1">wargo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_8-9#2">neiſchwjs</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_8-9#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_8-9#4">net</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_8-9#5">wiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_8-9#6">daiktai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_8-9#7">iemus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_8-9#8">gerai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_8-9#9">paſſi<lb break="no"/>wes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_8-9#10">/</w>
+        <lb n="9" xml:id="BP_1591_II_Dom_6_Pasch_129_9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_9#1">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_9#2">turres</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_9#3">wiſſoſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_9#4">daiktoſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_9#5">gera</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_9#6">palaima</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_9#8">Ant</w>
+        <lb n="10" xml:id="BP_1591_II_Dom_6_Pasch_129_10"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_10#1">to</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_10#2">atſaka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_10#3">patſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_10#4">Sunus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_10#5">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_10#6">ſchicʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_10#7">bilodams</w>.
+        <lb n="11" xml:id="BP_1591_II_Dom_6_Pasch_129_11"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_11#1">Anis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_11#2">ius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_11#3">iſchmes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_11#4">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_11#5">Surinkimu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_11#6">ir</w>
+        <lb n="12-13" xml:id="BP_1591_II_Dom_6_Pasch_129_12-13"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_12-13#1">Vßmuſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_12-13#2">ius</w><ref decls="biblical" cRef="b.JOH.16.2"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_12-13#4">Tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_12-13#5">eſt</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_12-13#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_12-13#7">Ius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_12-13#8">mana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_12-13#9">Apaſchta<lb break="no"/>lai</w>
+        <lb n="13" xml:id="BP_1591_II_Dom_6_Pasch_129_13"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_13#1">manimi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_13#2">nuſſitikedami</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_13#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_13#4">mane</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_13#5">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_13#6">paßindami</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_13#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_13#8">ape</w>
+        <lb n="14" xml:id="BP_1591_II_Dom_6_Pasch_129_14"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_14#1">mane</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_14#2">liudidami</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_14#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_14#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_14#5">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_14#6">mane</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_14#7">Swieta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_14#8">mokindami</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_14#9">/</w>
+        <lb n="15-16" xml:id="BP_1591_II_Dom_6_Pasch_129_15-16"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#1">netureſit</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#2">pakaiaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#3">nůg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#4">iu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#6">net</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#7">piktas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#8">ßmones</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#9">ius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#10">per<lb break="no"/>ſekdines</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_15-16#11">/</w>
+        <lb n="16-17" xml:id="BP_1591_II_Dom_6_Pasch_129_16-17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_16-17#1">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_16-17#2">Baßnicʒios</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_16-17#3">alba</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_16-17#4">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_16-17#5">Surinkimo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_16-17#6">ßmo<lb break="no"/>niu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_16-17#7">/</w>
+        <lb n="17" xml:id="BP_1591_II_Dom_6_Pasch_129_17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#1">atmes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#3">atſtatis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#5">prawaris</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#8">kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#9">pikta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#10">meſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_17#11">nůg</w>
+        <lb n="18-19" xml:id="BP_1591_II_Dom_6_Pasch_129_18-19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#1">ſweiko</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#2">kuno</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#3">atpiaughima</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#4">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#6">teip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#7">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#8">anis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#9">ius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#10">pra<lb break="no"/>kieike</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_18-19#11">/</w>
+        <lb n="19" xml:id="BP_1591_II_Dom_6_Pasch_129_19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_19#1">nůg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_19#2">ſawes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_19#3">atwaris</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_19#5">Potam</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_19#6">piktaſſis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_19#7">Swiets</w>
+        <lb n="20" xml:id="BP_1591_II_Dom_6_Pasch_129_20"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_20#1">nekurius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_20#2">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_20#3">iuſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_20#4">ſmercʒiop</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_20#5">des</w>
+        <lb n="21-22" xml:id="BP_1591_II_Dom_6_Pasch_129_21-22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_21-22#1">Bei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_21-22#2">ſchitie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_21-22#3">ßodʒei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_21-22#4">Pono</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_21-22#5">Kriſtaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_21-22#6">iſſipilde</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_21-22#7">apaſch<lb break="no"/>talůſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_21-22#8">/</w>
+        <lb n="22-23" xml:id="BP_1591_II_Dom_6_Pasch_129_22-23"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_22-23#1">kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_22-23#2">tatai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_22-23#3">iu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_22-23#4">Hiſtoria</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_22-23#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_22-23#6">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_22-23#7">pertirimai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_22-23#8">krikſch<lb break="no"/>cʒoniu</w>
+        <lb n="23" xml:id="BP_1591_II_Dom_6_Pasch_129_23"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_23#1">iſchroda</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_23#3">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_23#4">Petra</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_23#5">nukrißawoja</w>.
+        <lb n="24" xml:id="BP_1591_II_Dom_6_Pasch_129_24"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_24#1">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_24#2">Powila</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_129_24#3">nukirta</w>.
+        <pb n="130"/>
+        <lb n="1" xml:id="BP_1591_II_Dom_6_Pasch_130_1"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_1#1">A</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_1#2">kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_1#3">tů</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_1#4">cʒieſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_1#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_1#6">Apaſchtalai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_1#7">tureia</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_1#8">kenteti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_1#9">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_1#10">teip</w>
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_130_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_2#1">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_2#2">darbar</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_2#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_2#4">bei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_2#5">ikki</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_2#6">pagineghimo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_2#7">Swieto</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_2#8">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_2#9">krikſchcʒonis</w>
+        <lb n="3" xml:id="BP_1591_II_Dom_6_Pasch_130_3"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_3#1">tures</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_3#2">wargus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_3#3">regeti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_3#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_3#5">ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_3#6">ßemes</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_3#8">Wiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_3#9">kurie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_3#10">nor</w>
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_130_4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_4#1">nobaßnai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_4#2">giwenti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_4#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_4#4">tur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_4#5">perſekdineghima</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_4#6">kenteti</w><ref decls="biblical" cRef="b.2TI.3.12"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_4#8">Mes</w>
+        <lb n="5" xml:id="BP_1591_II_Dom_6_Pasch_130_5"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_5#1">kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_5#2">papiauiamas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_5#3">awis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_5#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_5#5">rakůiami</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_5#6">eſme</w><ref decls="biblical" cRef="b.PSA.43.22"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_5#8">Kurſai</w>
+        <lb n="6" xml:id="BP_1591_II_Dom_6_Pasch_130_6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_6#1">nor</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_6#2">mana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_6#3">Mokintiniu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_6#4">buti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_6#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_6#6">tas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_6#7">teim</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_6#8">Krißu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_6#9">ſawa</w>
+        <lb n="7" xml:id="BP_1591_II_Dom_6_Pasch_130_7"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_7#1">ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_7#2">ſawes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_7#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_7#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_7#5">teſek</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_7#6">mane</w><ref decls="biblical" cRef="b.MAT.16.24"/></quote>
+.
+        <lb n="8-9" xml:id="BP_1591_II_Dom_6_Pasch_130_8-9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_8-9#1">Kodelei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_8-9#2">ſwietas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_8-9#3">Apaſchtalus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_8-9#4">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_8-9#5">kitus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_8-9#6">krikſch<lb break="no"/>cʒonis</w>
+        <lb n="9" xml:id="BP_1591_II_Dom_6_Pasch_130_9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_9#1">peik</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_9#2">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_9#3">derg</w>?
+        <lb n="10" xml:id="BP_1591_II_Dom_6_Pasch_130_10"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_10#1">Atſakau</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_10#3">Kriſtus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_10#4">patſai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_10#5">taipo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_10#6">ſaka</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_10#8">Tatai</w>
+        <lb n="11-12" xml:id="BP_1591_II_Dom_6_Pasch_130_11-12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_11-12#1">ghie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_11-12#2">iumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_11-12#3">todelei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_11-12#4">daris</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_11-12#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_11-12#6">iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_11-12#7">anis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_11-12#8">nepa<lb break="no"/>ßiſt</w>
+        <lb n="12" xml:id="BP_1591_II_Dom_6_Pasch_130_12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_12#1">nei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_12#2">Tiewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_12#3">nei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_12#4">mane</w><ref decls="biblical" cRef="b.JOH.16.3"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_12#6">Ius</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_12#7">nuͤg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_12#8">koßno</w>
+        <lb n="13" xml:id="BP_1591_II_Dom_6_Pasch_130_13"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_13#1">turit</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_13#2">buti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_13#3">papeikti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_13#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_13#5">delei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_13#6">mana</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_13#7">wardo</w><ref decls="biblical" cRef="b.MAT.10.22"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_13#9">Schicʒe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_13#10">girdim</w>
+        <lb n="14" xml:id="BP_1591_II_Dom_6_Pasch_130_14"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_14#1">iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_14#2">krikſchcʒonis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_14#3">peikiami</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_14#4">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_14#5">nůg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_14#6">piktuiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_14#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_14#8">ne</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_14#9">kakiu</w>
+        <lb n="15" xml:id="BP_1591_II_Dom_6_Pasch_130_15"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#1">piktu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#2">darbu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#3">delei</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#5">Ne</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#7">bet</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#8">delei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#9">wardo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#10">Kriſtaus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#11">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_15#12">tatai</w>
+        <lb n="16-17" xml:id="BP_1591_II_Dom_6_Pasch_130_16-17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_16-17#1">eſt</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_16-17#2">delei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_16-17#3">Wieros</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_16-17#4">ing</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_16-17#5">Pona</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_16-17#6">Kriſtu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_16-17#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_16-17#8">Neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_16-17#9">Swiets</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_16-17#10">Kri<lb break="no"/>ſtaus</w>
+        <lb n="17" xml:id="BP_1591_II_Dom_6_Pasch_130_17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_17#1">nepaßiſta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_17#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_17#3">netik</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_17#4">ghi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_17#5">ſanti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_17#6">tikru</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_17#7">Diewu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_17#8">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_17#9">tikru</w>
+        <lb n="18" xml:id="BP_1591_II_Dom_6_Pasch_130_18"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_18#1">ßmogumi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_18#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_18#3">netik</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_18#4">iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_18#5">mumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_18#6">io</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_18#7">delei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_18#8">ira</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_18#9">atleidʒami</w>
+        <lb n="19" xml:id="BP_1591_II_Dom_6_Pasch_130_19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_19#1">griekai</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_19#3">Neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_19#4">wiera</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_19#5">krikſchcʒoniſchka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_19#6">neſutink</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_19#7">ſu</w>
+        <lb n="20-21" xml:id="BP_1591_II_Dom_6_Pasch_130_20-21"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_20-21#1">protu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_20-21#2">ßmogiſchku</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_20-21#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_20-21#4">todel</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_20-21#5">ſwiets</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_20-21#6">nekencʒ</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_20-21#7">wieros</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_20-21#8">krikſch+||cʒoniſchkos</w>.
+        <lb n="21-22" xml:id="BP_1591_II_Dom_6_Pasch_130_21-22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_21-22#1">Sʒmogus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_21-22#2">iſch</w>        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_21-22#3">prigimimo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_21-22#4">nieko</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_21-22#5">ne</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_21-22#6">iſch<lb break="no"/>mana</w>
+        <lb n="22" xml:id="BP_1591_II_Dom_6_Pasch_130_22"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_22#1">ape</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_22#2">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_22#3">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_22#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_22#5">nei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_22#6">gal</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_22#7">ta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_22#8">paßinoti</w><ref decls="biblical" cRef="b.1CO.2.14"/></quote>
+.
+        <lb n="23-24" xml:id="BP_1591_II_Dom_6_Pasch_130_23-24"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_23-24#1">Palinkſminoghimas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_23-24#2">Apaſchtalu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_23-24#3">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_23-24#4">kittu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_23-24#5">krikſch<lb break="no"/>cʒoniu</w>
+        <lb n="24" xml:id="BP_1591_II_Dom_6_Pasch_130_24"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_24#1">wargſtancʒiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_24#2">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_24#3">ſchitas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_130_24#4">ira</w>.
+        <pb n="131"/>
+        <lb n="1" xml:id="BP_1591_II_Dom_6_Pasch_131_1"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_1#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_1#2">Pirmo</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_1#4">Iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_1#5">ßinna</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_1#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_1#7">kaip</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_1#8">be</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_1#9">Diewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_1#10">wales</w>
+        <lb n="2" xml:id="BP_1591_II_Dom_6_Pasch_131_2"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_2#1">iemus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_2#2">nieka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_2#3">negal</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_2#4">nuſſidůti</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_2#6">Wiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_2#7">plaukai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_2#8">galwos</w>
+        <lb n="3" xml:id="BP_1591_II_Dom_6_Pasch_131_3"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_3#1">iuſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_3#2">paſkaititi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_3#3">ira</w><ref decls="biblical" cRef="b.MAT.10.30"/></quote>
+.
+        <lb n="4" xml:id="BP_1591_II_Dom_6_Pasch_131_4"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_4#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_4#2">Antro</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_4#4">Iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_4#5">wiſſi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_4#6">wargai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_4#7">iemus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_4#8">ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_4#9">gero</w>
+        <lb n="5-6" xml:id="BP_1591_II_Dom_6_Pasch_131_5-6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_5-6#1">iſcheit</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_5-6#3">Smutka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_5-6#4">iuſu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_5-6#5">pawirs</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_5-6#6">dʒiaukſmu</w><ref decls="biblical" cRef="b.JOH.16.20"/></quote>
+.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_5-6#8">Mote<lb break="no"/>riſchke</w>
+        <lb n="6" xml:id="BP_1591_II_Dom_6_Pasch_131_6"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_6#1">gimdidama</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_6#2">tur</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_6#3">ſmutka</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_6#4">etc</w><ref decls="biblical" cRef="b.JOH.16.21"/></quote>
+.
+        <lb n="7-8" xml:id="BP_1591_II_Dom_6_Pasch_131_7-8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_7-8#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_7-8#2">Trecʒio</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_7-8#4">Swietas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_7-8#5">tiktai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_7-8#6">kuna</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_7-8#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_7-8#8">bei</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_7-8#9">lobi</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_7-8#10">ßmo<lb break="no"/>gaus</w>
+        <lb n="8" xml:id="BP_1591_II_Dom_6_Pasch_131_8"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_8#1">gal</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_8#2">mucʒiti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_8#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_8#4">warginti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_8#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_8#6">gadinti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_8#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_8#8">A</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_8#9">duſches</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_8#10">negal</w>
+        <lb n="9" xml:id="BP_1591_II_Dom_6_Pasch_131_9"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_9#1">nußawinti</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_9#3">Neſſibjokites</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_9#4">tu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_9#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_9#6">kurie</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_9#7">kuna</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_9#8">nußawin</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_9#9">/</w>
+        <lb n="10" xml:id="BP_1591_II_Dom_6_Pasch_131_10"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_10#1">a</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_10#2">duſches</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_10#3">negal</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_10#4">nußawinti</w><ref decls="biblical" cRef="b.MAT.10.28"/></quote>
+.
+        <lb n="11-12" xml:id="BP_1591_II_Dom_6_Pasch_131_11-12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_11-12#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_11-12#2">Ketwirto</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_11-12#4">Iog</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_11-12#5">Schwenta</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_11-12#6">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_11-12#7">krikſch<lb break="no"/>cʒonis</w>
+        <lb n="12" xml:id="BP_1591_II_Dom_6_Pasch_131_12"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_12#1">warkſtancʒus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_12#2">nenor</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_12#3">praſtoti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_12#4">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_12#5">net</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_12#6">priſtoti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_12#7">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_12#8">anus</w>
+        <lb n="13" xml:id="BP_1591_II_Dom_6_Pasch_131_13"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_13#1">palinkſminti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_13#2">ir</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_13#3">ſtiprinti</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_13#5">Kada</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_13#6">ateis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_13#7">palinkſmintoie</w>
+        <lb n="14" xml:id="BP_1591_II_Dom_6_Pasch_131_14"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_14#1">kure</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_14#2">aſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_14#3">iumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_14#4">atſiuſiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_14#5">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_14#6">nůg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_14#7">Tiewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_14#8">Dwaſe</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_14#9">tieſos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_14#10">/</w>
+        <lb n="15" xml:id="BP_1591_II_Dom_6_Pasch_131_15"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_15#1">kuri</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_15#2">nůg</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_15#3">Tiewo</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_15#4">iſcheit</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_15#5">etc</w><ref decls="biblical" cRef="b.JOH.15.26"/></quote>
+.
+        <lb n="16" xml:id="BP_1591_II_Dom_6_Pasch_131_16"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_16#1">Ant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_16#2">Penkto</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_16#4">Krikſchcʒonis</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_16#5">aname</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_16#6">ſwiete</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_16#7">bus</w>
+        <lb n="17" xml:id="BP_1591_II_Dom_6_Pasch_131_17"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_17#1">amßinai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_17#2">iſchganiti</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_17#4">Kas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_17#5">iſchkentes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_17#6">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_17#7">bus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_17#8">amßinai</w>
+        <lb n="18" xml:id="BP_1591_II_Dom_6_Pasch_131_18"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_18#1">iſchganitas</w><ref decls="biblical" cRef="b.MAT.24.13"/></quote>
+.
+        <lb n="19" xml:id="BP_1591_II_Dom_6_Pasch_131_19"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_19#1">Schittu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_19#2">dweiu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_19#3">pamokſlu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_19#4">iſch</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_19#5">ſchos</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_19#6">Euangelios</w>
+        <lb n="20" xml:id="BP_1591_II_Dom_6_Pasch_131_20"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_20#1">gerai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_20#2">dabokimes</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_20#3">/</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_20#4">neſa</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_20#5">tu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_20#6">ßinnoti</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_20#7">mumus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_20#8">wiſſiemus</w>
+        <lb n="21" xml:id="BP_1591_II_Dom_6_Pasch_131_21"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_21#1">labai</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_21#2">priwalu</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_21#3">ira</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_21#5">Diewas</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_21#6">te</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_21#7">priſtoj</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_21#8">mus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_21#9">wiſſus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_21#10">/</w>
+        <lb n="22-23" xml:id="BP_1591_II_Dom_6_Pasch_131_22-23"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_22-23#1">Idant</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_22-23#2">wargus</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_22-23#3">ſcho</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_22-23#4">ſwieto</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_22-23#5">ſtipra</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_22-23#6">wiera</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_22-23#7">iſch<lb break="no"/>kentedami</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_22-23#8">/</w>
+        <lb n="23" xml:id="BP_1591_II_Dom_6_Pasch_131_23"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_23#1">aname</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_23#2">Swiete</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_23#3">apturetumbim</w>
+        <lb n="24" xml:id="BP_1591_II_Dom_6_Pasch_131_24"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_24#1">amßina</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_24#2">pakaghinga</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_24#3">giwenima</w>
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_24#4">ir</w>
+        <lb n="25" xml:id="BP_1591_II_Dom_6_Pasch_131_25"/>
+
+
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_25#1">iſchganima</w>.
+        <w xml:id="BP_1591_II_Dom_6_Pasch_131_25#3">Amen</w>.
+      </div>
+    </body>
+  </text>
+</TEI>

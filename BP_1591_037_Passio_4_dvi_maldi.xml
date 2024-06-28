@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bretke Postil</title>
+      </titleStmt>
+      <publicationStmt>
+      </publicationStmt>
+      <sourceDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="edition" xml:id="BP_1591">
+    <body>
+      <div type="sermon" xml:id="BP_1591_I_Passio_4_dvi_maldi">
+        <pb n="430"/>
+        <lb n="4" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_4"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_4#1">Pirma</w>.
+        <lb n="5" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_5"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_5#1">Kriſtus</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_5#2">iſchronitas</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_5#3">eſt</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_5#4">delei</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_5#5">piktenibiu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_5#6">muſu</w>.
+        <lb n="6" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_6"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_6#1">Ir</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_6#2">ſumuſchtas</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_6#3">delei</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_6#4">grieku</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_6#5">muſu</w><ref decls="biblical" cRef="b.ISA.53.5"/></quote>
+.
+        <lb n="7" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_7"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_7#1">SVſſimilſtanſis</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_7#2">/</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_7#3">amßinaſſis</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_7#4">Diewe</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_7#5">/</w>
+        <lb n="8" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_8"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_8#1">kurſai</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_8#2">tu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_8#3">ſawa</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_8#4">Wienatijo</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_8#5">Sunaus</w>
+        <lb n="9-10" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_9-10"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_9-10#1">necʒedijei</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_9-10#2">/</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_9-10#3">Bet</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_9-10#4">ghi</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_9-10#5">uß</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_9-10#6">mus</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_9-10#7">wiſſus</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_9-10#8">nuda<lb break="no"/>wei</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_9-10#9">/</w>
+        <lb n="10-11" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_10-11#1">idant</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_10-11#2">ghis</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_10-11#3">muſu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_10-11#4">Griekus</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_10-11#5">ant</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_10-11#6">kri<lb break="no"/>ßaus</w>
+        <lb n="11" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_11"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_11#1">neſchotu</w>:
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_11#3">Dodi</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_11#4">mumus</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_11#5">/</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_11#6">idant</w>
+        <lb n="12" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_12"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_12#1">muſu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_12#2">ſchirdis</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_12#3">tokioij</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_12#4">Wieroij</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_12#5">niekadai</w>
+        <lb n="13-14" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_13-14#1">neiſſiganſtu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_13-14#2">/</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_13-14#3">nei</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_13-14#4">nuſſimintu</w>.
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_13-14#6">Per</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_13-14#7">tan<lb break="no"/>iau</w>
+        <lb n="14" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_14"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_14#1">tawa</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_14#2">Sunu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_14#3">IEſu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_14#4">Kriſtu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_14#5">muſu</w>
+        <lb n="15" xml:id="BP_1591_I_Passio_4_dvi_maldi_430_15"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_15#1">Pona</w>.
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_430_15#3">Amen</w>.
+        <pb n="431"/>
+        <lb n="1" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_1"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_1#1">Antra</w>.
+        <lb n="2" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_2"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_2#1">WIſſagalinſis</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_2#2">Tiewe</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_2#3">/</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_2#4">Amßinaſis</w>
+        <lb n="3" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_3"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_3#1">Diewe</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_3#2">/</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_3#3">kurſai</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_3#4">dawei</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_3#5">tawa</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_3#6">Sunu</w>
+        <lb n="4" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_4"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_4#1">IEſu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_4#2">Kriſtu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_4#3">uß</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_4#4">mus</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_4#5">Krißaus</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_4#6">Muka</w>
+        <lb n="5-6" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_5-6"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_5-6#1">kenteti</w>.
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_5-6#3">Idant</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_5-6#4">nog</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_5-6#5">muſu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_5-6#6">ſila</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_5-6#7">Neprie<lb break="no"/>teliaus</w>
+        <lb n="6" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_6"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_6#1">atwaritumbei</w>.
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_6#3">Gelbek</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_6#4">idant</w>
+        <lb n="7-8" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_7-8"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_7-8#1">tatai</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_7-8#2">teipo</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_7-8#3">atmintumbim</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_7-8#4">/</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_7-8#5">ir</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_7-8#6">io</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_7-8#7">kenteghi<lb break="no"/>mui</w>
+        <lb n="8-9" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_8-9"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_8-9#1">diekawotumbim</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_8-9#2">/</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_8-9#3">Ieib</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_8-9#4">mes</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_8-9#5">per</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_8-9#6">ta<lb break="no"/>tai</w>
+        <lb n="9" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_9"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_9#1">Grieku</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_9#2">atleidimma</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_9#3">gautumbim</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_9#4">/</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_9#5">ir</w>
+        <lb n="10-11" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_10-11#1">nog</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_10-11#2">amßinos</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_10-11#3">Smerties</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_10-11#4">Iſchgelbeghi<lb break="no"/>ma</w>
+        <lb n="11" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_11"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_11#1">apturetumbim</w>.
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_11#3">Per</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_11#4">taniau</w>
+        <lb n="12-13" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_12-13"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_12-13#1">tawa</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_12-13#2">Sunu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_12-13#3">IEſu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_12-13#4">Kriſtu</w>
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_12-13#5">mu<lb break="no"/>ſu</w>
+        <lb n="13" xml:id="BP_1591_I_Passio_4_dvi_maldi_431_13"/>
+
+
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_13#1">Pona</w>.
+        <w xml:id="BP_1591_I_Passio_4_dvi_maldi_431_13#3">Amen</w>.
+      </div>
+    </body>
+  </text>
+</TEI>

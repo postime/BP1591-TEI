@@ -1,0 +1,2934 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bretke Postil</title>
+      </titleStmt>
+      <publicationStmt>
+      </publicationStmt>
+      <sourceDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="edition" xml:id="BP_1591">
+    <body>
+      <div type="sermon" xml:id="BP_1591_I_Dom_Sexag">
+        <pb n="239"/>
+        <lb n="1-2" xml:id="BP_1591_I_Dom_Sexag_239_1-2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_239_1-2#1">NEDELIOIE</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_1-2#2">KVRI</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_1-2#3">VVADI<lb break="no"/>nama</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_Sexag_239_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_239_2#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_2#2">Sexageſima</w>,
+        <w xml:id="BP_1591_I_Dom_Sexag_239_2#4">Euangelia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_2#5">Luc.</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_2#6">8.</w>
+        <lb n="3" xml:id="BP_1591_I_Dom_Sexag_239_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_239_3#1">Paguldime</w>.
+        <lb n="4" xml:id="BP_1591_I_Dom_Sexag_239_4"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_239_4#1">KAip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_4#2">daug</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_4#3">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_4#4">ſuſſieia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_4#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_4#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_4#7">iſch</w>
+        <lb n="5-6" xml:id="BP_1591_I_Dom_Sexag_239_5-6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_239_5-6#1">mieſtu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_5-6#2">ſteigeſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_5-6#3">iop</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_5-6#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_5-6#5">biloia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_5-6#6">Ieſus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_5-6#7">per<lb break="no"/>priliginima</w>
+        <lb n="6-7" xml:id="BP_1591_I_Dom_Sexag_239_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_239_6-7#1">Iſcheia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_6-7#2">ſæiæias</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_6-7#3">Sætu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_6-7#4">ſe<lb break="no"/>kla</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_Sexag_239_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_239_7#1">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_7#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_7#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_7#4">ſeiant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_7#5">iam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_7#6">nekuri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_7#7">pole</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_7#8">pas</w>
+        <lb n="8-9" xml:id="BP_1591_I_Dom_Sexag_239_8-9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_239_8-9#1">keli</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_8-9#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_8-9#3">tapa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_8-9#4">paminta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_8-9#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_8-9#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_8-9#7">paukſchtei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_8-9#8">dan<lb break="no"/>gaus</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_Sexag_239_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_239_9#1">ta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_239_9#2">ſuleſe</w>.
+        <pb n="240"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_Sexag_240_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_1#1">Ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_1#2">nekuri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_1#3">pole</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_1#4">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_1#5">olos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_1#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_1#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_1#8">ußdiguſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_1#9">/</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_Sexag_240_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_2#1">padʒuwa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_2#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_2#3">todelei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_2#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_2#5">iog</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_2#6">netureia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_2#7">dregnumo</w>.
+        <lb n="3" xml:id="BP_1591_I_Dom_Sexag_240_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_3#1">Ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_3#2">nekuri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_3#3">pole</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_3#4">tarpu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_3#5">erſchkecʒiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_3#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_3#7">ir</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_Sexag_240_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_4#1">erſchkecʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_4#2">drauge</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_4#3">ußdige</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_4#4">ana</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_4#5">nuſmelke</w>.
+        <lb n="5" xml:id="BP_1591_I_Dom_Sexag_240_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_5#1">Ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_5#2">nekuri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_5#3">pole</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_5#4">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_5#5">geros</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_5#6">ßemes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_5#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_5#8">ir</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_Sexag_240_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_6#1">oſchdiguſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_6#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_6#3">padare</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_6#4">waiſiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_6#5">ſchimteropa</w>.
+        <lb n="7" xml:id="BP_1591_I_Dom_Sexag_240_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_7#1">Tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_7#2">ghis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_7#3">ſakidams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_7#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_7#5">ſchauke</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_7#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_7#7">kas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_7#8">tur</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_Sexag_240_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_8#1">auſis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_8#2">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_8#3">klauſimo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_8#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_8#5">tas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_8#6">teklauſa</w>.
+        <lb n="9-10" xml:id="BP_1591_I_Dom_Sexag_240_9-10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_9-10#1">O</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_9-10#2">Klauſe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_9-10#3">ghi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_9-10#4">Paſiuntinei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_9-10#5">biloda<lb break="no"/>mi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_9-10#6">/</w>
+        <lb n="10" xml:id="BP_1591_I_Dom_Sexag_240_10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_10#1">kokſai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_10#2">taſſai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_10#3">priliginimas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_10#4">butu</w>?
+        <w xml:id="BP_1591_I_Dom_Sexag_240_10#6">Ghis</w>
+        <lb n="11-12" xml:id="BP_1591_I_Dom_Sexag_240_11-12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_11-12#1">biloia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_11-12#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_11-12#3">Iumus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_11-12#4">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_11-12#5">dota</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_11-12#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_11-12#7">ßinoti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_11-12#8">paſlapti<lb break="no"/>nes</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_Sexag_240_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_12#1">karaliſtes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_12#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_12#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_12#4">Akitiemus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_12#5">per</w>
+        <lb n="13" xml:id="BP_1591_I_Dom_Sexag_240_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_13#1">priliginimus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_13#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_13#3">idant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_13#4">ghie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_13#5">neregetu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_13#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_13#7">kacʒei</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_Sexag_240_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_14#1">reg</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_14#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_14#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_14#4">neiſchmanitu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_14#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_14#6">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_14#7">gird</w>.
+        <lb n="15" xml:id="BP_1591_I_Dom_Sexag_240_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_15#1">Tas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_15#2">tada</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_15#3">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_15#4">priliginimas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_15#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_15#6">Sekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_15#7">ira</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_Sexag_240_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_16#1">ßodis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_16#2">Diewo</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_240_16#4">Atie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_16#5">kurie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_16#6">pas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_16#7">kelj</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_16#8">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_16#9">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_16#10">tie</w>
+        <lb n="17-241" xml:id="BP_1591_I_Dom_Sexag_240_17-241"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_240_17-241#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_17-241#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_17-241#3">kurie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_17-241#4">ta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_17-241#5">klauſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_17-241#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_17-241#7">potam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_17-241#8">ateit</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_17-241#9">Weli<lb break="no"/>nas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_240_17-241#10">/</w>
+        <pb n="241"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_Sexag_241_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_1#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_1#2">atim</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_1#3">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_1#4">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_1#5">ſchirdʒu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_1#6">iu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_1#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_1#8">idant</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_Sexag_241_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_2#1">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_2#2">tiketu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_2#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_2#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_2#5">nebutu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_2#6">iſchganiti</w>.
+        <lb n="3" xml:id="BP_1591_I_Dom_Sexag_241_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_3#1">Potam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_3#2">kuri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_3#3">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_3#4">olos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_3#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_3#6">tie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_3#7">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_3#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_3#9">kurie</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_Sexag_241_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_4#1">kada</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_4#2">iſchgirſt</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_4#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_4#4">prijm</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_4#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_4#6">ſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_4#7">linſkmibe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_4#8">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_4#9">/</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_Sexag_241_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_5#1">atie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_5#2">netur</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_5#3">ſchaknies</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_5#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_5#5">ik</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_5#6">cʒeſo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_5#7">tik</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_5#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_5#9">a</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_5#10">cʒeſu</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_Sexag_241_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_6#1">pagundimo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_6#2">atpola</w>.
+        <lb n="7" xml:id="BP_1591_I_Dom_Sexag_241_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_7#1">A</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_7#2">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_7#3">kas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_7#4">tarpu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_7#5">erſchkecʒu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_7#6">pole</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_7#7">/</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_Sexag_241_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#1">tie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#2">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#4">kurie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#5">klauſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#7">bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#8">nog</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#9">rupeſcʒiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#10">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_8#11">ir</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_Sexag_241_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_9#1">turtu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_9#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_9#3">raſkaſchu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_9#4">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_9#5">ßiwato</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_9#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_9#7">nuſmelk</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_9#8">/</w>
+        <lb n="10" xml:id="BP_1591_I_Dom_Sexag_241_10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_10#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_10#2">neneſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_10#3">newieno</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_10#4">waiſiaus</w>.
+        <lb n="11" xml:id="BP_1591_I_Dom_Sexag_241_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_11#1">A</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_11#2">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_11#3">kas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_11#4">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_11#5">geras</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_11#6">ßemes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_11#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_11#8">tie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_11#9">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_11#10">/</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_Sexag_241_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_12#1">kurie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_12#2">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_12#3">klauſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_12#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_12#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_12#6">palaika</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_12#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_12#8">graße</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_12#9">ir</w>
+        <lb n="13-14" xml:id="BP_1591_I_Dom_Sexag_241_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_241_13-14#1">gera</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_13-14#2">ſchirdʒe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_13-14#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_13-14#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_13-14#5">waiſiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_13-14#6">atneſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_241_13-14#7">kan<lb break="no"/>trnme</w>.<ref decls="biblical" cRef="b.LUK.8.4-15"/></quote>
+
+        <lb n="14" xml:id="BP_1591_I_Dom_Sexag_241_14"/>
+
+
+        <pb n="242"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_Sexag_242_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_1#1">Iſchguldimas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_1#2">ſchos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_1#3">Euangelios</w>.
+        <lb n="2-3" xml:id="BP_1591_I_Dom_Sexag_242_2-3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_2-3#1">VSʒu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_2-3#2">nedelios</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_2-3#3">girdeiom</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_2-3#4">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_2-3#5">kaipo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_2-3#6">ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_2-3#7">mu<lb break="no"/>ſu</w>
+        <lb n="3" xml:id="BP_1591_I_Dom_Sexag_242_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_3#1">Ieſus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_3#2">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_3#3">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_3#4">priliginima</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_3#5">gjrens</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_Sexag_242_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_4#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_4#2">Geribe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_4#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_4#4">malone</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_4#5">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_4#6">Dangaus</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_Sexag_242_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_5#1">Tiewo</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_242_5#3">Neſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_5#4">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_5#5">Vkiniks</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_5#6">geras</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_5#7">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_5#8">rito</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_Sexag_242_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_6#1">ikki</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_6#2">paties</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_6#3">wakaro</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_6#4">darbiniku</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_6#5">weiſd</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_6#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_6#7">ſamda</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_6#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_6#9">kurie</w>
+        <lb n="7-8" xml:id="BP_1591_I_Dom_Sexag_242_7-8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#1">Winicʒoie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#2">io</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#3">dirptu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#6">wakara</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#7">iemus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#8">ußu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#9">darba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#10">uß<lb break="no"/>moka</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_7-8#11">/</w>
+        <lb n="8-9" xml:id="BP_1591_I_Dom_Sexag_242_8-9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_8-9#1">wiſſiems</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_8-9#2">ligei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_8-9#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_8-9#4">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_8-9#5">neligei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_8-9#6">dirbuſiemus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_8-9#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_8-9#8">tik<lb break="no"/>tai</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_Sexag_242_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_9#1">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_9#2">geribes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_9#3">ſawa</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_242_9#5">Teipo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_9#6">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_9#7">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_9#8">pradʒio</w>
+        <lb n="10" xml:id="BP_1591_I_Dom_Sexag_242_10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_10#1">ſwieto</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_10#2">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_10#3">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_10#4">gimmines</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_10#5">ſaw</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_10#6">rinka</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_10#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_10#8">dabar</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_10#9">renk</w>
+        <lb n="11-12" xml:id="BP_1591_I_Dom_Sexag_242_11-12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_11-12#1">draugiſte</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_11-12#2">ſchwentuiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_11-12#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_11-12#4">kurei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_11-12#5">ghis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_11-12#6">bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_11-12#7">ſcheme</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_11-12#8">ſwiete</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_11-12#9">ge<lb break="no"/>ra</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_Sexag_242_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_12#1">důſt</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_12#2">alga</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_12#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_12#4">aname</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_12#5">ſwiete</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_12#6">amßina</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_12#7">iſchganima</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_12#8">/</w>
+        <lb n="13" xml:id="BP_1591_I_Dom_Sexag_242_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_13#1">Bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_13#2">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_13#3">iu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_13#4">darbu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_13#5">delei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_13#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_13#7">net</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_13#8">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_13#9">malones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_13#10">ſawa</w><ref decls="biblical" cRef="b.MAT.20.1-16"/></quote>
+.
+        <lb n="14" xml:id="BP_1591_I_Dom_Sexag_242_14"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_14#1">Schoie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_14#2">Euangelioie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_14#3">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_14#4">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_14#5">teipaieg</w>
+        <lb n="15-16" xml:id="BP_1591_I_Dom_Sexag_242_15-16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_15-16#1">kalba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_15-16#2">ape</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_15-16#3">ta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_15-16#4">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_15-16#5">dangaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_15-16#6">Tiewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_15-16#7">geribe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_15-16#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_15-16#9">priligin<lb break="no"/>dams</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_Sexag_242_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_16#1">ghe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_16#2">Seieiui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_16#3">ſeklos</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_242_16#5">Neſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_16#6">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_16#7">laukinjks</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_16#8">geras</w>
+        <lb n="17-18" xml:id="BP_1591_I_Dom_Sexag_242_17-18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_17-18#1">dirwa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_17-18#2">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_17-18#3">apſeij</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_17-18#4">geriauſe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_17-18#5">ſekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_17-18#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_17-18#7">idant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_17-18#8">ta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_17-18#9">daug</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_17-18#10">wai<lb break="no"/>ſiaus</w>
+        <lb n="18" xml:id="BP_1591_I_Dom_Sexag_242_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_18#1">neſchtu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_18#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_18#3">Schitaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_18#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_18#5">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_18#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_18#7">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_18#8">brangu</w>
+        <lb n="19-20" xml:id="BP_1591_I_Dom_Sexag_242_19-20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#1">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#3">důſt</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#4">po</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#5">wiſſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#6">ſwieta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#7">ſakjti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#9">idant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#10">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#11">to</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#12">pri<lb break="no"/>moke</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_19-20#13">/</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_Sexag_242_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_20#1">daug</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_20#2">gera</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_20#3">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_20#4">wieros</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_20#5">daritu</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_242_20#7">A</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_20#8">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_20#9">antai</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_Sexag_242_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#1">ſekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#2">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#3">wiſſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#4">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#5">geros</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#6">dirwos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#7">půl</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#9">nei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#10">wiſſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_21#11">ſekla</w>
+        <lb n="22-23" xml:id="BP_1591_I_Dom_Sexag_242_22-23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_22-23#1">gal</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_22-23#2">daug</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_22-23#3">waiſiaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_22-23#4">atneſchti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_22-23#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_22-23#6">Schiteipo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_22-23#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_22-23#8">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_22-23#9">ßo<lb break="no"/>dis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_22-23#10">/</w>
+        <lb n="23-24" xml:id="BP_1591_I_Dom_Sexag_242_23-24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_23-24#1">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_23-24#2">wiſſur</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_23-24#3">ſakoms</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_23-24#4">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_23-24#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_23-24#6">tacʒiau</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_23-24#7">newiſſur</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_23-24#8">wai<lb break="no"/>ſiu</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_Sexag_242_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_24#1">neſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_24#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_24#3">net</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_24#4">wos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_24#5">newos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_24#6">ketwirta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_24#7">tiktai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_24#8">dalis</w>.
+        <lb n="25" xml:id="BP_1591_I_Dom_Sexag_242_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_25#1">Ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_25#2">Kodelei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_25#3">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_25#4">ta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_25#5">pamokſla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_25#6">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_25#7">kalbeiens</w>
+        <lb n="26-243" xml:id="BP_1591_I_Dom_Sexag_242_26-243"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_242_26-243#1">mokitinems</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_26-243#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_26-243#3">Apaſchtalams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_26-243#4">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_26-243#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_26-243#6">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_26-243#7">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_242_26-243#8">pra<lb break="no"/>dʒios</w>
+        <pb n="243"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_Sexag_243_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_1#1">ſchos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_1#2">Euangelios</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_1#3">regim</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_243_1#5">Daug</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_1#6">ſaka</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_1#7">ßmoniu</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_Sexag_243_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#1">ſuſſieia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#4">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#5">mieſtu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#6">iopi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#7">ſteigeſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#9">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#10">eſt</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#11">tekini</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_2#12">iopi</w>
+        <lb n="3-4" xml:id="BP_1591_I_Dom_Sexag_243_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_3-4#1">attekeia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_3-4#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_3-4#3">ßodʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_3-4#4">io</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_3-4#5">klauſitu</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_243_3-4#7">A</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_3-4#8">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_3-4#9">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_3-4#10">ßinno<lb break="no"/>dams</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_Sexag_243_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_4#1">iog</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_4#2">newiſſump</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_4#3">lips</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_4#4">io</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_4#5">ßodis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_4#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_4#7">net</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_4#8">wos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_4#9">ketwirta</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_Sexag_243_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_5#1">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_5#2">ta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_5#3">waiſingai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_5#4">klauſiſenti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_5#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_5#6">Tadda</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_5#7">ghis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_5#8">toktai</w>
+        <lb n="6-7" xml:id="BP_1591_I_Dom_Sexag_243_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_6-7#1">Apaſchtalams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_6-7#2">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_6-7#3">priliginima</w><ref decls="biblical" cRef="b.LUK.8.4-15"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_6-7#4">paſaka</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_6-7#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_6-7#6">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_6-7#7">kada</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_6-7#8">tar<lb break="no"/>tu</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_Sexag_243_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_7#1">Teipo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_7#2">ik</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_7#3">galo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_7#4">ſwieto</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_7#5">bus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_7#6">ßodʒiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_7#7">manam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_7#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_7#9">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_7#10">wiſſi</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_Sexag_243_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#1">kurie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#2">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#3">klauſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#4">ßodʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#6">bus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#7">geri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#9">iſchganiti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#10">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_8#11">net</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_Sexag_243_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_9#1">tiktai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_9#2">maßauſe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_9#3">dalis</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_243_9#5">Omes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_9#6">ſchu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_9#7">kartu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_9#8">mokinkimes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_9#9">/</w>
+        <lb n="10-11" xml:id="BP_1591_I_Dom_Sexag_243_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_10-11#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_10-11#2">1.</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_10-11#3">Kodelei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_10-11#4">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_10-11#5">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_10-11#6">tankei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_10-11#7">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_10-11#8">priligini<lb break="no"/>mus</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_Sexag_243_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_11#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_11#2">kalbeiens</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_11#3">Apaſchtalams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_11#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_11#5">kitiems</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_11#6">ßidams</w>.
+        <lb n="12-13" xml:id="BP_1591_I_Dom_Sexag_243_12-13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_12-13#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_12-13#2">2.</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_12-13#3">Turrim</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_12-13#4">iſchmokti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_12-13#5">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_12-13#6">iſſimanaſchis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_12-13#7">pri<lb break="no"/>liginimas</w>.
+        <lb n="13" xml:id="BP_1591_I_Dom_Sexag_243_13"/>
+
+
+        <lb n="14-15" xml:id="BP_1591_I_Dom_Sexag_243_14-15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_14-15#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_14-15#2">3.</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_14-15#3">Alba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_14-15#4">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_14-15#5">galo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_14-15#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_14-15#7">ape</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_14-15#8">ketwiropus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_14-15#9">girde<lb break="no"/>toius</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_Sexag_243_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_15#1">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_15#2">ßodʒio</w>.
+        <lb n="16" xml:id="BP_1591_I_Dom_Sexag_243_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_16#1">Ape</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_16#2">Pirma</w>.
+        <lb n="17" xml:id="BP_1591_I_Dom_Sexag_243_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_17#1">Kodelei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_17#2">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_17#3">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_17#4">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_17#5">priliginimus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_17#6">kalbeia</w>?
+        <lb n="18" xml:id="BP_1591_I_Dom_Sexag_243_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_18#1">POnas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_18#2">muſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_18#3">IEſus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_18#4">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_18#5">koſani</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_18#6">ſakidams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_18#7">/</w>
+        <lb n="19-20" xml:id="BP_1591_I_Dom_Sexag_243_19-20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_19-20#1">kartais</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_19-20#2">iſchkeis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_19-20#3">ßodeis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_19-20#4">moke</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_19-20#5">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_19-20#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_19-20#7">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_19-20#8">ta<lb break="no"/>tati</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_Sexag_243_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_20#1">regima</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_20#2">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_20#3">Euangelioie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_20#4">ſchwento</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_20#5">Iano</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_20#6">/</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_Sexag_243_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_21#1">kartais</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_21#2">neiſchkeis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_21#3">ßodeis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_21#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_21#5">bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_21#6">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_21#7">priliginimus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_21#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_21#9">kaip</w>
+        <lb n="22-23" xml:id="BP_1591_I_Dom_Sexag_243_22-23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_22-23#1">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_22-23#2">teipaieg</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_22-23#3">regim</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_22-23#4">Euangelioie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_22-23#5">Schwento</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_22-23#6">Ma<lb break="no"/>thieiaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_22-23#7">/</w>
+        <lb n="23-24" xml:id="BP_1591_I_Dom_Sexag_243_23-24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_23-24#1">Markaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_23-24#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_23-24#3">Lukoſchaus</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_243_23-24#5">Schicʒe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_23-24#6">galle<lb break="no"/>tu</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_Sexag_243_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_24#1">kas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_24#2">klauſti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_24#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_24#4">Kodelei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_24#5">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_24#6">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_24#7">newienu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_24#8">budu</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_Sexag_243_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_243_25#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_243_25#2">mokens</w>?
+        <w xml:id="BP_1591_I_Dom_Sexag_243_25#4">Atſakau</w>.
+        <pb n="244"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_Sexag_244_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_1#1">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_1#2">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_1#3">kalbedams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_1#4">Apaſchtalams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_1#5">ir</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_Sexag_244_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_2#1">kitiems</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_2#2">ßidams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_2#3">iſchmanantiemus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_2#4">raſchta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_2#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_2#6">Sʒodeis</w>
+        <lb n="3" xml:id="BP_1591_I_Dom_Sexag_244_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_3#1">iſchmanamais</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_3#2">alba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_3#3">paiunktu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_3#4">budu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_3#5">kalbeia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_3#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_3#7">Togidel</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_Sexag_244_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_4#1">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_4#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_4#3">ſchicʒe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_4#4">bila</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_4#5">apaſchtalams</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_4#7">Iumus</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_Sexag_244_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_5#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_5#2">dota</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_5#3">ßinoti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_5#4">paſlaptines</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_5#5">karaliſtos</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_Sexag_244_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_6#1">Diewo</w><ref decls="biblical" cRef="b.LUK.8.10"/></quote>
+.
+        <w xml:id="BP_1591_I_Dom_Sexag_244_6#3">A</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_6#4">kada</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_6#5">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_6#6">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_6#7">noreia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_6#8">teipo</w>
+        <lb n="7-8" xml:id="BP_1591_I_Dom_Sexag_244_7-8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#1">ſakit</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#2">koſani</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#4">idant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#6">wiſſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#7">praſcʒiauſis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#8">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#9">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#10">ma<lb break="no"/>nitu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_7-8#11">/</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_Sexag_244_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_8#1">tadda</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_8#2">ghis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_8#3">kalbeia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_8#4">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_8#5">priliginimus</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_244_8#7">Idant</w>
+        <lb n="9-10" xml:id="BP_1591_I_Dom_Sexag_244_9-10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_9-10#1">praſti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_9-10#2">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_9-10#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_9-10#4">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_9-10#5">permanamuiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_9-10#6">daiktu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_9-10#7">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_9-10#8">paiūk<lb break="no"/>tu</w>
+        <lb n="10" xml:id="BP_1591_I_Dom_Sexag_244_10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_10#1">iſchmokti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_10#2">alba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_10#3">permaniti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_10#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_10#5">kas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_10#6">ſunku</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_10#7">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_10#8">praſtam</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_Sexag_244_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_11#1">iſchmokti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_11#2">alba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_11#3">permaniti</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_244_11#5">Bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_11#6">ſchiteipo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_11#7">regim</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_11#8">Pona</w>
+        <lb n="12-13" xml:id="BP_1591_I_Dom_Sexag_244_12-13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_12-13#1">IEſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_12-13#2">noreiuſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_12-13#3">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_12-13#4">ſakimu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_12-13#5">paſlußiti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_12-13#6">bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_12-13#7">iſchmanan<lb break="no"/>tiemus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_12-13#8">/</w>
+        <lb n="13" xml:id="BP_1591_I_Dom_Sexag_244_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_13#1">bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_13#2">praſtiemus</w>.
+        <lb n="14" xml:id="BP_1591_I_Dom_Sexag_244_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_14#1">Ape</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_14#2">Antra</w>.
+        <lb n="15" xml:id="BP_1591_I_Dom_Sexag_244_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_15#1">Kas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_15#2">iſſimana</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_15#3">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_15#4">ſchi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_15#5">priliginima</w>.
+        <lb n="16" xml:id="BP_1591_I_Dom_Sexag_244_16"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_16#1">PEr</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_16#2">Seieghi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_16#3">ſeianti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_16#4">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_16#5">ſekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_16#6">iſſimana</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_16#7">patſai</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_Sexag_244_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_17#1">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_17#2">ſutwertoias</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_17#3">Dangaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_17#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_17#5">ßemes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_17#6">/</w>
+        <lb n="18-19" xml:id="BP_1591_I_Dom_Sexag_244_18-19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_18-19#1">neſanga</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_18-19#2">tas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_18-19#3">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_18-19#4">pradʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_18-19#5">ſwieto</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_18-19#6">ſekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_18-19#7">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_18-19#8">ßo<lb break="no"/>dʒio</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_Sexag_244_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#1">ſeia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#3">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#4">eſt</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#6">ſake</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#8">kitada</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#9">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#10">patties</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#11">burna</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#12">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_19#13">kaip</w>
+        <lb n="20-21" xml:id="BP_1591_I_Dom_Sexag_244_20-21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_20-21#1">regim</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_20-21#2">pirmoſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_20-21#3">knigoſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_20-21#4">Moſeſchaus</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_20-21#6">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_20-21#7">Die<lb break="no"/>was</w>
+        <lb n="21-22" xml:id="BP_1591_I_Dom_Sexag_244_21-22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_21-22#1">priſake</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_21-22#2">ßmogui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_21-22#3">bilodams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_21-22#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_21-22#5">Tu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_21-22#6">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_21-22#7">wiſſakiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_21-22#8">me<lb break="no"/>gʒiu</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_Sexag_244_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_244_22#1">ßardʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_22#2">walgiſi</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_244_22#4">Bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_22#5">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_22#6">medʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_244_22#7">ßinnoghimo</w>
+        <pb n="245"/>
+        <lb n="1-2" xml:id="BP_1591_I_Dom_Sexag_245_1-2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#1">gero</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#3">pikto</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#4">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#5">walgiſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#7">Nes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#8">kure</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#9">diena</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#10">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#11">io</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#12">wal<lb break="no"/>giſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_1-2#13">/</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_Sexag_245_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_2#1">mirſi</w><ref decls="biblical" cRef="b.GEN.2.16-17"/></quote>
+.
+        <w xml:id="BP_1591_I_Dom_Sexag_245_2#3">Item</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_2#4">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_2#5">Aſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_2#6">eſmi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_2#7">Wieſchpats</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_2#8">Diewas</w>
+        <lb n="3" xml:id="BP_1591_I_Dom_Sexag_245_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_3#1">tawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_3#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_3#3">kitu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_3#4">Diewu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_3#5">netureſi</w><ref decls="biblical" cRef="b.EXO.20.2-3"/></quote>
+.
+        <w xml:id="BP_1591_I_Dom_Sexag_245_3#7">Item</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_3#8">/</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_3#9">Aſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_3#10">taw</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_3#11">ir</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_Sexag_245_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_4#1">tawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_4#2">giminei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_4#3">po</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_4#4">tawimi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_4#5">důſiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_4#6">ßeme</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_4#7">Kanaan</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_4#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_4#9">idant</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_Sexag_245_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_5#1">ana</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_5#2">amßinai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_5#3">apturetumbit</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_5#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_5#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_5#6">aſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_5#7">buſiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_5#8">iu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_5#9">Diewas</w><ref decls="biblical" cRef="b.GEN.17.8"/></quote>
+.
+        <lb n="6" xml:id="BP_1591_I_Dom_Sexag_245_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_6#1">Kitada</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_6#2">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_6#3">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_6#4">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_6#5">dawe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_6#6">ſakit</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_6#7">ſwietui</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_Sexag_245_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_7#1">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_7#2">prarakus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_7#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_7#4">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_7#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_7#6">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_7#7">regim</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_7#8">ſchwentame</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_7#9">raſchte</w>.
+        <lb n="8" xml:id="BP_1591_I_Dom_Sexag_245_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_8#1">Bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_8#2">ſchiteipo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_8#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_8#4">dabar</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_8#5">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_8#6">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_8#7">důſt</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_8#8">ſchi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_8#9">ſawa</w>
+        <lb n="9-10" xml:id="BP_1591_I_Dom_Sexag_245_9-10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#1">ſekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#3">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#4">eſt</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#6">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#7">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#9">paſakiti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#10">ſwietui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#11">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_9-10#12">Baßni<lb break="no"/>nicʒios</w>
+        <lb n="10-11" xml:id="BP_1591_I_Dom_Sexag_245_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_10-11#1">tarnus</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_245_10-11#3">Tůgi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_10-11#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_10-11#5">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_10-11#6">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_10-11#7">ſaka</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_10-11#8">apaſch<lb break="no"/>talams</w>
+        <lb n="11-12" xml:id="BP_1591_I_Dom_Sexag_245_11-12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_11-12#1">ſawa</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_11-12#3">Eiket</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_11-12#4">ſakiket</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_11-12#5">Euangelia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_11-12#6">wiſam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_11-12#7">ſut<lb break="no"/>werimui</w>.<ref decls="biblical" cRef="b.MAR.16.15"/></quote>
+
+        <lb n="12" xml:id="BP_1591_I_Dom_Sexag_245_12"/>
+
+
+        <lb n="13" xml:id="BP_1591_I_Dom_Sexag_245_13"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_13#1">Per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_13#2">ßeme</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_13#3">ing</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_13#4">kure</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_13#5">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_13#6">ſeiama</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_13#7">ſekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_13#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_13#9">iſſimana</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_Sexag_245_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_14#1">ſchirdis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_14#2">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_14#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_14#4">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_14#5">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_14#6">paſkui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_14#7">girdeſim</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_14#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_14#9">Welina</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_Sexag_245_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_15#1">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_15#2">ſchirdʒiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_15#3">iſchtraukenti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_15#4">ßodi</w><ref decls="biblical" cRef="b.LUK.8.12"/></quote>
+.
+        <lb n="16" xml:id="BP_1591_I_Dom_Sexag_245_16"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_16#1">Per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_16#2">Sekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_16#3">ſeiama</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_16#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_16#5">iſſimanna</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_16#6">Sʒodis</w><ref decls="biblical" cRef="b.LUK.8.11"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_16#7">Diewo</w>
+        <lb n="17-18" xml:id="BP_1591_I_Dom_Sexag_245_17-18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_17-18#1">Sakano</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_17-18#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_17-18#3">Enangelios</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_17-18#4">neſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_17-18#5">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_17-18#6">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_17-18#7">ſeklos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_17-18#8">iſch<lb break="no"/>digſta</w>
+        <lb n="18" xml:id="BP_1591_I_Dom_Sexag_245_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_18#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_18#2">ußanga</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_18#3">jawai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_18#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_18#5">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_18#6">kuriu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_18#7">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_18#8">paſſipen</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_18#9">/</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_Sexag_245_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_19#1">Schiteipo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_19#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_19#3">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_19#4">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_19#5">ßodʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_19#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_19#7">penama</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_19#8">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_19#9">duſche</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_Sexag_245_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_20#1">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_20#2">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_20#3">amßino</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_20#4">iſchganimo</w>.
+        <lb n="21" xml:id="BP_1591_I_Dom_Sexag_245_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_21#1">Ape</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_21#2">Treti</w>.
+        <lb n="22" xml:id="BP_1591_I_Dom_Sexag_245_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_22#1">Ape</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_22#2">ketu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_22#3">akus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_22#4">klaſitoius</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_22#5">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_22#6">ßodʒio</w>.
+        <lb n="23" xml:id="BP_1591_I_Dom_Sexag_245_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_23#1">SƷodis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_23#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_23#3">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_23#4">wiſſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_23#5">brangiauſis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_23#6">ſkarbas</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_Sexag_245_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_24#1">kurſai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_24#2">ßmogui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_24#3">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_24#4">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_24#5">důdams</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_245_24#7">Neſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_24#8">be</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_Sexag_245_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_245_25#1">ßodʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_25#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_25#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_25#4">neßinna</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_25#5">ßmogus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_25#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_25#7">nei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_245_25#8">kas</w>
+        <pb n="246"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_Sexag_246_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#1">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#2">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#4">nei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#5">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#6">Diewui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#7">intikti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#9">nei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#10">kas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#11">po</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_1#12">muſu</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_Sexag_246_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_2#1">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_2#2">pawarguſio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_2#3">giwenimo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_2#4">bus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_2#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_2#6">nei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_2#7">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_2#8">atleidima</w>
+        <lb n="3" xml:id="BP_1591_I_Dom_Sexag_246_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_3#1">grieku</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_3#2">gauti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_3#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_3#4">nei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_3#5">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_3#6">iſchganitu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_3#7">buti</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_246_3#9">Ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_3#10">ſchito</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_3#11">delei</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_Sexag_246_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_4#1">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_4#2">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_4#3">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_4#4">didei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_4#5">miledams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_4#6">iemus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_4#7">ſawa</w>
+        <lb n="5-6" xml:id="BP_1591_I_Dom_Sexag_246_5-6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_5-6#1">důſt</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_5-6#2">ßodi</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_246_5-6#4">Tůgi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_5-6#5">kartais</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_5-6#6">patſai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_5-6#7">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_5-6#8">ßmonems</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_5-6#9">ko<lb break="no"/>ſani</w>
+        <lb n="6-7" xml:id="BP_1591_I_Dom_Sexag_246_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_6-7#1">ſake</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_6-7#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_6-7#3">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_6-7#4">dabar</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_6-7#5">girdeiom</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_6-7#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_6-7#7">kartais</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_6-7#8">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_6-7#9">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_6-7#10">tar<lb break="no"/>nus</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_Sexag_246_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_7#1">Baßnicʒoie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_7#2">dawe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_7#3">ſakjti</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_246_7#5">Kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_7#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_7#7">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_7#8">Sunu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_7#9">ſawa</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_Sexag_246_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_8#1">Ieſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_8#2">Kriſtu</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_246_8#4">O</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_8#5">tata</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_8#6">newienam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_8#7">tiktai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_8#8">kokiam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_8#9">ßmogui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_8#10">/</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_Sexag_246_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#1">newienam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#2">tiktai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#3">kokem</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#4">mieſtui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#5">alba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#6">ßemei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#8">Ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#9">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#10">bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_9#11">per</w>
+        <lb n="10-11" xml:id="BP_1591_I_Dom_Sexag_246_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_10-11#1">wiſſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_10-11#2">ſwieta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_10-11#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_10-11#4">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_10-11#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_10-11#6">Sunus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_10-11#7">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_10-11#8">ſiuſdams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_10-11#9">Apaſch+||talus</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_Sexag_246_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_11#1">ſake</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_246_11#3">Eiket</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_11#4">po</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_11#5">wiſſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_11#6">ſwieta</w><ref decls="biblical" cRef="b.MAR.16.15"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_11#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_11#8">Ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_11#9">ſchito</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_11#10">delei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_11#11">ſaka</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_Sexag_246_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#1">Pſalms</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#2">19.</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#3">Iu</w>        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#4">balſas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#5">iſcheit</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#6">ing</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#7">wiſſas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#8">ßemes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#9">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#10">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_12#11">iu</w>
+        <lb n="13-14" xml:id="BP_1591_I_Dom_Sexag_246_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_13-14#1">kalbeſis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_13-14#2">ikki</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_13-14#3">galo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_13-14#4">ſwieto</w><ref decls="biblical" cRef="b.PSA.18.5"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_13-14#6">Neſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_13-14#7">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_13-14#8">nor</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_13-14#9">idant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_13-14#10">wiſ<lb break="no"/>ſas</w>
+        <lb n="14" xml:id="BP_1591_I_Dom_Sexag_246_14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_14#1">ſwietas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_14#2">butu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_14#3">pagelbetas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_14#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_14#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_14#6">kas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_14#7">tieſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_14#8">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_14#9">paßintu</w><ref decls="biblical" cRef="b.1TI.2.4"/></quote>
+.
+        <lb n="15" xml:id="BP_1591_I_Dom_Sexag_246_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_15#1">Bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_15#2">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_15#3">Sʒodis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_15#4">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_15#5">wiſſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_15#6">brangiauſeſis</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_Sexag_246_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_16#1">Skarbas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_16#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_16#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_16#4">wiſſam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_16#5">ſwietui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_16#6">ſakams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_16#7">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_16#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_16#9">Tacʒiau</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_16#10">ne</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_Sexag_246_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#1">wiſſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#2">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#3">to</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#4">adboieſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#6">newiſſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#7">ta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#8">mil</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#9">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#10">newiſſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_17#11">to</w>
+        <lb n="18" xml:id="BP_1591_I_Dom_Sexag_246_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#1">klauſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#3">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#4">wiſſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#5">prijm</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#7">newiſſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#8">tam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#9">tik</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#10">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#11">newiſſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_18#12">pagal</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_Sexag_246_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_19#1">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_19#2">ßodʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_19#3">giwen</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_19#5">Tiktai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_19#6">wos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_19#7">newos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_19#8">ketwirtoie</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_Sexag_246_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_20#1">dalis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_20#2">tikrais</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_20#3">krikſchcʒonims</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_20#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_20#5">iſchganamais</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_20#6">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_20#7">/</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_Sexag_246_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_21#1">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_21#2">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_21#3">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_21#4">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_21#5">ſchoie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_21#6">Euangelioie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_21#7">graßei</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_Sexag_246_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_22#1">per</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_22#2">priliginima</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_22#3">iſchroda</w><ref decls="biblical" cRef="b.LUK.8.5-8"/></quote>
+.
+        <lb n="23-24" xml:id="BP_1591_I_Dom_Sexag_246_23-24"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_23-24#1">Neſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_23-24#2">wiena</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_23-24#3">dalis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_23-24#4">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_23-24#5">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_23-24#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_23-24#7">ußketuſe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_23-24#8">ſchir<lb break="no"/>di</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_Sexag_246_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_24#1">tur</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_24#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_24#3">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_24#4">iemus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_24#5">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_24#6">Schwentas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_24#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_24#8">brangus</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_Sexag_246_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_25#1">ßodis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_25#2">ſakams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_25#3">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_25#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_25#5">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_25#6">anie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_25#7">Baßnicʒon</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_25#8">ſuſirenk</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_25#9">ir</w>
+        <lb n="26" xml:id="BP_1591_I_Dom_Sexag_246_26"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_246_26#1">gird</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_26#2">kas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_26#3">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_26#4">Schwento</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_26#5">raſchto</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_26#6">ſakama</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_26#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_246_26#8">giedama</w>
+        <pb n="247"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_Sexag_247_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#3">tacʒiau</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#4">anis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#5">to</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#6">meka</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#7">neadboj</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#9">ßodis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#10">ſchirdiſſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_1#11">iu</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_Sexag_247_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_2#1">nelimpa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_2#2">net</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_2#3">noproſnai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_2#4">iemus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_2#5">ſakams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_2#6">ira</w><ref decls="biblical" cRef="b.LUK.8.12"/></quote>
+.
+        <lb n="3-4" xml:id="BP_1591_I_Dom_Sexag_247_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_3-4#1">O</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_3-4#2">Schittai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_3-4#3">netiktai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_3-4#4">praſti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_3-4#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_3-4#6">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_3-4#7">kudi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_3-4#8">bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_3-4#9">dides</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_3-4#10">ßmo<lb break="no"/>nes</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_Sexag_247_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_4#1">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_4#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_4#3">bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_4#4">kurie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_4#5">laikaſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_4#6">wireſneis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_4#7">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_4#8">wiſſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_4#9">kittu</w>.
+        <lb n="5" xml:id="BP_1591_I_Dom_Sexag_247_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_5#1">Schittokie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_5#2">girreſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_5#3">Krikſchcʒonis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_5#4">eſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_5#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_5#6">iog</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_5#7">prieme</w>
+        <lb n="6" xml:id="BP_1591_I_Dom_Sexag_247_6"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_6#1">krikſchta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_6#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_6#3">prjmma</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_6#4">kartais</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_6#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_6#6">ganna</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_6#7">tankei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_6#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_6#9">paties</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_Sexag_247_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_7#1">Kriſtaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_7#2">kuna</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_7#3">bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_7#4">kraughi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_7#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_7#6">ape</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_7#7">tokias</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_7#8">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_7#9">kalb</w>
+        <lb n="8-9" xml:id="BP_1591_I_Dom_Sexag_247_8-9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_8-9#1">Diewas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_8-9#2">ſkunſdamaſi</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_8-9#4">Namai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_8-9#5">Iſrael</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_8-9#6">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_8-9#7">eſti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_8-9#8">ßmo<lb break="no"/>nes</w>
+        <lb n="9-10" xml:id="BP_1591_I_Dom_Sexag_247_9-10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_9-10#1">Iſraelſkoſes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_9-10#2">tur</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_9-10#3">kieta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_9-10#4">kakta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_9-10#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_9-10#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_9-10#7">ſchirdi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_9-10#8">apſikieta<lb break="no"/>wuſe</w>.<ref decls="biblical" cRef="b.EZE.3.7"/></quote>
+
+        <lb n="10" xml:id="BP_1591_I_Dom_Sexag_247_10"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_10#1">Nůg</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_10#2">tokiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_10#3">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_10#4">Welinas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_10#5">girdeta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_10#6">Diewo</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_Sexag_247_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_11#1">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_11#2">atpleſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_11#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_11#4">attrauk</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_247_11#6">Kodel</w>?
+        <w xml:id="BP_1591_I_Dom_Sexag_247_11#8">Atſaka</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_11#9">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_11#10">idant</w>
+        <lb n="12-13" xml:id="BP_1591_I_Dom_Sexag_247_12-13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_12-13#1">netiketu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_12-13#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_12-13#3">idant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_12-13#4">nebutu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_12-13#5">iſchganiti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_12-13#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_12-13#7">bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_12-13#8">amßinai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_12-13#9">pra<lb break="no"/>pultu</w>.<ref decls="biblical" cRef="b.LUK.8.12"/></quote>
+
+        <lb n="13" xml:id="BP_1591_I_Dom_Sexag_247_13"/>
+
+
+        <lb n="14" xml:id="BP_1591_I_Dom_Sexag_247_14"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_14#1">Bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_14#2">ſchitas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_14#3">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_14#4">muſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_14#5">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_14#6">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_14#7">ſchoie</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_Sexag_247_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_15#1">Euangelioie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_15#2">priligin</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_15#3">ſeklai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_15#4">polancʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_15#5">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_15#6">kieto</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_15#7">ir</w>
+        <lb n="16-17" xml:id="BP_1591_I_Dom_Sexag_247_16-17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_16-17#1">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_16-17#2">ſuminto</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_16-17#3">kelio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_16-17#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_16-17#5">kur</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_16-17#6">newiena</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_16-17#7">ſekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_16-17#8">negal</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_16-17#9">iſch<lb break="no"/>digti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_16-17#10">/</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_Sexag_247_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_17#1">bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_17#2">paukſchcʒiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_17#3">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_17#4">ſuleſſema</w><ref decls="biblical" cRef="b.LUK.8.5"/></quote>
+.
+        <lb n="18" xml:id="BP_1591_I_Dom_Sexag_247_18"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#1">Antri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#2">wel</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#3">tokie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#4">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#6">kurie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#7">gird</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#9">mjl</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#10">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#11">klauſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_18#12">ir</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_Sexag_247_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#1">prijm</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#3">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#4">tam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#5">tik</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#7">pagalei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#8">tho</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#9">giwen</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#10">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_19#11">ikki</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_Sexag_247_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_20#1">neſſiranda</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_20#2">iemus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_20#3">kakia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_20#4">prigada</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_20#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_20#6">bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_20#7">kad</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_20#8">anis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_20#9">delei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_20#10">to</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_Sexag_247_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_21#1">klauſito</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_21#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_21#3">Sʒodʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_21#4">neka</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_21#5">turretu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_21#6">kenteti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_21#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_21#8">pameſti</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_Sexag_247_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#1">labia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#2">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#4">uki</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#5">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#7">moteri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#9">waikus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#10">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#11">alba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#12">kitta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_22#13">koki</w>
+        <lb n="23" xml:id="BP_1591_I_Dom_Sexag_247_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_23#1">milima</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_23#2">daikta</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_247_23#4">Tadda</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_23#5">anis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_23#6">welias</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_23#7">pamete</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_23#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_23#9">neturi</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_Sexag_247_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_24#1">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_24#2">ßodʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_24#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_24#4">thůgi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_24#5">anis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_24#6">uſſigin</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_24#7">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_24#8">ßodʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_24#9">/</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_Sexag_247_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_247_25#1">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_25#2">tokiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_25#3">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_25#4">papießiſteie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_25#5">daug</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_247_25#6">ira</w><ref decls="biblical" cRef="b.LUK.8.13"/></quote>
+.
+        <pb n="248"/>
+        <lb n="1-2" xml:id="BP_1591_I_Dom_Sexag_248_1-2"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_1-2#1">Bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_1-2#2">ſchitokes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_1-2#3">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_1-2#4">priligin</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_1-2#5">Ponas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_1-2#6">Kri<lb break="no"/>ſtus</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_Sexag_248_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_2#1">ſchoie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_2#2">Euangelioie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_2#3">ſeklai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_2#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_2#5">kuri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_2#6">půla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_2#7">ant</w><ref decls="biblical" cRef="b.LUK.8.6"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_2#8">ůlos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_2#9">/</w>
+        <lb n="3-4" xml:id="BP_1591_I_Dom_Sexag_248_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_3-4#1">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_3-4#2">eſt</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_3-4#3">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_3-4#4">ßemes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_3-4#5">labai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_3-4#6">akmeningos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_3-4#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_3-4#8">neſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_3-4#9">kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_3-4#10">ſe<lb break="no"/>kla</w>
+        <lb n="4-5" xml:id="BP_1591_I_Dom_Sexag_248_4-5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_4-5#1">ing</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_4-5#2">ůla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_4-5#3">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_4-5#4">eſt</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_4-5#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_4-5#6">akmeninga</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_4-5#7">ßeme</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_4-5#8">inpůluſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_4-5#9">iſch<lb break="no"/>digſta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_4-5#10">/</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_Sexag_248_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_5#1">tacʒiau</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_5#2">waiſiaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_5#3">neneſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_5#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_5#5">neſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_5#6">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_5#7">Saule</w>
+        <lb n="6-7" xml:id="BP_1591_I_Dom_Sexag_248_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_6-7#1">karſchtai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_6-7#2">prades</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_6-7#3">dekti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_6-7#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_6-7#5">tada</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_6-7#6">iau</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_6-7#7">ſennei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_6-7#8">padʒuwa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_6-7#9">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_6-7#10">wai<lb break="no"/>ſiaus</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_Sexag_248_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_7#1">neneſchuſi</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_248_7#3">Bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_7#4">anokes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_7#5">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_7#6">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_7#7">kittur</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_Sexag_248_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_8#1">priligin</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_8#2">paikam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_8#3">ßmogu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_8#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_8#5">bilodams</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_8#7">Anis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_8#8">ligus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_8#9">ira</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_Sexag_248_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_9#1">durnamuiem</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_9#2">wirui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_9#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_9#4">kurſai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_9#5">namus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_9#6">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_9#7">pabudawoia</w>
+        <lb n="10" xml:id="BP_1591_I_Dom_Sexag_248_10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#1">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#2">ßieſdros</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#4">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#5">nu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#6">didei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#7">nulija</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#9">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#10">twanai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_10#11">atſirada</w>
+        <lb n="11-12" xml:id="BP_1591_I_Dom_Sexag_248_11-12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#2">pute</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#3">didi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#4">weiei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#7">ußgawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#8">anus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#9">namus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#10">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#11">tada</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_11-12#12">pa<lb break="no"/>gruwa</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_Sexag_248_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_12#1">didʒiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_12#2">braſchkeghimu</w><ref decls="biblical" cRef="b.MAT.7.26-27"/></quote>
+.
+        <lb n="13" xml:id="BP_1591_I_Dom_Sexag_248_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_13#1">Weiſdek</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_13#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_13#3">ſchitokiems</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_13#4">ßmonems</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_13#5">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_13#6">ßodis</w>
+        <lb n="14-15" xml:id="BP_1591_I_Dom_Sexag_248_14-15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_14-15#1">neproſnai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_14-15#2">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_14-15#3">ſakams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_14-15#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_14-15#5">Neſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_14-15#6">anis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_14-15#7">delei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_14-15#8">wargu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_14-15#9">nepa<lb break="no"/>laika</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_14-15#10">/</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_Sexag_248_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_15#1">bet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_15#2">atmet</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_15#3">nůg</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_15#4">ſawes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_15#5">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_15#6">ßodi</w>.
+        <lb n="16" xml:id="BP_1591_I_Dom_Sexag_248_16"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#1">Trecʒia</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#2">dalis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#3">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#4">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#6">kurri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#7">klauſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#9">mil</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#10">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_16#11">prijm</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_Sexag_248_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_17#1">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_17#2">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_17#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_17#4">tik</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_17#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_17#6">krikſchcʒoniſchkai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_17#7">giwē</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_248_17#9">Betwienok</w>
+        <lb n="18-19" xml:id="BP_1591_I_Dom_Sexag_248_18-19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#1">daugeſni</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#2">mil</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#3">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#4">ſwieto</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#5">lobin</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#7">geidulus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#9">daugeſni</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#10">ru<lb break="no"/>pinaſſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_18-19#11">/</w>
+        <lb n="19-20" xml:id="BP_1591_I_Dom_Sexag_248_19-20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_19-20#1">delei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_19-20#2">ſchu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_19-20#3">ſwietiſchku</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_19-20#4">daiktu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_19-20#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_19-20#6">nei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_19-20#7">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_19-20#8">ßo<lb break="no"/>dʒio</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_Sexag_248_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_20#1">delei</w><ref decls="biblical" cRef="b.LUK.8.14"/></quote>
+.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_20#3">Schitokes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_20#4">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_20#5">daugeſni</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_20#6">milincʒes</w>
+        <lb n="21" xml:id="BP_1591_I_Dom_Sexag_248_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_21#1">ſwietiſchkus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_21#2">daiktus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_21#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_21#4">nei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_21#5">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_21#6">brangu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_21#7">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_21#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_21#9">Ponas</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_Sexag_248_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_22#1">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_22#2">ſchoie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_22#3">Euangelioie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_22#4">priligin</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_22#5">ſeklai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_22#6">půlancʒei</w>
+        <lb n="23" xml:id="BP_1591_I_Dom_Sexag_248_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#1">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#2">Dirwos</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#4">kuri</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#5">pilna</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#6">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#7">uſniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#8">ir</w><ref decls="biblical" cRef="b.LUK.8.7"/></quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#9">erſchkecʒiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#10">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_23#11">Neſa</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_Sexag_248_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_24#1">kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_24#2">uſnes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_24#3">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_24#4">erſchkecʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_24#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_24#6">nuſmelg</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_24#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_24#8">apſpaudʒ</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_24#9">gera</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_Sexag_248_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#1">iawan</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#3">teip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#5">rupeſtis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#6">delei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#7">didʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#8">lobio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#9">bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#10">turto</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#11">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_25#12">delei</w>
+        <lb n="26" xml:id="BP_1591_I_Dom_Sexag_248_26"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_248_26#1">raſkaſcho</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_26#2">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_26#3">ſwieto</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_26#4">aptroſchkin</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_26#5">Pono</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_26#6">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_26#7">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_248_26#8">/</w>
+        <pb n="249"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_Sexag_249_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_1#1">ieib</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_1#2">ſchirdije</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_1#3">ßmogaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_1#4">neliptu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_1#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_1#6">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_1#7">waiſiausneſchtu</w>.
+        <lb n="2-3" xml:id="BP_1591_I_Dom_Sexag_249_2-3"/>
+
+        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_2-3#1">Ketwirta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_2-3#2">tiktai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_2-3#3">dallis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_2-3#4">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_2-3#5">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_2-3#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_2-3#7">kurie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_2-3#8">tikrai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_2-3#9">pil<lb break="no"/>nai</w>
+        <lb n="3-4" xml:id="BP_1591_I_Dom_Sexag_249_3-4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#1">mjl</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#3">klauſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#5">tik</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#6">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#7">ßodʒui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#9">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#10">pagalei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#11">tho</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#12">gi<lb break="no"/>wen</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_3-4#13">/</w>
+        <lb n="4-5" xml:id="BP_1591_I_Dom_Sexag_249_4-5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_4-5#1">Ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_4-5#2">waiſiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_4-5#3">gera</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_4-5#4">neſcha</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_4-5#5">Diewuj</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_4-5#6">tikedami</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_4-5#7">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_4-5#8">arti<lb break="no"/>maghi</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_Sexag_249_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_5#1">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_5#2">miledami</w><ref decls="biblical" cRef="b.LUK.8.15"/></quote>
+.
+        <w xml:id="BP_1591_I_Dom_Sexag_249_5#4">Bei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_5#5">ape</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_5#6">tas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_5#7">ßmones</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_5#8">Ponas</w>
+        <lb n="6-7" xml:id="BP_1591_I_Dom_Sexag_249_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_6-7#1">Kriſtus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_6-7#2">kalb</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_6-7#3">bilodams</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_6-7#5">Sekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_6-7#6">ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_6-7#7">geros</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_6-7#8">ße<lb break="no"/>mes</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_Sexag_249_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_7#1">thie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_7#2">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_7#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_7#4">kurie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_7#5">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_7#6">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_7#7">klauſa</w>
+        <lb n="8" xml:id="BP_1591_I_Dom_Sexag_249_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_8#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_8#2">palaika</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_8#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_8#4">graße</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_8#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_8#6">gera</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_8#7">ſchirde</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_8#8">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_8#9">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_8#10">waiſiu</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_Sexag_249_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_9#1">atneſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_9#2">kantrume</w><ref decls="biblical" cRef="b.LUK.8.15"/></quote>
+.
+        <lb n="10-11" xml:id="BP_1591_I_Dom_Sexag_249_10-11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_10-11#1">Iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_10-11#2">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_10-11#3">priliginimo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_10-11#4">Pono</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_10-11#5">muſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_10-11#6">IEſaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_10-11#7">Kri<lb break="no"/>ſtaus</w>
+        <lb n="11" xml:id="BP_1591_I_Dom_Sexag_249_11"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_11#1">daug</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_11#2">reikingu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_11#3">pamokſlu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_11#4">ſaw</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_11#5">turrim</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_11#6">imti</w>.
+        <lb n="12" xml:id="BP_1591_I_Dom_Sexag_249_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_12#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_12#2">Pirmo</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_249_12#4">Ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_12#5">padiwikem</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_12#6">nei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_12#7">paſſipiktinkem</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_12#8">/</w>
+        <lb n="13" xml:id="BP_1591_I_Dom_Sexag_249_13"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_13#1">nerugokem</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_13#2">regedami</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_13#3">iog</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_13#4">teip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_13#5">maß</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_13#6">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_13#7">tikrai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_13#8">geru</w>
+        <lb n="14-15" xml:id="BP_1591_I_Dom_Sexag_249_14-15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_14-15#1">krikſchcʒioniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_14-15#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_14-15#3">Atminkem</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_14-15#4">Welina</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_14-15#5">duſchu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_14-15#6">muſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_14-15#7">ne<lb break="no"/>prieteli</w>
+        <lb n="15" xml:id="BP_1591_I_Dom_Sexag_249_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_15#1">atimanti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_15#2">nůg</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_15#3">daug</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_15#4">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_15#5">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_15#6">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_15#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_15#8">iſch</w>
+        <lb n="16" xml:id="BP_1591_I_Dom_Sexag_249_16"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_16#1">ſchirdʒiu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_16#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_16#3">ieib</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_16#4">tiktai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_16#5">netiketu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_16#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_16#7">nebutu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_16#8">iſchganiti</w>.
+        <lb n="17-18" xml:id="BP_1591_I_Dom_Sexag_249_17-18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_17-18#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_17-18#2">Antro</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_249_17-18#4">Regim</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_17-18#5">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_17-18#6">wiſſus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_17-18#7">krikſchcʒonis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_17-18#8">eſ<lb break="no"/>ſancʒus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_17-18#9">/</w>
+        <lb n="18-19" xml:id="BP_1591_I_Dom_Sexag_249_18-19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_18-19#1">kurie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_18-19#2">girreſſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_18-19#3">krikſchcʒonims</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_18-19#4">eſſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_18-19#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_18-19#6">Neſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_18-19#7">kur<lb break="no"/>ſai</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_Sexag_249_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_19#1">koßnam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_19#2">teip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_19#3">rodas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_19#4">iſchtik</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_19#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_19#6">tas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_19#7">tankiei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_19#8">prigaunams</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_Sexag_249_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_20#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_20#2">ing</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_20#3">dide</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_20#4">iſkadan</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_20#5">iwedams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_20#6">ira</w>.
+        <lb n="21" xml:id="BP_1591_I_Dom_Sexag_249_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_21#1">Ant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_21#2">Trecʒio</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_249_21#4">Numanam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_21#5">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_21#6">ſcho</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_21#7">priliginimo</w>.
+        <lb n="22-23" xml:id="BP_1591_I_Dom_Sexag_249_22-23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_22-23#1">Kacʒei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_22-23#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_22-23#3">brangus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_22-23#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_22-23#5">Schwentas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_22-23#6">ßodis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_22-23#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_22-23#8">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_22-23#9">wiſ<lb break="no"/>ſu</w>
+        <lb n="23" xml:id="BP_1591_I_Dom_Sexag_249_23"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_23#1">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_23#2">prijmmams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_23#3">alba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_23#4">iam</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_23#5">intikima</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_23#6">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_23#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_23#8">tacʒiau</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_Sexag_249_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_249_24#1">taſſai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_24#2">niekada</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_24#3">noproſnai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_24#4">neſakams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_24#5">ira</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_24#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_24#7">wienok</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_249_24#8">ben</w>
+        <pb n="250"/>
+        <lb n="1" xml:id="BP_1591_I_Dom_Sexag_250_1"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#1">Ketwirtas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#2">ßmogus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#3">ta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#4">pilnai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#6">klauſa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#8">prijm</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#9">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#10">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_1#11">tam</w>
+        <lb n="2" xml:id="BP_1591_I_Dom_Sexag_250_2"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_2#1">iſchtik</w>.        
+        <quote>
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_2#3">Kaip</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_2#4">litus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_2#5">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_2#6">ſniegas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_2#7">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_2#8">Dangaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_2#9">půl</w>
+        <lb n="3" xml:id="BP_1591_I_Dom_Sexag_250_3"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#1">nei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#2">griſcht</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#4">Net</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#5">padrekin</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#6">ßeme</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#8">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#9">ie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#10">waiſinga</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_3#11">padara</w>
+        <lb n="4" xml:id="BP_1591_I_Dom_Sexag_250_4"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#1">idant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#2">ana</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#3">důtu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#4">ſekla</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#5">ſeti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#7">Důna</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#8">walgiti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#9">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#10">Teipo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_4#11">bus</w>
+        <lb n="5" xml:id="BP_1591_I_Dom_Sexag_250_5"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_5#1">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_5#2">ßodis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_5#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_5#4">kurſai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_5#5">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_5#6">mana</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_5#7">naſru</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_5#8">iſcheit</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_5#9">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_5#10">Tuſchcʒias</w>
+        <lb n="6-7" xml:id="BP_1591_I_Dom_Sexag_250_6-7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#1">negriſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#2">maneſp</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#4">net</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#5">daris</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#6">kas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#7">man</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#8">patink</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#9">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#10">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_6-7#11">iſchtai<lb break="no"/>ſis</w>
+        <lb n="7" xml:id="BP_1591_I_Dom_Sexag_250_7"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_7#1">tatai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_7#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_7#3">kodelei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_7#4">aſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_7#5">ghi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_7#6">ſiuncʒiau</w><ref decls="biblical" cRef="b.ISA.55.10-11"/></quote>
+.
+        <lb n="8" xml:id="BP_1591_I_Dom_Sexag_250_8"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_8#1">Galiauſei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_8#2">nu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_8#3">koßnas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_8#4">iſch</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_8#5">muſu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_8#6">pilnai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_8#7">ſchirdije</w>
+        <lb n="9" xml:id="BP_1591_I_Dom_Sexag_250_9"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_9#1">ſawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_9#2">tirkimes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_9#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_9#4">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_9#5">weiſdekem</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_9#6">kuroie</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_9#7">dalije</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_9#8">ßmoniu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_9#9">mes</w>
+        <lb n="10" xml:id="BP_1591_I_Dom_Sexag_250_10"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_10#1">eſme</w>.
+        <lb n="11-12" xml:id="BP_1591_I_Dom_Sexag_250_11-12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_11-12#1">Iei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_11-12#2">tu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_11-12#3">regieſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_11-12#4">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_11-12#5">Sʒodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_11-12#6">nemilins</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_11-12#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_11-12#8">Baßni<lb break="no"/>cʒon</w>
+        <lb n="12" xml:id="BP_1591_I_Dom_Sexag_250_12"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_12#1">ne</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_12#2">eians</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_12#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_12#4">poteru</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_12#5">ſchwentu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_12#6">nemokans</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_12#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_12#8">Diewo</w>
+        <lb n="13-14" xml:id="BP_1591_I_Dom_Sexag_250_13-14"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_13-14#1">kuna</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_13-14#2">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_13-14#3">kraugi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_13-14#4">niekadai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_13-14#5">alba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_13-14#6">reta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_13-14#7">karta</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_13-14#8">imans</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_13-14#9">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_13-14#10">tad<lb break="no"/>da</w>
+        <lb n="14-15" xml:id="BP_1591_I_Dom_Sexag_250_14-15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_14-15#1">ßinok</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_14-15#2">tikrai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_14-15#3">Welina</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_14-15#4">nůg</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_14-15#5">tawes</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_14-15#6">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_14-15#7">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_14-15#8">atim<lb break="no"/>manti</w>.
+        <lb n="15" xml:id="BP_1591_I_Dom_Sexag_250_15"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_15#1">Todelei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_15#2">melſkeſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_15#3">Diewa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_15#4">geros</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_15#5">ſchirdies</w>.
+        <lb n="16-17" xml:id="BP_1591_I_Dom_Sexag_250_16-17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_16-17#1">Wel</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_16-17#2">iei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_16-17#3">regieſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_16-17#4">iog</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_16-17#5">nieko</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_16-17#6">negali</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_16-17#7">kenteti</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_16-17#8">delei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_16-17#9">Die<lb break="no"/>wo</w>
+        <lb n="17" xml:id="BP_1591_I_Dom_Sexag_250_17"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_17#1">ßodʒio</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_17#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_17#3">iei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_17#4">daugiaus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_17#5">tawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_17#6">ſchirdi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_17#7">apeme</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_17#8">rupeſtis</w>
+        <lb n="18" xml:id="BP_1591_I_Dom_Sexag_250_18"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_18#1">pilwo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_18#2">alba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_18#3">lebawimas</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_18#4">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_18#5">tadda</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_18#6">ſchinokeſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_18#7">labai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_18#8">piktai</w>
+        <lb n="19" xml:id="BP_1591_I_Dom_Sexag_250_19"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_19#1">giwenans</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_19#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_19#3">Todelei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_19#4">melſkeſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_19#5">Diewa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_19#6">ieib</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_19#7">ghis</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_19#8">tawe</w>
+        <lb n="20" xml:id="BP_1591_I_Dom_Sexag_250_20"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_20#1">gelbetu</w>.
+        <lb n="21" xml:id="BP_1591_I_Dom_Sexag_250_21"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_21#1">O</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_21#2">iei</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_21#3">regieſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_21#4">alba</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_21#5">iautieſi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_21#6">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_21#7">ßodi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_21#8">milins</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_21#9">/</w>
+        <lb n="22" xml:id="BP_1591_I_Dom_Sexag_250_22"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_22#1">klauſans</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_22#2">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_22#3">Diewui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_22#4">tikins</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_22#5">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_22#6">ir</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_22#7">gerus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_22#8">darbus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_22#9">pagal</w>
+        <lb n="23-24" xml:id="BP_1591_I_Dom_Sexag_250_23-24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_23-24#1">Deſchimties</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_23-24#2">Diewo</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_23-24#3">priſakimu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_23-24#4">pildans</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_23-24#5">tadda</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_23-24#6">uß</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_23-24#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_23-24#8">ta<lb break="no"/>tai</w>
+        <lb n="24" xml:id="BP_1591_I_Dom_Sexag_250_24"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_24#1">Diewui</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_24#2">diekawok</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_24#3">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_24#4">ghi</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_24#5">praſchidams</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_24#6">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_24#7">idant</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_24#8">ghis</w>
+        <lb n="25" xml:id="BP_1591_I_Dom_Sexag_250_25"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_25#1">tawe</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_25#2">toki</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_25#3">ikki</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_25#4">ſmerties</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_25#5">tawa</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_25#6">iſchlaikitu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_25#7">/</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_25#8">tadda</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_25#9">buſi</w>.
+        <lb n="26" xml:id="BP_1591_I_Dom_Sexag_250_26"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_26#1">amßinai</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_26#2">iſchganitas</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_250_26#4">Kotu</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_26#5">mus</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_26#6">wiſſus</w>
+        <lb n="27" xml:id="BP_1591_I_Dom_Sexag_250_27"/>
+
+
+        <w xml:id="BP_1591_I_Dom_Sexag_250_27#1">gelbek</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_27#2">Pone</w>
+        <w xml:id="BP_1591_I_Dom_Sexag_250_27#3">Diewe</w>.
+        <w xml:id="BP_1591_I_Dom_Sexag_250_27#5">Amen</w>.
+      </div>
+    </body>
+  </text>
+</TEI>
