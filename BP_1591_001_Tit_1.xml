@@ -15,78 +15,78 @@
   </teiHeader>
   <text type="edition" xml:id="BP_1591">
     <body>
-      <div type="sermon" xml:id="BP_1591_001_Tit_1_1">
+      <div type="sermon" xml:id="BP_1591_001_Tit_1">
         <pb n="0"/>
-        <lb n="1" xml:id="BP_1591_001_Tit_1_1_0_1"/>
+        <lb n="1" xml:id="BP_1591_001_Tit_1_0_1"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_1#1">POSTILLA</w>
-        <lb n="2" xml:id="BP_1591_001_Tit_1_1_0_2"/>
+        <w xml:id="BP_1591_001_Tit_1_0_1#1">POSTILLA</w>
+        <lb n="2" xml:id="BP_1591_001_Tit_1_0_2"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_2#1">Tatai</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_2#2">eſti</w>
-        <lb n="3" xml:id="BP_1591_001_Tit_1_1_0_3"/>
+        <w xml:id="BP_1591_001_Tit_1_0_2#1">Tatai</w>
+        <w xml:id="BP_1591_001_Tit_1_0_2#2">eſti</w>
+        <lb n="3" xml:id="BP_1591_001_Tit_1_0_3"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_3_1">Trumpas</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_3#2">ir</w>
-        <lb n="4" xml:id="BP_1591_001_Tit_1_1_0_4"/>
+        <w xml:id="BP_1591_001_Tit_1_0_3_1">Trumpas</w>
+        <w xml:id="BP_1591_001_Tit_1_0_3#2">ir</w>
+        <lb n="4" xml:id="BP_1591_001_Tit_1_0_4"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_4#1">Praſtas</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_4#2">Iſchguldimas</w>
-        <lb n="5" xml:id="BP_1591_001_Tit_1_1_0_5"/>
+        <w xml:id="BP_1591_001_Tit_1_0_4#1">Praſtas</w>
+        <w xml:id="BP_1591_001_Tit_1_0_4#2">Iſchguldimas</w>
+        <lb n="5" xml:id="BP_1591_001_Tit_1_0_5"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_5#1">Euangeliu</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_5#2">/</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_5#3">ſakamuiu</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_5#4">Baßnicʒoie</w>
-        <lb n="6" xml:id="BP_1591_001_Tit_1_1_0_6"/>
+        <w xml:id="BP_1591_001_Tit_1_0_5#1">Euangeliu</w>
+        <w xml:id="BP_1591_001_Tit_1_0_5#2">/</w>
+        <w xml:id="BP_1591_001_Tit_1_0_5#3">ſakamuiu</w>
+        <w xml:id="BP_1591_001_Tit_1_0_5#4">Baßnicʒoie</w>
+        <lb n="6" xml:id="BP_1591_001_Tit_1_0_6"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_6#1">Krikſchcʒioniſchkoie</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_6#2">/</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_6#3">nůg</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_6#4">Aduento</w>
-        <lb n="7" xml:id="BP_1591_001_Tit_1_1_0_7"/>
+        <w xml:id="BP_1591_001_Tit_1_0_6#1">Krikſchcʒioniſchkoie</w>
+        <w xml:id="BP_1591_001_Tit_1_0_6#2">/</w>
+        <w xml:id="BP_1591_001_Tit_1_0_6#3">nůg</w>
+        <w xml:id="BP_1591_001_Tit_1_0_6#4">Aduento</w>
+        <lb n="7" xml:id="BP_1591_001_Tit_1_0_7"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_7#1">ik</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_7#2">Wæliku</w>
-        <lb n="8" xml:id="BP_1591_001_Tit_1_1_0_8"/>
+        <w xml:id="BP_1591_001_Tit_1_0_7#1">ik</w>
+        <w xml:id="BP_1591_001_Tit_1_0_7#2">Wæliku</w>
+        <lb n="8" xml:id="BP_1591_001_Tit_1_0_8"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_8#1">Per</w>
-        <lb n="9" xml:id="BP_1591_001_Tit_1_1_0_9"/>
+        <w xml:id="BP_1591_001_Tit_1_0_8#1">Per</w>
+        <lb n="9" xml:id="BP_1591_001_Tit_1_0_9"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_9#1">Iana</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_9#2">Bretkuna</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_9#3">Lietuwos</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_9#4">Plebona</w>
-        <lb n="10" xml:id="BP_1591_001_Tit_1_1_0_10"/>
+        <w xml:id="BP_1591_001_Tit_1_0_9#1">Iana</w>
+        <w xml:id="BP_1591_001_Tit_1_0_9#2">Bretkuna</w>
+        <w xml:id="BP_1591_001_Tit_1_0_9#3">Lietuwos</w>
+        <w xml:id="BP_1591_001_Tit_1_0_9#4">Plebona</w>
+        <lb n="10" xml:id="BP_1591_001_Tit_1_0_10"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_10#1">Karaliaucʒiuie</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_10#2">Pruſůſu</w>
-        <lb n="11" xml:id="BP_1591_001_Tit_1_1_0_11"/>
+        <w xml:id="BP_1591_001_Tit_1_0_10#1">Karaliaucʒiuie</w>
+        <w xml:id="BP_1591_001_Tit_1_0_10#2">Pruſůſu</w>
+        <lb n="11" xml:id="BP_1591_001_Tit_1_0_11"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_11#1">Iſſpaude</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_11#2">Karaliaucʒiuie</w>
-        <lb n="12" xml:id="BP_1591_001_Tit_1_1_0_12"/>
+        <w xml:id="BP_1591_001_Tit_1_0_11#1">Iſſpaude</w>
+        <w xml:id="BP_1591_001_Tit_1_0_11#2">Karaliaucʒiuie</w>
+        <lb n="12" xml:id="BP_1591_001_Tit_1_0_12"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_12#1">Iurgis</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_12#2">Oſterbergeras</w>
-        <lb n="13" xml:id="BP_1591_001_Tit_1_1_0_13"/>
+        <w xml:id="BP_1591_001_Tit_1_0_12#1">Iurgis</w>
+        <w xml:id="BP_1591_001_Tit_1_0_12#2">Oſterbergeras</w>
+        <lb n="13" xml:id="BP_1591_001_Tit_1_0_13"/>
 
 
-        <w xml:id="BP_1591_001_Tit_1_1_0_13#1">Mæta</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_13#2">Pono</w>
-        <w xml:id="BP_1591_001_Tit_1_1_0_13#3">1591</w>
+        <w xml:id="BP_1591_001_Tit_1_0_13#1">Mæta</w>
+        <w xml:id="BP_1591_001_Tit_1_0_13#2">Pono</w>
+        <w xml:id="BP_1591_001_Tit_1_0_13#3">1591</w>
       </div>
     </body>
   </text>
