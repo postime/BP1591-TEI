@@ -694,7 +694,10 @@
 
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_334_1#1">pannai</w>
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_334_1#2">/</w>
-        <w xml:id="BP_1591_031_03_25_Annunc_Mar_334_1#3">inewieno</w>
+        <w xml:id="BP_1591_031_03_25_Annunc_Mar_334_1#3"><app>
+          <lem>newieno</lem>
+          <rdg>inewieno</rdg>
+        </app></w>
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_334_1#4">wiro</w>
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_334_1#5">nelitetai</w>
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_334_1#7">Neſa</w>
@@ -1962,7 +1965,10 @@
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_338_18#2">/</w>
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_338_18#3">ne</w>
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_338_18#4">iſch</w>
-        <w xml:id="BP_1591_031_03_25_Annunc_Mar_338_18#5">wiriſchkos</w>
+        <w xml:id="BP_1591_031_03_25_Annunc_Mar_338_18#5"><app>
+          <lem>wiriſchkos</lem>
+          <rdg>miriſchkos</rdg>
+        </app></w>
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_338_18#6">ſeklos</w>
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_338_18#7">/</w>
         <w xml:id="BP_1591_031_03_25_Annunc_Mar_338_18#8">net</w>

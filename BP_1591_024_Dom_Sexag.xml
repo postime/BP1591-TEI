@@ -63,7 +63,10 @@
         <w xml:id="BP_1591_024_Dom_Sexag_239_6#1">Iſcheia</w>
         <w xml:id="BP_1591_024_Dom_Sexag_239_6#2">ſæiæias</w>
         <w xml:id="BP_1591_024_Dom_Sexag_239_6#3">Sætu</w>
-        <w xml:id="BP_1591_024_Dom_Sexag_239_6#4">ſe<lb break="no"/>kla</w>
+        <w xml:id="BP_1591_024_Dom_Sexag_239_6#4"><app>
+          <lem>ſe<lb break="no"/>kla</lem>
+          <rdg>ſe<lb break="no"/>keli</rdg>
+        </app></w>
         <lb n="7" xml:id="BP_1591_024_Dom_Sexag_239_7"/>
 
 
@@ -78,7 +81,10 @@
         <lb n="8-9" xml:id="BP_1591_024_Dom_Sexag_239_8"/>
 
 
-        <w xml:id="BP_1591_024_Dom_Sexag_239_8#1">keli</w>
+        <w xml:id="BP_1591_024_Dom_Sexag_239_8#1"><app>
+          <lem>keli</lem>
+          <rdg>kla</rdg>
+        </app></w>
         <w xml:id="BP_1591_024_Dom_Sexag_239_8#2">ir</w>
         <w xml:id="BP_1591_024_Dom_Sexag_239_8#3">tapa</w>
         <w xml:id="BP_1591_024_Dom_Sexag_239_8#4">paminta</w>
@@ -121,7 +127,10 @@
         <w xml:id="BP_1591_024_Dom_Sexag_240_3#2">nekuri</w>
         <w xml:id="BP_1591_024_Dom_Sexag_240_3#3">pole</w>
         <w xml:id="BP_1591_024_Dom_Sexag_240_3#4">tarpu</w>
-        <w xml:id="BP_1591_024_Dom_Sexag_240_3#5">erſchkecʒiu</w>
+        <w xml:id="BP_1591_024_Dom_Sexag_240_3#5"><app>
+          <lem>erſchkecʒiu</lem>
+          <rdg>erſchkiecʒio</rdg>
+        </app></w>
         <w xml:id="BP_1591_024_Dom_Sexag_240_3#6">/</w>
         <w xml:id="BP_1591_024_Dom_Sexag_240_3#7">ir</w>
         <lb n="4" xml:id="BP_1591_024_Dom_Sexag_240_4"/>

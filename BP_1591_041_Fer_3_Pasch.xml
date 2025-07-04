@@ -2680,7 +2680,10 @@
         <w xml:id="BP_1591_041_Fer_3_Pasch_40_9#8">mana</w>
         <w xml:id="BP_1591_041_Fer_3_Pasch_40_9#9">akis</w>
         <w xml:id="BP_1591_041_Fer_3_Pasch_40_9#10">ghi</w>
-        <w xml:id="BP_1591_041_Fer_3_Pasch_40_9#11">iſch<lb break="no"/>wis</w><ref decls="biblical" cRef="bJOB1925-27"/></quote>
+        <app>
+          <lem><w xml:id="BP_1591_041_Fer_3_Pasch_40_9#11">iſch<lb break="no"/>wis</w></lem>
+          <rdg>iſch<lb break="no"/>win</rdg>
+        </app><ref decls="biblical" cRef="bJOB1925-27"/></quote>
 
         <lb n="10" xml:id="BP_1591_041_Fer_3_Pasch_40_10"/>
 

@@ -2702,7 +2702,10 @@
         <w xml:id="BP_1591_012_12_28_Puerorum_113_12#1">teipaieg</w>
         <w xml:id="BP_1591_012_12_28_Puerorum_113_12#2">ſaka</w>
         <w xml:id="BP_1591_012_12_28_Puerorum_113_12#3">penktame</w>
-        <w xml:id="BP_1591_012_12_28_Puerorum_113_12#4">priſakime</w>        
+        <w xml:id="BP_1591_012_12_28_Puerorum_113_12#4"><app>
+          <lem>priſakime</lem>
+          <rdg>priſkame</rdg>
+        </app></w>        
         <quote>
 
         <w xml:id="BP_1591_012_12_28_Puerorum_113_12#6">Ne</w>

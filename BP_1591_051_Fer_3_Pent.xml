@@ -1369,7 +1369,10 @@
 
 
         <w xml:id="BP_1591_051_Fer_3_Pent_164_19#1">kokio</w>
-        <w xml:id="BP_1591_051_Fer_3_Pent_164_19#2">praminta</w>
+        <w xml:id="BP_1591_051_Fer_3_Pent_164_19#2"><app>
+          <lem>pramanita</lem>
+          <rdg>praminta</rdg>
+        </app></w>
         <w xml:id="BP_1591_051_Fer_3_Pent_164_19#3">pamokſla</w>
         <w xml:id="BP_1591_051_Fer_3_Pent_164_19#5">Wagia</w>
         <w xml:id="BP_1591_051_Fer_3_Pent_164_19#6">potam</w>
@@ -2272,14 +2275,16 @@
         <lb n="25" xml:id="BP_1591_051_Fer_3_Pent_167_25"/>
 
 
-        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#1">Ant</w>
-        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#2">3</w>
-        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#3">Vredas</w>
-        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#4">alba</w>
-        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#5">darbas</w>
-        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#6">koßno</w>
-        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#7">gero</w>
-        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#8">plebono</w>
+        <app>
+        <lem><w xml:id="BP_1591_051_Fer_3_Pent_167_25#1">Wel</w></lem>
+        <rdg>Ant 3.</rdg>
+        </app>
+        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#2">Vredas</w>
+        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#3">alba</w>
+        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#4">darbas</w>
+        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#5">koßno</w>
+        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#6">gero</w>
+        <w xml:id="BP_1591_051_Fer_3_Pent_167_25#7">plebono</w>
         <lb n="26" xml:id="BP_1591_051_Fer_3_Pent_167_26"/>
 
 

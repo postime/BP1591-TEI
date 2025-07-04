@@ -221,7 +221,10 @@
         <lb n="15" xml:id="BP_1591_027_Dom_2_Quadr_278_15"/>
 
 
-        <w xml:id="BP_1591_027_Dom_2_Quadr_278_15#1">ſtalo</w>
+        <w xml:id="BP_1591_027_Dom_2_Quadr_278_15#1"><app>
+          <lem>ſtalo</lem>
+          <rdg>ſtolo</rdg>
+        </app></w>
         <w xml:id="BP_1591_027_Dom_2_Quadr_278_15#2">/</w>
         <w xml:id="BP_1591_027_Dom_2_Quadr_278_15#3">Tada</w>
         <w xml:id="BP_1591_027_Dom_2_Quadr_278_15#4">atſake</w>
@@ -1509,8 +1512,11 @@
         <lb n="12" xml:id="BP_1591_027_Dom_2_Quadr_283_12"/>
 
 
-        <w xml:id="BP_1591_027_Dom_2_Quadr_283_12#1">Ant</w>
-        <w xml:id="BP_1591_027_Dom_2_Quadr_283_12#2">Penkto</w>
+        <app>
+                <lem><w xml:id="BP_1591_027_Dom_2_Quadr_283_12#1">Ant</w>
+                <w xml:id="BP_1591_027_Dom_2_Quadr_283_12#2">Penkto.</w></lem>
+                <rdg>bet</rdg>
+        </app>
         <w xml:id="BP_1591_027_Dom_2_Quadr_283_12#4">galetu</w>
         <w xml:id="BP_1591_027_Dom_2_Quadr_283_12#5">ſchicʒe</w>
         <w xml:id="BP_1591_027_Dom_2_Quadr_283_12#6">wel</w>

@@ -1350,10 +1350,13 @@
         <w xml:id="BP_1591_039_Dom_Pasch_9_11#5">/</w>
         <w xml:id="BP_1591_039_Dom_Pasch_9_11#6">kaip</w>
         <w xml:id="BP_1591_039_Dom_Pasch_9_11#7">regim</w>
-        <w xml:id="BP_1591_039_Dom_Pasch_9_11#8">Gen</w>
-        <w xml:id="BP_1591_039_Dom_Pasch_9_11#9">19</w>
-        <w xml:id="BP_1591_039_Dom_Pasch_9_11#10">Iud</w>
-        <w xml:id="BP_1591_039_Dom_Pasch_9_11#11">13</w>
+        <app>
+        <lem>   <w xml:id="BP_1591_039_Dom_Pasch_9_11#8">Gen</w>
+                <w xml:id="BP_1591_039_Dom_Pasch_9_11#9">19</w>
+                <w xml:id="BP_1591_039_Dom_Pasch_9_11#10">Iud</w>
+                <w xml:id="BP_1591_039_Dom_Pasch_9_11#11">13</w></lem>
+        <rdg>Gen 21. Exod. 12.</rdg>
+        </app>
         <lb n="12" xml:id="BP_1591_039_Dom_Pasch_9_12"/>
 
 

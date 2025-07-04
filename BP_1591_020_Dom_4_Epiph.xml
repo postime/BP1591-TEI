@@ -1122,7 +1122,10 @@
         <w xml:id="BP_1591_020_Dom_4_Epiph_200_8#2">iůs</w>
         <w xml:id="BP_1591_020_Dom_4_Epiph_200_8#3">iſch</w>
         <w xml:id="BP_1591_020_Dom_4_Epiph_200_8#4">iu</w>
-        <w xml:id="BP_1591_020_Dom_4_Epiph_200_8#5">klapatos</w>
+        <w xml:id="BP_1591_020_Dom_4_Epiph_200_8#5"><app>
+          <lem>klapatos</lem>
+          <rdg>klaplatos</rdg>
+        </app></w>
         <w xml:id="BP_1591_020_Dom_4_Epiph_200_8#6">ir</w>
         <w xml:id="BP_1591_020_Dom_4_Epiph_200_8#7">nutjkin</w>
         <w xml:id="BP_1591_020_Dom_4_Epiph_200_8#8">wetra</w>
@@ -2013,7 +2016,10 @@
         <w xml:id="BP_1591_020_Dom_4_Epiph_203_12#6">/</w>
         <w xml:id="BP_1591_020_Dom_4_Epiph_203_12#7">beda</w>
         <w xml:id="BP_1591_020_Dom_4_Epiph_203_12#8">ant</w>
-        <w xml:id="BP_1591_020_Dom_4_Epiph_203_12#9">Iůriu</w>
+        <w xml:id="BP_1591_020_Dom_4_Epiph_203_12#9"><app>
+          <lem>Iůriu</lem>
+          <rdg>Iuiu</rdg>
+        </app></w>
         <lb n="13" xml:id="BP_1591_020_Dom_4_Epiph_203_13"/>
 
 

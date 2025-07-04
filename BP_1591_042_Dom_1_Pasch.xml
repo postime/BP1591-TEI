@@ -739,7 +739,10 @@
         <w xml:id="BP_1591_042_Dom_1_Pasch_45_11#3">ira</w>
         <w xml:id="BP_1591_042_Dom_1_Pasch_45_11#4">ſwieta</w>
         <w xml:id="BP_1591_042_Dom_1_Pasch_45_11#5">/</w>
-        <w xml:id="BP_1591_042_Dom_1_Pasch_45_11#6">Patriarchiai</w>
+        <w xml:id="BP_1591_042_Dom_1_Pasch_45_11#6"><app>
+          <lem>Patriarchai</lem>
+          <rdg>Patriarchia</rdg>
+        </app></w>
         <w xml:id="BP_1591_042_Dom_1_Pasch_45_11#7">/</w>
         <w xml:id="BP_1591_042_Dom_1_Pasch_45_11#8">Adam</w>
         <w xml:id="BP_1591_042_Dom_1_Pasch_45_11#9">/</w>

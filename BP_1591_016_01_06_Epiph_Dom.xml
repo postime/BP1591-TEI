@@ -2023,7 +2023,10 @@
         <lb n="15" xml:id="BP_1591_016_01_06_Epiph_Dom_157_15"/>
 
 
-        <w xml:id="BP_1591_016_01_06_Epiph_Dom_157_15#1">Palinkſminoghimai</w>
+        <w xml:id="BP_1591_016_01_06_Epiph_Dom_157_15#1"><app>
+          <lem>Palinkſminoghimai</lem>
+          <rdg>Palinkſminoghimi </rdg>
+        </app></w>
         <w xml:id="BP_1591_016_01_06_Epiph_Dom_157_15#2">iſch</w>
         <w xml:id="BP_1591_016_01_06_Epiph_Dom_157_15#3">ſcho</w>
         <w xml:id="BP_1591_016_01_06_Epiph_Dom_157_15#4">raſchto</w>

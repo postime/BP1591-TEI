@@ -1597,7 +1597,10 @@
         <w xml:id="BP_1591_023_Dom_Septuag_235_9#1">A</w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_9#2">galetu</w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_9#3">kas</w>
-        <w xml:id="BP_1591_023_Dom_Septuag_235_9#4">tarti</w>
+        <w xml:id="BP_1591_023_Dom_Septuag_235_9#4"><app>
+          <lem>tarti</lem>
+          <rdg>tartai</rdg>
+        </app></w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_9#5">kůriů</w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_9#6">budu</w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_9#7">Diewas</w>
@@ -1771,7 +1774,10 @@
         <w xml:id="BP_1591_023_Dom_Septuag_235_25#4">alga</w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_25#5">iemus</w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_25#6">gera</w>
-        <w xml:id="BP_1591_023_Dom_Septuag_235_25#7">ußmoka</w>        
+        <w xml:id="BP_1591_023_Dom_Septuag_235_25#7"><app>
+          <lem>ußmoka</lem>
+          <rdg>ußmeka</rdg>
+        </app></w>        
         <quote>
 
         <w xml:id="BP_1591_023_Dom_Septuag_235_25#9">O</w>
@@ -1801,6 +1807,7 @@
         <w xml:id="BP_1591_023_Dom_Septuag_235_27#3">/</w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_27#4">kacʒe</w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_27#5">ir</w>
+        <del>ir</del>
         <w xml:id="BP_1591_023_Dom_Septuag_235_27#6">maß</w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_27#7">dirbuſiam</w>
         <w xml:id="BP_1591_023_Dom_Septuag_235_27#8">/</w>

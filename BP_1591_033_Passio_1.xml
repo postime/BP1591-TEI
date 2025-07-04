@@ -436,7 +436,10 @@
         <w xml:id="BP_1591_033_Passio_1_357_11#7">bus</w>
         <w xml:id="BP_1591_033_Passio_1_357_11#8">ſakita</w>
         <w xml:id="BP_1591_033_Passio_1_357_11#9">/</w>
-        <w xml:id="BP_1591_033_Passio_1_357_11#10">ir</w>
+        <w xml:id="BP_1591_033_Passio_1_357_11#10"><app>
+          <lem>ir</lem>
+          <rdg>io</rdg>
+        </app></w>
         <lb n="12" xml:id="BP_1591_033_Passio_1_357_12"/>
 
 
@@ -796,7 +799,10 @@
 
         <w xml:id="BP_1591_033_Passio_1_358_14#1">Kelicha</w>
         <w xml:id="BP_1591_033_Passio_1_358_14#2">/</w>
-        <w xml:id="BP_1591_033_Passio_1_358_14#3">diekawoia</w>
+        <w xml:id="BP_1591_033_Passio_1_358_14#3"><app>
+          <lem>diekawoia</lem>
+          <rdg>diekawonia</rdg>
+        </app></w>
         <w xml:id="BP_1591_033_Passio_1_358_14#4">ir</w>
         <w xml:id="BP_1591_033_Passio_1_358_14#5">biloia</w>:
         <w xml:id="BP_1591_033_Passio_1_358_14#7">Eme</w>
@@ -4742,7 +4748,9 @@
         <w xml:id="BP_1591_033_Passio_1_373_7#7">nei</w>
         <w xml:id="BP_1591_033_Passio_1_373_7#8">gaidis</w>
         <w xml:id="BP_1591_033_Passio_1_373_7#9">du</w>
+        <add>
         <w xml:id="BP_1591_033_Passio_1_373_7#10">kartu</w>
+        </add>
         <lb n="8" xml:id="BP_1591_033_Passio_1_373_8"/>
 
 
@@ -4752,7 +4760,10 @@
         <w xml:id="BP_1591_033_Passio_1_373_8#4">mane</w>
         <w xml:id="BP_1591_033_Passio_1_373_8#5">tris</w>
         <w xml:id="BP_1591_033_Passio_1_373_8#6">kartus</w>
-        <w xml:id="BP_1591_033_Passio_1_373_8#7">uſigini</w><ref decls="biblical" cRef="bMAR14#72"/></quote>
+        <w xml:id="BP_1591_033_Passio_1_373_8#7"><app>
+          <lem>uſſiginſi</lem>
+          <rdg>uſigini</rdg>
+        </app></w><ref decls="biblical" cRef="bMAR14#72"/></quote>
 .        
         <quote>
 
@@ -5742,7 +5753,10 @@
 
 
         <w xml:id="BP_1591_033_Passio_1_376_19#1">ßmones</w>
-        <w xml:id="BP_1591_033_Passio_1_376_19#2">perkraipianti</w>
+        <w xml:id="BP_1591_033_Passio_1_376_19#2"><app>
+          <lem>perkraipianti</lem>
+          <rdg>perkaipenti</rdg>
+        </app></w>
         <w xml:id="BP_1591_033_Passio_1_376_19#3">/</w>
         <w xml:id="BP_1591_033_Passio_1_376_19#4">ir</w>
         <w xml:id="BP_1591_033_Passio_1_376_19#5">ußſakanti</w>
@@ -6263,7 +6277,10 @@
         <w xml:id="BP_1591_033_Passio_1_379_5#1">atwedet</w>
         <w xml:id="BP_1591_033_Passio_1_379_5#2">kaip</w>
         <w xml:id="BP_1591_033_Passio_1_379_5#3">kuris</w>
-        <w xml:id="BP_1591_033_Passio_1_379_5#4">iſchkraipie</w>
+        <w xml:id="BP_1591_033_Passio_1_379_5#4"><app>
+          <lem>iſchkraipie</lem>
+          <rdg>iſchkaipie</rdg>
+        </app></w>
         <w xml:id="BP_1591_033_Passio_1_379_5#5">ſwieta</w>
         <w xml:id="BP_1591_033_Passio_1_379_5#6">/</w>
         <w xml:id="BP_1591_033_Passio_1_379_5#7">ſchiſkat</w>
@@ -7160,7 +7177,10 @@
         <w xml:id="BP_1591_033_Passio_1_384_16#2">Weliku</w>
         <w xml:id="BP_1591_033_Passio_1_384_16#3">/</w>
         <w xml:id="BP_1591_033_Passio_1_384_16#4">ir</w>
-        <w xml:id="BP_1591_033_Passio_1_384_16#5">weikei</w>
+        <w xml:id="BP_1591_033_Passio_1_384_16#5"><app>
+          <lem>weikei</lem>
+          <rdg>wekiei</rdg>
+        </app></w>
         <w xml:id="BP_1591_033_Passio_1_384_16#6">ſcheſta</w>
         <w xml:id="BP_1591_033_Passio_1_384_16#7">hadina</w>
         <w xml:id="BP_1591_033_Passio_1_384_16#8">/</w>

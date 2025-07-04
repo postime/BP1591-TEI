@@ -405,7 +405,10 @@
 
         <w xml:id="BP_1591_025_Dom_Quinquag_253_17#1">Antroie</w>
         <w xml:id="BP_1591_025_Dom_Quinquag_253_17#2">dalije</w>
-        <w xml:id="BP_1591_025_Dom_Quinquag_253_17#3">raſcha</w>
+        <w xml:id="BP_1591_025_Dom_Quinquag_253_17#3"><app>
+          <lem>raſcha</lem>
+          <rdg>iſraſcha</rdg>
+        </app></w>
         <w xml:id="BP_1591_025_Dom_Quinquag_253_17#4">taſiau</w>
         <w xml:id="BP_1591_025_Dom_Quinquag_253_17#5">Euangeliſta</w>
         <w xml:id="BP_1591_025_Dom_Quinquag_253_17#6">didi</w>
